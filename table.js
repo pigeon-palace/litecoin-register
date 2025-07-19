@@ -47,7 +47,7 @@ async function fetchData(filename) {
         .then(response => response.json()) // Parse JSON
         .then(result => table.rows.add(result).draw()) // Parse JSON
         .catch(error => console.error('Error fetching JSON:', error));
-    return response,;
+    return response;
 }
 
 async function load() {
