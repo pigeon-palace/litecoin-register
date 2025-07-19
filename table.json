@@ -1,0 +1,32 @@
+[
+{
+    "short": "NASDAQ: MEIP",
+    "name": "MEI Pharma",
+    "type": "public-company",
+    "country": "United States",
+    "amount":  1000000,
+    "source": "https://litecoin.com/news/100-million-litecoin-treasury",
+    "data": [
+        {
+            "amount": 1000000,
+            "source": "https://litecoin.com/news/100-million-litecoin-treasury",
+            "date": "July 17, 2025"
+        }
+    ]
+},
+{
+    "short": "CSE: LUXX",
+    "name": "Luxxfolio Holdings",
+    "type": "public-company",
+    "country": "Canada",
+    "amount":  20084,
+    "source": "https://x.com/LuxxfolioH/status/1945814003395317941",
+    "data": [
+        {
+            "amount": 20084,
+            "source": "https://x.com/LuxxfolioH/status/1945814003395317941",
+            "date": "July 17, 2025"
+        }
+    ]
+}
+]
