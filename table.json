@@ -30,5 +30,21 @@
                 "date": "July 17, 2025"
             }
         ]
+    },
+    {
+        "short": "cbLTC",
+        "name": {
+            "name": "Coinbase Wrapped Assets", 
+            "homepage": "https://www.coinbase.com/campaigns/wrapped-assets"
+        },
+        "type": "defi",
+        "country": "United States",
+        "amount":  [
+            {
+                "amount": 21332,
+                "source": "https://basescan.org/token/0xcb17C9Db87B595717C857a08468793f5bAb6445F",
+                "date": "July 19, 2025"
+            }
+        ]
     }
 ]
