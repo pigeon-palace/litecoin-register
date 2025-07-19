@@ -62,7 +62,10 @@ var price;
 async function fetchData(filename) { 
     const priceResponse = await fetch("https://api.coingecko.com/api/v3/simple/price?vs_currencies=usd&ids=litecoin")
         .then(response => response.json()) // Parse JSON
-        .then(result => {price = result['litecoin']['usd'];}) // Parse JSON
+        .then(result => {
+            price = result['litecoin']['usd'];
+            document.getElementById("price-span").textContent="1 LTC = " + price + " USD";
+        }) // Parse JSON
         .catch(error => console.error('Error fetching price JSON:', error));
     const response = await fetch("table.json")
         .then(response => response.json()) // Parse JSON
@@ -73,6 +76,7 @@ async function fetchData(filename) {
 
 async function load() {
     const result = fetchData();
+    ;
 }
 
 load(); 
