@@ -103,7 +103,7 @@
 :root {
   --body-color: hsl(0, 5%, 10%);
   --body-bg-color: hsl(210, 20%, 98%);
-  --link-visited: hsl(210, 100%, 66%);
+  --link-visited: hsl(210, 100%, 33%);
   --link-focus-outline: hsl(220, 90%, 52%);
   --pre-bg-color: hsl(210, 28%, 93%);
   --kbd-bg-color: hsl(210, 5%, 100%);
@@ -188,8 +188,7 @@ body.libertinus {
 body {
   font-family: 'Latin Modern', Georgia, Cambria, 'Times New Roman', Times, serif;
   line-height: 1.8;
-
-  max-width: 80ch;
+  max-width: 80%;
   min-height: 100vh;
   overflow-x: hidden;
   margin: 0 auto;
