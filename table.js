@@ -42,7 +42,7 @@ var table = new DataTable('#example', {
     order: [4, "desc"]
 })
 
-async function fetchData(filename) {
+async function fetchData(filename) { 
     const response = await fetch("table.json")
         .then(response => response.json()) // Parse JSON
         .then(result => table.rows.add(result).draw()) // Parse JSON
