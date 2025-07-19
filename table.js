@@ -23,7 +23,7 @@ var table = new DataTable('#example', {
         },
         {"title": "Country", data: "country"},
         {
-            "title": "Amount", 
+            "title": "Amount (LTC)", 
             data: "amount",
             render: function (data, type) {
                 if (type === 'display') {
@@ -42,16 +42,18 @@ var table = new DataTable('#example', {
     order: [4, "desc"]
 })
 
+var price;
+
 async function fetchData(filename) {
     const response = await fetch("table.json")
         .then(response => response.json()) // Parse JSON
         .then(result => table.rows.add(result).draw()) // Parse JSON
         .catch(error => console.error('Error fetching JSON:', error));
-    return response;
+    return [response, priceResponse];
 }
 
 async function load() {
     const result = fetchData();
 }
 
-load();
+load(); 
