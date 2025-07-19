@@ -38,7 +38,7 @@
             "homepage": "https://www.coinbase.com/campaigns/wrapped-assets"
         },
         "type": "defi",
-        "country": null,
+        "country": "#N/A",
         "amount":  [
             {
                 "amount": 21332,
@@ -54,12 +54,28 @@
             "homepage": "https://litecoin.com/projects/mweb"
         },
         "type": "sidechain",
-        "country": null,
+        "country": "#N/A",
         "amount":  [
             {
                 "amount": 158110,
                 "source": "https://www.mwebexplorer.com/charts/mwebbalance",
                 "date": "July 19, 2025"
+            }
+        ]
+    },
+    {
+        "short": "OTC: LTCN",
+        "name": {
+            "name": "Grayscale Litecoin Trust", 
+            "homepage": "https://www.grayscale.com/funds/grayscale-litecoin-trust"
+        },
+        "type": "publicly-traded-fund",
+        "country": "United States",
+        "amount":  [
+            {
+                "amount": 2016418,
+                "source": "https://www.grayscale.com/funds/grayscale-litecoin-trust?public#performance",
+                "date": "July 18, 2025"
             }
         ]
     }
