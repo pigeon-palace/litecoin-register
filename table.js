@@ -30,25 +30,35 @@ var table = new DataTable('#example', {
         {"title": "Country", data: "country"},
         {
             "title": "Amount (LTC)", 
-            data: "amount",
+            data: "events",
             render: function (data, type) {
                 if (type === 'display') {
-                    return '<a href="' + data[0]["source"] + '">' + data[0]["amount"].toLocaleString(
+                    if(data[0]['approx']){
+                        prefix = "~";
+                    } else {
+                        prefix = "";
+                    }
+                    return '<a href="' + data[0]["source"] + '">' + prefix + data[0]["amount"].toLocaleString(
                                               undefined, // leave undefined to use the visitor's browser 
                                                          // locale or a string like 'en-US' to override it.
                                               { minimumFractionDigits: 2 }
-                                            ); + '</a>';
+                                            ) + '</a>';
                 }
- 
+                
                 return data[0]["amount"];
             }
         },
         {
             "title": "Amount (USD)", 
-            data: "amount",
+            data: "events",
             render: function (data, type) {
                 if (type === 'display') {
-                    return (price * data[0]["amount"]).toLocaleString(
+                    if(data[0]['approx']){
+                        prefix = "~";
+                    } else {
+                        prefix = "";
+                    }
+                    return prefix + (price * data[0]["amount"]).toLocaleString(
                                               undefined, // leave undefined to use the visitor's browser 
                                                          // locale or a string like 'en-US' to override it.
                                               { minimumFractionDigits: 2 }

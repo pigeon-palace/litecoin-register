@@ -7,11 +7,12 @@
         },
         "type": "public-company",
         "country": "United States",
-        "amount":  [
+        "events":  [
             {
                 "amount": 1000000, 
                 "source": "https://litecoin.com/news/100-million-litecoin-treasury", 
-                "date": "July 17, 2025"
+                "date": "July 17, 2025",
+                "approx": true
             }
         ]
     },
@@ -23,11 +24,12 @@
         },
         "type": "public-company",
         "country": "Canada",
-        "amount":  [
+        "events":  [
             {
                 "amount": 20084,
                 "source": "https://x.com/LuxxfolioH/status/1945814003395317941",
-                "date": "July 17, 2025"
+                "date": "July 17, 2025",
+                "approx": false
             }
         ]
     },
@@ -39,11 +41,12 @@
         },
         "type": "defi",
         "country": "#N/A",
-        "amount":  [
+        "events":  [
             {
                 "amount": 21332,
                 "source": "https://basescan.org/token/0xcb17C9Db87B595717C857a08468793f5bAb6445F",
-                "date": "July 19, 2025"
+                "date": "July 19, 2025",
+                "approx": false
             }
         ]
     },
@@ -55,11 +58,12 @@
         },
         "type": "sidechain",
         "country": "#N/A",
-        "amount":  [
+        "events":  [
             {
                 "amount": 158110,
                 "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-                "date": "July 19, 2025"
+                "date": "July 19, 2025",
+                "approx": false
             }
         ]
     },
@@ -71,11 +75,12 @@
         },
         "type": "publicly-traded-fund",
         "country": "United States",
-        "amount":  [
+        "events":  [
             {
                 "amount": 2016418,
                 "source": "https://www.grayscale.com/funds/grayscale-litecoin-trust?public#performance",
-                "date": "July 18, 2025"
+                "date": "July 18, 2025",
+                "approx": false
             }
         ]
     }
