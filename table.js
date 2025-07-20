@@ -97,7 +97,10 @@ async function fetchData(filename) {
             price = result['litecoin']['usd'];
             document.getElementById("price-span").textContent="1 LTC = " + price + " USD (Powered by CoinGecko)";
         }) // Parse JSON
-        .catch(error => console.error('Error fetching price JSON:', error));
+        .catch(error => {
+            console.error('Error fetching price JSON:', error);
+            document.getElementById("price-span").textContent="Error fetching price information.";
+        });
     const response = await fetch("table.json")
         .then(response => response.json()) // Parse JSON
         .then(result => table.rows.add(result).draw()) // Parse JSON
