@@ -1,6 +1,12 @@
 var dataSet = [];
 
 var table = new DataTable('#example', {
+    columnDefs: [
+        {
+            target: 5,
+            visible: false
+        }
+    ],
      columns: [
         {
             "title": "Short", 
@@ -42,17 +48,42 @@ var table = new DataTable('#example', {
             data: "amount",
             render: function (data, type) {
                 if (type === 'display') {
-                    return '<a href="' + data[0]["source"] + '">$' + (price * data[0]["amount"]).toLocaleString(
+                    return (price * data[0]["amount"]).toLocaleString(
                                               undefined, // leave undefined to use the visitor's browser 
                                                          // locale or a string like 'en-US' to override it.
                                               { minimumFractionDigits: 2 }
-                                            ); + '</a>';
+                                            );
                 }
  
                 return data[0]["amount"];
             }
         }
-    ],
+    ],    
+    layout: {
+        topStart: {      
+            buttons: [
+                'columnsToggle'
+            ]
+        },
+        bottomStart: {
+            buttons: [
+                {
+                    extend: 'collection',
+                    text: 'Export',
+                    buttons: ['copy', 'excel', 'csv', 'pdf', 'print']
+                }
+            ]
+        },
+        bottomEnd: {   
+            info: {
+                text: 'Table display: _START_ to _END_ of _TOTAL_ records'
+            },        
+            pageLength: {
+                menu: [5, 10, 25, 50, -1]
+            },
+            paging: {}
+        }
+    },
     data: dataSet,
     order: [4, "desc"]
 })
