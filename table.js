@@ -91,10 +91,10 @@ var table = new DataTable('#example', {
         }
     ],    
     layout: {
-        topStart: {       
-            info: {
-                text: 'Table display: _START_ to _END_ of _TOTAL_ records'
-            }      
+        topStart: {   
+            pageLength: {
+                menu: [5, 10, 25, 50, -1]
+            }
         },
         bottomStart: {
             buttons: [
@@ -105,10 +105,10 @@ var table = new DataTable('#example', {
                 }
             ]
         },
-        bottomEnd: {  
-            pageLength: {
-                menu: [5, 10, 25, 50, -1]
-            },
+        bottomEnd: {      
+            info: {
+                text: 'Table display: _START_ to _END_ of _TOTAL_ records'
+            },      
             paging: {}
         }
     },
