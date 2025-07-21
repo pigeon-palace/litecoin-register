@@ -22,14 +22,7 @@ var table = new DataTable('#example', {
      columns: [
         {
             "title": "Rank", 
-            data: "short",
-            render: function (data, type) {
-                if (type === 'display') {
-                    return rank[data];
-                }
- 
-                return data;
-            },
+            data: "rank",
             width: "4ch",
             responsivePriority: 3
         },
@@ -147,7 +140,7 @@ async function fetchData(filename) {
         .then(result => {
             result.sort(function(a, b){ return b['events'][0]["amount"] - a['events'][0]["amount"]});
             for(var i = 0; i < result.length; i++ ){
-                rank[result[i]['short']] = i + 1;
+                result[i]['rank'] = i + 1;
             };
             table.rows.add(result).draw();
         }) // Parse JSON
