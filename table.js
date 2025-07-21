@@ -1,16 +1,27 @@
 var dataSet = [];
+var price;
+var rank = {};
 
 var table = new DataTable('#example', {
-    columnDefs: [
-        {
-            target: 5,
-            visible: false
-        }
-    ],
+    responsive: true,
      columns: [
         {
+            "title": "Rank", 
+            data: "short",
+            render: function (data, type) {
+                if (type === 'display') {
+                    return rank[data];
+                }
+ 
+                return data;
+            },
+            width: "4ch",
+            responsivePriority: 3
+        },
+        {
             "title": "Short", 
-            data: "short"
+            data: "short",
+            responsivePriority: 6
         },
         {
             "title": "Name", 
@@ -21,13 +32,19 @@ var table = new DataTable('#example', {
                 }
  
                 return data["name"];
-            }
+            },
+            responsivePriority: 2
         },
         {
             "title": "Type", 
-            data: "type"
+            data: "type",
+            responsivePriority: 5
         },
-        {"title": "Country", data: "country"},
+        {
+            "title": "Country", 
+            data: "country",
+            responsivePriority: 7
+        },
         {
             "title": "Amount (LTC)", 
             data: "events",
@@ -46,7 +63,9 @@ var table = new DataTable('#example', {
                 }
                 
                 return data[0]["amount"];
-            }
+            },
+            width: "12ch",
+            responsivePriority: 1
         },
         {
             "title": "Amount (USD)", 
@@ -66,14 +85,16 @@ var table = new DataTable('#example', {
                 }
  
                 return data[0]["amount"];
-            }
+            },
+            width: "12ch",
+            responsivePriority: 4
         }
     ],    
     layout: {
-        topStart: {      
-            buttons: [
-                'columnsToggle'
-            ]
+        topStart: {       
+            info: {
+                text: 'Table display: _START_ to _END_ of _TOTAL_ records'
+            }      
         },
         bottomStart: {
             buttons: [
@@ -84,10 +105,7 @@ var table = new DataTable('#example', {
                 }
             ]
         },
-        bottomEnd: {   
-            info: {
-                text: 'Table display: _START_ to _END_ of _TOTAL_ records'
-            },        
+        bottomEnd: {  
             pageLength: {
                 menu: [5, 10, 25, 50, -1]
             },
@@ -95,10 +113,8 @@ var table = new DataTable('#example', {
         }
     },
     data: dataSet,
-    order: [4, "desc"]
+    order: [5, "desc"]
 })
-
-var price;
 
 async function fetchData(filename) { 
     const priceResponse = await fetch("https://api.coingecko.com/api/v3/simple/price?vs_currencies=usd&ids=litecoin")
@@ -113,14 +129,19 @@ async function fetchData(filename) {
         });
     const response = await fetch("table.json")
         .then(response => response.json()) // Parse JSON
-        .then(result => table.rows.add(result).draw()) // Parse JSON
+        .then(result => {
+            result.sort(function(a, b){ return b['events'][0]["amount"] - a['events'][0]["amount"]});
+            for(var i = 0; i < result.length; i++ ){
+                rank[result[i]['short']] = i + 1;
+            };
+            table.rows.add(result).draw();
+        }) // Parse JSON
         .catch(error => console.error('Error fetching JSON:', error));
     return [response, priceResponse];
 }
 
 async function load() {
     const result = fetchData();
-    ;
 }
 
 load(); 
