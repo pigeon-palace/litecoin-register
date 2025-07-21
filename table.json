@@ -49,9 +49,9 @@
         "country": "#N/A",
         "events":  [
             {
-                "amount": 21332,
-                "source": "https://basescan.org/token/0xcb17C9Db87B595717C857a08468793f5bAb6445F",
-                "date": "July 19, 2025",
+                "amount": 21716.83680761,
+                "source": "https://basescan.org/tokencheck-tool?t=0xcb17c9db87b595717c857a08468793f5bab6445f",
+                "date": "July 17, 2025",
                 "approx": false
             }
         ]
@@ -96,7 +96,7 @@
         "events":  [
             {
                 "amount": 2031529.11455509,
-                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017025062759/ltcn-20250331.htm",
+                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017025062759/ltcn-20250331.htm#fact-identifier-190",
                 "date": "March 31, 2025",
                 "approx": false
             },
