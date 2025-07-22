@@ -66,7 +66,7 @@ var table = new DataTable('#example', {
                     return '<a href="' + data[0]["source"] + '">' + prefix + data[0]["amount"].toLocaleString(
                                               undefined, // leave undefined to use the visitor's browser 
                                                          // locale or a string like 'en-US' to override it.
-                                              { minimumFractionDigits: 2 }
+                                              { minimumFractionDigits: 2, maximumFractionDigits: 2 }
                                             ) + '</a>';
                 }
                 
@@ -88,7 +88,7 @@ var table = new DataTable('#example', {
                     return prefix + (price * data[0]["amount"]).toLocaleString(
                                               undefined, // leave undefined to use the visitor's browser 
                                                          // locale or a string like 'en-US' to override it.
-                                              { minimumFractionDigits: 2 }
+                                              { minimumFractionDigits: 2, maximumFractionDigits: 2 }
                                             );
                 }
  
