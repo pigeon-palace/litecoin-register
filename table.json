@@ -17,6 +17,23 @@
         ]
     },
     {
+        "short": "OTC: BITW",
+        "name": {
+            "name": "Bitwise 10 Crypto Index Fund", 
+            "homepage": "https://bitwiseinvestments.com/crypto-funds/bitw"
+        },
+        "type": "publicly-traded-fund",
+        "country": "United States",
+        "events":  [
+            {
+                "amount": 40872.6900, 
+                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1723788/000095017025068782/bitw-20250331.htm#fact-identifier-119", 
+                "date": "March 31, 2025",
+                "approx": false
+            }
+        ]
+    },
+    {
         "short": "CSE: LUXX",
         "name": {
             "name": "Luxxfolio Holdings", 
