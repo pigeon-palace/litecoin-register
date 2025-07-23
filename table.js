@@ -29,6 +29,7 @@ var table = new DataTable('#example', {
         {
             "title": "Short", 
             data: "short",
+            width: "12ch",
             responsivePriority: 6
         },
         {
