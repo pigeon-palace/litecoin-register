@@ -30,6 +30,24 @@
                 "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1723788/000095017025068782/bitw-20250331.htm#fact-identifier-119", 
                 "date": "March 31, 2025",
                 "approx": false
+            },
+            {
+                "amount": 41406.8896, 
+                "source": "https://www.sec.gov/cgi-bin/viewer?action=view&cik=1723788&accession_number=0000950170-24-058599&xbrl_type=v#", 
+                "date": "March 31, 2024",
+                "approx": false
+            },
+            {
+                "amount": 43885.6614, 
+                "source": "https://www.sec.gov/cgi-bin/viewer?action=view&cik=1723788&accession_number=0000950170-23-022083&xbrl_type=v#", 
+                "date": "March 31, 2023",
+                "approx": false
+            },
+            {
+                "amount": 44960.6783, 
+                "source": "https://www.sec.gov/cgi-bin/viewer?action=view&cik=1723788&accession_number=0000950170-22-009256&xbrl_type=v#", 
+                "date": "March 31, 2022",
+                "approx": false
             }
         ]
     },
