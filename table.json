@@ -84,9 +84,9 @@
         "country": "United States",
         "events":  [
             {
-                "amount": 21716.83680761,
+                "amount": 18369.03911096,
                 "source": "https://basescan.org/tokencheck-tool?t=0xcb17c9db87b595717c857a08468793f5bab6445f",
-                "date": "July 17, 2025",
+                "date": "July 19, 2025",
                 "approx": false
             }
         ]
