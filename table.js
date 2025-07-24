@@ -13,9 +13,8 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 */
-var dataSet = [];
+
 var price;
-var rank = {};
 
 var table = new DataTable('#example', {
     responsive: true,
@@ -117,22 +116,23 @@ var table = new DataTable('#example', {
             paging: {}
         }
     },
-    data: dataSet,
     order: [5, "desc"]
 })
 
-async function fetchData(filename) { 
+async function load() {
+
     const priceResponse = await fetch("https://api.coingecko.com/api/v3/simple/price?vs_currencies=usd&ids=litecoin")
         .then(response => response.json()) // Parse JSON
         .then(result => {
             price = result['litecoin']['usd'];
             document.getElementById("price-span").textContent="1 LTC = " + price + " USD (Powered by CoinGecko)";
-        }) // Parse JSON
+        })
         .catch(error => {
             console.error('Error fetching price JSON:', error);
             document.getElementById("price-span").textContent="Error fetching price information.";
         });
-    const response = await fetch("table.json")
+        
+    const tableResponse = await fetch("table.json")
         .then(response => response.json()) // Parse JSON
         .then(result => {
             result.sort(function(a, b){ return b['events'][0]["amount"] - a['events'][0]["amount"]});
@@ -140,13 +140,9 @@ async function fetchData(filename) {
                 result[i]['rank'] = i + 1;
             };
             table.rows.add(result).draw();
-        }) // Parse JSON
+        })
         .catch(error => console.error('Error fetching JSON:', error));
-    return [response, priceResponse];
-}
-
-async function load() {
-    const result = await fetchData();
+        
     table.responsive.rebuild();
     table.responsive.recalc();
 }
