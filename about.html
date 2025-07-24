@@ -23,28 +23,39 @@ Copyright 2025 litecoinregister.com Developers
     <link rel="icon" href="favicon.png">
     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
     <link rel="stylesheet" href="https://cdn.datatables.net/2.3.2/css/dataTables.dataTables.css">
-    <link rel="stylesheet" href="https://cdn.datatables.net/scroller/2.4.3/css/scroller.dataTables.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/buttons/3.2.4/css/buttons.dataTables.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/responsive/3.0.5/css/responsive.dataTables.min.css">
+    <link rel="stylesheet" href="style.css">
     <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
     <script src="https://cdn.datatables.net/2.3.2/js/dataTables.js"></script>
-    <script src="https://cdn.datatables.net/scroller/2.4.3/js/dataTables.scroller.js"></script>
-    <script src="https://cdn.datatables.net/scroller/2.4.3/js/scroller.dataTables.js"></script>
+    <script src="https://cdn.datatables.net/buttons/3.2.4/js/dataTables.buttons.js"></script>
+    <script src="https://cdn.datatables.net/buttons/3.2.4/js/buttons.dataTables.js"></script>
+    <script src="https://cdn.datatables.net/buttons/3.2.4/js/buttons.html5.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/3.2.4/js/buttons.print.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/3.2.4/js/buttons.colVis.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/pdfmake.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdfmake/0.2.7/vfs_fonts.js"></script>
+    <script src="https://cdn.datatables.net/responsive/3.0.5/js/dataTables.responsive.min.js"></script>
 </head>
-<body>
-   <header>
-<div>
-  <a href="index.html">Home</a>
-  <a href="about.html">About</a>
-  <a href="https://github.com/pigeon-palace/litecoin-register">Source Code</a> 
-</div> 
-   </header>
-<h1>Litecoin Treasury Holdings</h1>
-<h3>LitecoinRegister.com: Your Ultimate Litecoin Treasury Data Hub</h3>
 
+<body>
+<header>
+  <h1>Litecoin Treasury Holdings</h1>
+  <p style="max-width: 80ch;">Companies with Litecoin Holdings. Top Public, Private, DeFi, and Government LTC holders.</p>
+  <div>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="https://github.com/pigeon-palace/litecoin-register">Source Code</a> 
+  </div> 
+</header>
+<h1>About</h1>
 <p>LitecoinRegister.com is the premier source for comprehensive data on Litecoin holdings by public companies, private entities, and governments. As one of the most cited websites in financial publications, we provide trusted, up-to-date information that financial leaders and investors rely on. Whether you’re an analyst, investor, or crypto enthusiast, our platform offers essential insights into the world of Litecoin treasuries.</p>
 <!--<p>Our data has been featured in articles by Investopedia, River, Investing News, Seeking Alpha, CriptoNoticias, Blocktrainer, CCN, CoinDesk, Yahoo Finance, BizNews, The Street, RBC, Bitcoin Magazine, and The New York Times.</p> -->
-<div>
-  <p>Last Update: 07/19/2025</p>
-  <p>Copyright 2025 litecoinregister.com Developers</p> 
+<div style="display: flex; justify-content: space-around;">
+  <span id="price-span"></span>
+  <span>Last Update: 07/19/2025</span>
+  <span>Copyright 2025 litecoinregister.com Developers</span> 
 </div> 
 </body>
 </html>

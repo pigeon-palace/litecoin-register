@@ -23,13 +23,11 @@ var table = new DataTable('#example', {
         {
             "title": "Rank", 
             data: "rank",
-            width: "4ch",
             responsivePriority: 3
         },
         {
             "title": "Short", 
             data: "short",
-            width: "15ch",
             responsivePriority: 6
         },
         {
@@ -73,7 +71,6 @@ var table = new DataTable('#example', {
                 
                 return data[0]["amount"];
             },
-            width: "12ch",
             responsivePriority: 1
         },
         {
@@ -95,7 +92,6 @@ var table = new DataTable('#example', {
  
                 return data[0]["amount"];
             },
-            width: "12ch",
             responsivePriority: 4
         }
     ],    
@@ -150,7 +146,9 @@ async function fetchData(filename) {
 }
 
 async function load() {
-    const result = fetchData();
+    const result = await fetchData();
+    table.responsive.rebuild();
+    table.responsive.recalc();
 }
 
 load(); 
