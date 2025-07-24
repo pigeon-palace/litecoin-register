@@ -18,6 +18,12 @@ var price;
 
 var table = new DataTable('#example', {
     responsive: true,
+    columnDefs: [
+        {
+            targets: 1,
+            className: 'noVis'
+        }
+    ],
      columns: [
         {
             "title": "Rank", 
@@ -96,10 +102,19 @@ var table = new DataTable('#example', {
     ],    
     layout: {
         topStart: {   
+            buttons: [
+                {            
+                    text: 'Columns',
+                    extend: 'colvis',
+                    columns: ':not(.noVis)',
+                    popoverTitle: 'Column visibility selector'
+                }
+            ],
             pageLength: {
                 menu: [5, 10, 25, 50, -1]
             }
-        },
+        },        
+        topEnd: "search",
         bottomStart: {
             buttons: [
                 {
