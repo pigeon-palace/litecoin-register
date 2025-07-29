@@ -24,8 +24,8 @@ Copyright 2025 litecoinregister.com Developers
     <link rel="icon" href="favicon.png">
     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
     <link rel="stylesheet" href="style.css">
-    {{ extra_styles }}
-    {{ javascript }}
+    {% include {{ extra_styles }} %}
+    {% include {{ javascript }} %}
 </head>
 <body>
 <header>
