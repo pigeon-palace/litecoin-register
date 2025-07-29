@@ -41,9 +41,7 @@ Copyright 2025 litecoinregister.com Developers
     <a href="https://github.com/pigeon-palace/litecoin-register">Source Code</a> 
   </div> 
 </header>
-<section>
   {{ content }}
-</section>
 <footer>
 <div>
   <span id="price-span"></span></br>
@@ -52,4 +50,7 @@ Copyright 2025 litecoinregister.com Developers
 </div> 
 </footer>
 </body>
+ {% if page.javascript_post_hook %}
+    {% include {{ page.javascript_post_hook }} %}
+ {% endif %}
 </html>
