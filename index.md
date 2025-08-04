@@ -6,3 +6,8 @@ javascript_post_hook: table_inject.html
 ---
 
 <table id="example" class="display"></table>
+
+<div>
+    <canvas id="stackedLineChartID">
+    </canvas>
+</div>
