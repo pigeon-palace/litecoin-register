@@ -11,3 +11,8 @@ javascript_post_hook: table_inject.html
     <canvas id="stackedLineChartID">
     </canvas>
 </div>
+
+<div>
+    <canvas id="pieChartID">
+    </canvas>
+</div>
