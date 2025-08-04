@@ -15,6 +15,7 @@
 */
 
 var price;
+var data;
 
 var table = new DataTable('#example', {
     responsive: true,
@@ -147,9 +148,13 @@ async function load() {
             document.getElementById("price-span").textContent="Error fetching price information.";
         });
         
-    const tableResponse = await fetch("table.json")
-        .then(response => response.json()) // Parse JSON
-        .then(result => {
+        const tableResponse = await fetch("table.json")
+            .then(response => response.json()) // Parse JSON
+            .then(response_json => {
+                data = response_json;
+                return response_json;
+            }) // Parse JSON
+            .then(result => {
             result.sort(function(a, b){ return b['events'][0]["amount"] - a['events'][0]["amount"]});
             for(var i = 0; i < result.length; i++ ){
                 result[i]['rank'] = i + 1;
@@ -160,6 +165,87 @@ async function load() {
         
     table.responsive.rebuild();
     table.responsive.recalc();
+    
+    // stacked area chart.
+        data.sort(function(a, b){ return b['events'][0]["amount"] - a['events'][0]["amount"]});
+        var labels = [];
+        var datasets = [];
+        var min_year = null;
+        var max_year = null;
+        for(var i = 0; i < data.length; i++ ){
+            for(var j = 0; j < data[i]['events'].length; j++ ){
+                const last = new Date(data[i]['events'][j]["date"]).getFullYear();
+                if(min_year == null || last < min_year){
+                    min_year = last;
+                }
+                if(max_year == null || last > max_year){
+                    max_year = last;
+                }
+            };
+        };
+        for(var j = min_year; j <= max_year; j++){
+            labels.push(j);
+        }
+        for(var i = 0; i < data.length; i++ ){
+            var dataset_push = {label: data[i]['name']['name'], fill: 'stack'};
+            var dataset_push_data = [];
+            for(var j = min_year; j <= max_year; j++){
+                dataset_push_data.push(0);
+            }
+            for(var j = 0; j < data[i]['events'].length; j++ ){
+                const last = new Date(data[i]['events'][j]["date"]).getFullYear();
+                if(dataset_push_data[last - min_year] == 0){
+                    dataset_push_data[last - min_year] = data[i]['events'][j]["amount"];
+                }
+            };
+            dataset_push.data = dataset_push_data;
+            datasets.push(dataset_push);
+        };
+      
+        console.log(datasets);
+        // Get the drawing context on the canvas
+        var myContext = document.getElementById("stackedLineChartID");
+        var myChart = new Chart(myContext, {
+            type: 'line',
+            data: {
+              labels: labels,
+              datasets: datasets
+            },
+            
+          options: {
+            responsive: true,
+            plugins: {
+              title: {
+                display: true,
+                text: (ctx) => 'Litecoin Treasury Holdings Chart'
+              },
+              tooltip: {
+                mode: 'index'
+              },
+            },
+            interaction: {
+              mode: 'nearest',
+              axis: 'x',
+              intersect: false
+            },
+            scales: {
+              x: {
+                title: {
+                  display: true,
+                  text: 'Year'
+                }
+              },
+              y: {
+                stacked: true,
+                min: 0,
+                title: {
+                  display: true,
+                  text: 'Litecoin'
+                }
+              }
+            }
+        }
+        });
 }
 
 load(); 
