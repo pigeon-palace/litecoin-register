@@ -135,7 +135,7 @@ var table = new DataTable('#example', {
     order: [5, "desc"]
 })
 
-async function load() {
+async function load_table() {
 
     const priceResponse = await fetch("https://api.coingecko.com/api/v3/simple/price?vs_currencies=usd&ids=litecoin")
         .then(response => response.json()) // Parse JSON
@@ -148,13 +148,13 @@ async function load() {
             document.getElementById("price-span").textContent="Error fetching price information.";
         });
         
-        const tableResponse = await fetch("table.json")
-            .then(response => response.json()) // Parse JSON
-            .then(response_json => {
-                data = response_json;
-                return response_json;
-            }) // Parse JSON
-            .then(result => {
+    const tableResponse = await fetch("table.json")
+        .then(response => response.json()) // Parse JSON
+        .then(response_json => {
+            data = response_json;
+            return response_json;
+        }) // Parse JSON
+        .then(result => {
             result.sort(function(a, b){ return b['events'][0]["amount"] - a['events'][0]["amount"]});
             for(var i = 0; i < result.length; i++ ){
                 result[i]['rank'] = i + 1;
@@ -202,7 +202,6 @@ async function load() {
             datasets.push(dataset_push);
         };
       
-        console.log(datasets);
         // Get the drawing context on the canvas
         var myContext = document.getElementById("stackedLineChartID");
         var myChart = new Chart(myContext, {
@@ -217,7 +216,7 @@ async function load() {
             plugins: {
               title: {
                 display: true,
-                text: (ctx) => 'Litecoin Treasury Holdings Chart'
+                text: (ctx) => 'Litecoin Treasury Holdings Chart - Stacked Area'
               },
               tooltip: {
                 mode: 'index'
@@ -246,6 +245,93 @@ async function load() {
             }
         }
         });
-}
+        
+    // pi chart
+    
+        data.sort(function(a, b){ return ('' + b['type']).localeCompare( a['type']) || b['events'][0]["amount"] - a['events'][0]["amount"]});
+        var name_group = Map.groupBy(data, item => item['name']['name']);
+        var type_group = Map.groupBy(data, item => item['type']);
+        var pi_labels = [];
+        var name_labels = Array.from(name_group.keys());
+        var type_labels = Array.from(type_group.keys());
+        type_labels.forEach(item=>pi_labels.push(item));
+        name_labels.forEach(item=>pi_labels.push(item));
+        name_group.forEach((value, key, map) => map.set(key,map.get(key)[0]['events'][0]["amount"]));
+        type_group.forEach((value, key, map) => {
+            var s = 0;
+            for(var i = 0; i < map.get(key).length; i++){
+                s += map.get(key)[i]['events'][0]["amount"]
+            }
+            map.set(key,s);
+        });
+        var name_values = Array.from(name_group.values());
+        var type_values = Array.from(type_group.values());
+    var piContext = document.getElementById("pieChartID");
+    var piChart = new Chart(piContext, {
+      type: 'pie',
+      data: {
+          labels: pi_labels,
+          datasets: [
+            {
+              data: type_values
+            },
+            {
+              data: name_values
+            }
+          ]
+        },
+      options: {
+        responsive: true,
+        plugins: {
+          title: {
+            display: true,
+            text: (ctx) => 'Litecoin Treasury Holdings Chart - Pie'
+          },
+          legend: {
+            labels: {
+              generateLabels: function(chart) {
+                // Get the default label list
+                const original = Chart.overrides.pie.plugins.legend.labels.generateLabels;
+                const labelsOriginal = original.call(this, chart);
+                // Build an array of colors used in the datasets of the chart
+                let datasetColors = chart.data.datasets.map(function(e) {
+                  return e.backgroundColor;
+                });
+                datasetColors = datasetColors.flat();
 
-load(); 
+                // Modify the color and hide state of each label
+                labelsOriginal.forEach(label => {
+                  // There are twice as many labels as there are datasets. This converts the label index into the corresponding dataset index
+                  label.datasetIndex = label.index >= type_values.length ? 1 : 0;
+
+                  // The hidden state must match the dataset's hidden state
+                  label.hidden = !chart.isDatasetVisible(label.datasetIndex);
+
+                  // Change the color to match the dataset
+                  label.fillStyle = datasetColors[label.index];
+                });
+
+                return labelsOriginal;
+              }
+            },
+            onClick: function(mouseEvent, legendItem, legend) {
+              // toggle the visibility of the dataset from what it currently is
+              legend.chart.getDatasetMeta(
+                legendItem.datasetIndex
+              ).hidden = legend.chart.isDatasetVisible(legendItem.datasetIndex);
+              legend.chart.update();
+            }
+          },
+          tooltip: {
+            callbacks: {
+              title: function(context) {
+                const labelIndex = (context[0].datasetIndex * type_values.length) + context[0].dataIndex;
+                return context[0].chart.data.labels[labelIndex] + ': ' + context[0].formattedValue;
+              }
+            }
+          }
+        }
+      },
+    });
+}
+load_table(); 
