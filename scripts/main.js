@@ -15,7 +15,7 @@
 */
 const main = async () => {
   await load_data();
-  draw_table();
+  draw_datatable();
   draw_stacked_area_chart();
   draw_pi_chart();
 };
