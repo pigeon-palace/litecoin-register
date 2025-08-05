@@ -31,7 +31,6 @@ async function load_data() {
     const tableResponse = await fetch("../table.json")
         .then(response => response.json()) // Parse JSON
         .then(response_json => {
-            console.log(response_json);
             data = response_json;
         }) 
 }
