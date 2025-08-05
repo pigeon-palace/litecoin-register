@@ -85,9 +85,9 @@ var table = new DataTable('#example', {
             render: function (data, type) {
                 if (type === 'display') {
                     if(data[0]['approx']){
-                        prefix = "~";
+                        prefix = "~$";
                     } else {
-                        prefix = "";
+                        prefix = "$";
                     }
                     return prefix + (price * data[0]["amount"]).toLocaleString(
                                               undefined, // leave undefined to use the visitor's browser 
