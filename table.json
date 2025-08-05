@@ -9,10 +9,10 @@
         "country": "United States",
         "events":  [
             {
-                "amount": 1000000, 
-                "source": "https://litecoin.com/news/100-million-litecoin-treasury", 
-                "date": "July 17, 2025",
-                "approx": true
+                "amount": 929548, 
+                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1262104/000095017025102419/meip-20250805.htm#fact-identifier-1", 
+                "date": "August 5, 2025",
+                "approx": false
             }
         ]
     },
