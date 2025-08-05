@@ -10,7 +10,7 @@
         "events":  [
             {
                 "amount": 929548, 
-                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1262104/000095017025102419/meip-20250805.htm#fact-identifier-1", 
+                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1262104/000095017025102419/meip-20250805.htm", 
                 "date": "August 5, 2025",
                 "approx": false
             }
