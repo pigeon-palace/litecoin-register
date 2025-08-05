@@ -132,7 +132,7 @@ var table_config = {
     order: [5, "desc"]
 }
 
-async function draw_table() {
+async function draw_datatable() {
     var table = new DataTable('#example', table_config);
     data.sort(function(a, b){ return b['events'][0]["amount"] - a['events'][0]["amount"]});
     for(var i = 0; i < data.length; i++ ){
