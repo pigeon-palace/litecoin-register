@@ -1,2 +1,13 @@
-<script src="table.js?version=22"></script>
-
+<script src="scripts/load_data.js?version=1"></script>
+<script src="scripts/datatable.js?version=1"></script>
+<script src="scripts/stacked_area_chart.js?version=1"></script>
+<script src="scripts/pi_chart.js?version=1"></script>
+<script>
+const main = async () => {
+  await load_data();
+  draw_table();
+  draw_stacked_area_chart();
+  draw_pi_chart();
+};
+main();
+</script>
