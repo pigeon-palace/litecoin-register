@@ -1,0 +1,3 @@
+[submodule "litecoin-register-scraper"]
+	path = litecoin-register-scraper
+	url = https://github.com/pigeon-palace/litecoin-register-scraper.git
