@@ -36,7 +36,6 @@ async function load_data() {
         
     await importData("MWEB");
     await importData("cbLTC");
-    console.log(data);
 }
 
 async function importData(short) {
