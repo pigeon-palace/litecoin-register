@@ -1,6 +1,6 @@
 
 body {
-  grid-template-columns: 1fr min(80ch,90%) 1fr;
+  grid-template-columns: 1fr min(120ch,90%) 1fr;
 }
 label {
   display: inline;
