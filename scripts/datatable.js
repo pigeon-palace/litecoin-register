@@ -15,7 +15,8 @@
 */
 
 var table_config = {
-    responsive: true,
+    responsive: true,    
+    autoWidth: true,
     columnDefs: [
         {
             targets: 1,
@@ -24,18 +25,20 @@ var table_config = {
     ],
      columns: [
         {
-            "title": "Rank", 
+            "title": "", 
             data: "rank",
             responsivePriority: 3
         },
         {
             "title": "Short", 
             data: "short",
+            className: "nowrap",
             responsivePriority: 6
         },
         {
             "title": "Name", 
             data: "name",
+            className: "nowrap",
             render: function (data, type) {
                 if (type === 'display') {
                     return '<a href="' + data["homepage"] + '">' + data["name"] + '</a>';
@@ -48,6 +51,7 @@ var table_config = {
         {
             "title": "Type", 
             data: "type",
+            className: "nowrap",
             responsivePriority: 5
         },
         {
@@ -68,7 +72,7 @@ var table_config = {
                     return '<a href="' + data[0]["source"] + '">' + prefix + data[0]["amount"].toLocaleString(
                                               undefined, // leave undefined to use the visitor's browser 
                                                          // locale or a string like 'en-US' to override it.
-                                              { minimumFractionDigits: 2, maximumFractionDigits: 2 }
+                                              { minimumFractionDigits: 0, maximumFractionDigits: 0 }
                                             ) + '</a>';
                 }
                 
@@ -89,7 +93,7 @@ var table_config = {
                     return prefix + (price * data[0]["amount"]).toLocaleString(
                                               undefined, // leave undefined to use the visitor's browser 
                                                          // locale or a string like 'en-US' to override it.
-                                              { minimumFractionDigits: 2, maximumFractionDigits: 2 }
+                                              { minimumFractionDigits: 0, maximumFractionDigits: 0 }
                                             );
                 }
  
@@ -141,5 +145,6 @@ async function draw_datatable() {
     table.rows.add(data).draw();
     table.responsive.rebuild();
     table.responsive.recalc();
+    table.columns.adjust().draw();
 }
     
