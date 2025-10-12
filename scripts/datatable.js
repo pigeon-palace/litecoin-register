@@ -26,13 +26,13 @@ var table_config = {
         {
             "title": "Short", 
             data: "short",
-            className: "nowrap all",
+            className: "nowrap",
             responsivePriority: 6
         },
         {
             "title": "Name", 
             data: "name",
-            className: "nowrap",
+            className: "nowrap  all",
             render: function (data, type) {
                 if (type === 'display') {
                     return '<a href="' + data["homepage"] + '">' + data["name"] + '</a>';
