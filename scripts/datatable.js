@@ -17,12 +17,6 @@
 var table_config = {
     responsive: true,    
     autoWidth: true,
-    columnDefs: [
-        {
-            targets: 1,
-            className: 'noVis'
-        }
-    ],
      columns: [
         {
             "title": "", 
@@ -32,7 +26,7 @@ var table_config = {
         {
             "title": "Short", 
             data: "short",
-            className: "nowrap",
+            className: "nowrap all",
             responsivePriority: 6
         },
         {
@@ -62,6 +56,8 @@ var table_config = {
         {
             "title": "Amount (LTC)", 
             data: "events",
+            className: "nowrap all",
+            responsivePriority: 1,
             render: function (data, type) {
                 if (type === 'display') {
                     if(data[0]['approx']){
@@ -77,8 +73,7 @@ var table_config = {
                 }
                 
                 return data[0]["amount"];
-            },
-            responsivePriority: 1
+            }
         },
         {
             "title": "Amount (USD)", 
@@ -108,7 +103,6 @@ var table_config = {
                 {            
                     text: 'Columns',
                     extend: 'colvis',
-                    columns: ':not(.noVis)',
                     popoverTitle: 'Column visibility selector'
                 }
             ],
