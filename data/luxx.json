@@ -1,0 +1,24 @@
+{
+    "short": "CSE: LUXX",
+    "name": {
+        "slug": "luxx",
+        "name": "Luxxfolio Holdings", 
+        "homepage": "https://www.luxxfolio.com/"
+    },
+    "type": "public-company",
+    "country": "🇨🇦",
+    "events":  [
+        {
+            "amount": 20084,
+            "source": "https://www.newsfilecorp.com/release/259087/Luxxfolio-Provides-Corporate-Update-Increase-in-Litecoin-Treasury",
+            "date": "July 17, 2025",
+            "approx": false
+        },
+        {
+            "amount": 4982,
+            "source": "https://www.newsfilecorp.com/release/246667/Luxxfolio-Provides-Corporate-Update-Announces-Litecoin-Treasury-Strategy",
+            "date": "March 31, 2025",
+            "approx": false
+        }
+    ]
+}

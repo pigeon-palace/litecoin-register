@@ -1,0 +1,42 @@
+{
+    "short": "OTC: BITW",
+    "name": {
+        "slug": "bitw",
+        "name": "Bitwise 10 Crypto Index Fund", 
+        "homepage": "https://bitwiseinvestments.com/crypto-funds/bitw"
+    },
+    "type": "publicly-traded-fund",
+    "country": "🇺🇸",
+    "events":  [
+        {
+            "amount": 39964.1956, 
+            "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001723788/000119312525175509/bitw-20250630.htm#fact-identifier-125", 
+            "date": "June 30, 2025",
+            "approx": false
+        },
+        {
+            "amount": 40872.6900, 
+            "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1723788/000095017025068782/bitw-20250331.htm#fact-identifier-119", 
+            "date": "March 31, 2025",
+            "approx": false
+        },
+        {
+            "amount": 41406.8896, 
+            "source": "https://www.sec.gov/cgi-bin/viewer?action=view&cik=1723788&accession_number=0000950170-24-058599&xbrl_type=v#", 
+            "date": "March 31, 2024",
+            "approx": false
+        },
+        {
+            "amount": 43885.6614, 
+            "source": "https://www.sec.gov/cgi-bin/viewer?action=view&cik=1723788&accession_number=0000950170-23-022083&xbrl_type=v#", 
+            "date": "March 31, 2023",
+            "approx": false
+        },
+        {
+            "amount": 44960.6783, 
+            "source": "https://www.sec.gov/cgi-bin/viewer?action=view&cik=1723788&accession_number=0000950170-22-009256&xbrl_type=v#", 
+            "date": "March 31, 2022",
+            "approx": false
+        }
+    ]
+}

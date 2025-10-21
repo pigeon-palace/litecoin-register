@@ -1,0 +1,48 @@
+{
+        "short": "OTC: LTCN",
+        "name": {
+            "slug": "ltcn",
+            "name": "Grayscale Litecoin Trust", 
+            "homepage": "https://www.grayscale.com/funds/grayscale-litecoin-trust"
+        },
+        "type": "publicly-traded-fund",
+        "country": "🇺🇸",
+        "events":  [
+            {
+                "amount": 2018906,
+                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000173240625000005/ltcn-20250630.htm",
+                "date": "June 30, 2025",
+                "approx": false
+            },
+            {
+                "amount": 2031529.11455509,
+                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017025062759/ltcn-20250331.htm#fact-identifier-190",
+                "date": "March 31, 2025",
+                "approx": false
+            },
+            {
+                "amount": 1794013.32656083,
+                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017024104236/ltcn-20240630.htm",
+                "date": "June 30, 2024",
+                "approx": false
+            },
+            {
+                "amount": 1505668.18819118,
+                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017024104236/ltcn-20240630.htm",
+                "date": "June 30, 2023",
+                "approx": false
+            },
+            {
+                "amount": 1543785.68163914,
+                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017024104236/ltcn-20240630.htm",
+                "date": "June 30, 2022",
+                "approx": false
+            },
+            {
+                "amount": 1546738.94132574,
+                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017024104236/ltcn-20240630.htm",
+                "date": "June 30, 2021",
+                "approx": false
+            }
+        ]
+    }

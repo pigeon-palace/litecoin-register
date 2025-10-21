@@ -1,0 +1,30 @@
+{
+    "short": "MWEB",
+    "name": {
+        "slug": "mweb",
+        "name": "Mimblewimble Extension Blocks", 
+        "homepage": "https://litecoin.com/projects/mweb"
+    },
+    "type": "sidechain",
+    "country": "#N/A",
+    "events":  [
+        {
+            "amount": 167896.7187,
+            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
+            "date": "August 1, 2025",
+            "approx": false
+        },
+        {
+            "amount": 51084.7674,
+            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
+            "date": "July 19, 2024",
+            "approx": false
+        },
+        {
+            "amount": 14564.4937,
+            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
+            "date": "July 19, 2023",
+            "approx": false
+        }
+    ]
+}

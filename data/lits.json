@@ -1,0 +1,18 @@
+{
+    "short": "NASDAQ: LITS",
+    "name": {
+        "slug": "lits",
+        "name": "Lite Strategy, Inc.", 
+        "homepage": "https://litestrategy.com/"
+    },
+    "type": "public-company",
+    "country": "🇺🇸",
+    "events":  [
+        {
+            "amount": 929548.46, 
+            "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1262104/000095017025102419/meip-20250805.htm", 
+            "date": "August 5, 2025",
+            "approx": false
+        }
+    ]
+}

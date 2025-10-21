@@ -14,7 +14,7 @@
    limitations under the License.
 */
 const main = async () => {
-  await load_data();
-  draw_datatable();
+  await load_price();
+  await load_profile();
 };
 main();

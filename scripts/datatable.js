@@ -17,6 +17,7 @@
 var table_config = {
     responsive: true,    
     autoWidth: true,
+    order: [5, "desc"],
      columns: [
         {
             "title": "", 
@@ -35,7 +36,8 @@ var table_config = {
             className: "nowrap  all",
             render: function (data, type) {
                 if (type === 'display') {
-                    return '<a href="' + data["homepage"] + '">' + data["name"] + '</a>';
+                    console.log(data);
+                    return '<a href="profile/' + data["slug"] + '.html">' + data["name"] + '</a>';
                 }
  
                 return data["name"];
@@ -126,8 +128,7 @@ var table_config = {
             },      
             paging: {}
         }
-    },
-    order: [5, "desc"]
+    }
 }
 
 async function draw_datatable() {
