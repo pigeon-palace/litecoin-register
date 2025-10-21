@@ -22,6 +22,7 @@ var table_config = {
         {
             "title": "", 
             data: "rank",
+            className: "nowrap",
             responsivePriority: 3
         },
         {
