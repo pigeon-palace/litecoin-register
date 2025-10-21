@@ -6,7 +6,7 @@
             "homepage": "https://litestrategy.com/"
         },
         "type": "public-company",
-        "country": "United States",
+        "country": "🇺🇸",
         "events":  [
             {
                 "amount": 929548.46, 
@@ -23,7 +23,7 @@
             "homepage": "https://bitwiseinvestments.com/crypto-funds/bitw"
         },
         "type": "publicly-traded-fund",
-        "country": "United States",
+        "country": "🇺🇸",
         "events":  [
             {
                 "amount": 39964.1956, 
@@ -64,7 +64,7 @@
             "homepage": "https://www.luxxfolio.com/"
         },
         "type": "public-company",
-        "country": "Canada",
+        "country": "🇨🇦",
         "events":  [
             {
                 "amount": 20084,
@@ -87,7 +87,7 @@
             "homepage": "https://www.coinbase.com/campaigns/wrapped-assets"
         },
         "type": "defi",
-        "country": "United States",
+        "country": "🇺🇸",
         "events":  [
             {
                 "amount": 21684.84762994,
@@ -145,7 +145,7 @@
             "homepage": "https://www.grayscale.com/funds/grayscale-litecoin-trust"
         },
         "type": "publicly-traded-fund",
-        "country": "United States",
+        "country": "🇺🇸",
         "events":  [
             {
                 "amount": 2018906,
