@@ -1,7 +1,10 @@
 ---
-layout: profile
-javascript_post_hook: profile_inject.html
-slug: cbltc
-title: cbLTC
+layout: default
 ---
-test
+
+# {{ site.data.profiles.cbltc.name.name }}
+
+* Symbol: `{{ site.data.profiles.cbltc.short }}`
+* Homepage: [{{ site.data.profiles.cbltc.name.homepage }}]({{ site.data.profiles.cbltc.name.homepage }})
+* Type: `{{ site.data.profiles.cbltc.type }}`
+* Country: {{ site.data.profiles.cbltc.country }}

@@ -1,7 +1,10 @@
 ---
-layout: profile
-javascript_post_hook: profile_inject.html
-slug: luxx
-title: LUXX
+layout: default
 ---
-test
+
+# {{ site.data.profiles.luxx.name.name }}
+
+* Symbol: `{{ site.data.profiles.luxx.short }}`
+* Homepage: [{{ site.data.profiles.luxx.name.homepage }}]({{ site.data.profiles.luxx.name.homepage }})
+* Type: `{{ site.data.profiles.luxx.type }}`
+* Country: {{ site.data.profiles.luxx.country }}

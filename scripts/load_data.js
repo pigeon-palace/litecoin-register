@@ -13,25 +13,8 @@
    See the License for the specific language governing permissions and
    limitations under the License.
 */
-var data = [];
-var files = [
-    "mweb",
-    "ltcn",
-    "bitw",
-    "cbltc",
-    "luxx",
-    "lits"
-];
 
 async function load_data() {
-    for (let i = 0; i < files.length; i++) {
-        const tableResponse = await fetch("/data/" + files[i] + ".json")
-            .then(response => response.json()) // Parse JSON
-            .then(response_json => {
-                data.push(response_json);
-            }) 
-    }
-        
     await importData("MWEB");
     await importData("cbLTC");
 }

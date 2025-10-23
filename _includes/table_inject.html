@@ -1,3 +1,9 @@
+<script>
+ var data = [];
+{% for profile in site.data.profiles %}
+  data.push({{ profile | jsonify }}[1]);
+{% endfor %}
+</script>
 <script src="/scripts/papaparse.js"></script>
 <script src="/scripts/load_price.js?version=6"></script>
 <script src="/scripts/load_data.js?version=7"></script>

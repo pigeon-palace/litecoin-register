@@ -1,7 +1,10 @@
 ---
-layout: profile
-javascript_post_hook: profile_inject.html
-slug: ltcn
-title: LTCN
+layout: default
 ---
-test
+
+# {{ site.data.profiles.ltcn.name.name }}
+
+* Symbol: `{{ site.data.profiles.ltcn.short }}`
+* Homepage: [{{ site.data.profiles.ltcn.name.homepage }}]({{ site.data.profiles.ltcn.name.homepage }})
+* Type: `{{ site.data.profiles.ltcn.type }}`
+* Country: {{ site.data.profiles.ltcn.country }}
