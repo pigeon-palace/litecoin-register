@@ -3,16 +3,16 @@
         "name": {
             "slug": "ltcc",
             "name": " Canary Litecoin ETF", 
-            "homepage": "https://etfs.canary.capital/"
+            "homepage": "https://etfs.canary.capital/ltcc/"
         },
         "type": "exchange-traded-fund",
         "country": "🇺🇸",
         "events":  [
             {
-                "amount": 10000,
-                "source": "https://www.sec.gov/Archives/edgar/data/2039461/000199937125016206/canary-424b3_102725.htm",
-                "date": "Oct 28, 2025",
-                "approx": true
+                "amount": 14726.694153,
+                "source": "https://etfs.canary.capital/ltcc/#Holdings",
+                "date": "Oct 29, 2025",
+                "approx": false
             }
         ]
     }
