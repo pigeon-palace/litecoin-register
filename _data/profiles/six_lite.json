@@ -1,0 +1,18 @@
+{
+    "short": "SIX:LITE",
+    "name": {
+        "slug": "six_lite",
+        "name": "CoinShares Physical Litecoin ETP", 
+        "homepage": "https://coinshares.com/de-en/etp/physical-litecoin/"
+    },
+    "type": "exchange-traded-product",
+    "country": "🇨🇭",
+    "events":  [
+        {
+            "amount": 124536.26,
+            "source": "https://coinshares.com/de-en/etp/proof-of-reserves/",
+            "date": "November 4, 2025",
+            "approx": false
+        }
+    ]
+}

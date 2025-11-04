@@ -1,0 +1,18 @@
+{
+    "short": "VIRLTC SS",
+    "name": {
+        "slug": "virtune_ltc",
+        "name": "Virtune Litecoin ETP", 
+        "homepage": "https://www.virtune.com/en/product/litecoin"
+    },
+    "type": "exchange-traded-product",
+    "country": "🇸🇪",
+    "events":  [
+        {
+            "amount": 27114.49,
+            "source": "https://www.virtune.com/en/product/litecoin",
+            "date": "November 4, 2025",
+            "approx": false
+        }
+    ]
+}
