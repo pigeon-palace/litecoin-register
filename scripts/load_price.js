@@ -21,6 +21,9 @@ async function load_price() {
         .then(result => {
             price = result['litecoin']['usd'];
             document.getElementById("price-span").textContent="1 LTC = " + price + " USD (Powered by CoinGecko)";
+            var total = parseInt(document.getElementById("total").innerText.replace(/,/g, ''));
+            console.log(total)
+            document.getElementById("total_usd").textContent=(total*price).toLocaleString();
         })
         .catch(error => {
             console.error('Error fetching price JSON:', error);
