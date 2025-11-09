@@ -1,12 +1,13 @@
 
 # {{ site.data.profiles[page.coin].name.name }}
 
+{{ site.data.profiles[page.coin].description }}
+
 * Symbol: `{{ site.data.profiles[page.coin].short }}`
 * Homepage: [{{ site.data.profiles[page.coin].name.homepage }}]({{ site.data.profiles[page.coin].name.homepage }})
 * Type: `{{ site.data.profiles[page.coin].type }}`
 * Country: {{ site.data.profiles[page.coin].country }}
 
-{{ site.data.profiles[page.coin].description }}
 
 <table>
 <tr><th>Date</th><th>Amount</th><th>Source</th></tr>
