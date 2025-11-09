@@ -5,6 +5,7 @@
         "name": "Coinbase Wrapped Assets", 
         "homepage": "https://www.coinbase.com/campaigns/wrapped-assets"
     },
+    "description": "Coinbase wrapped assets are tokens that are backed 1:1 and held by Coinbase. Wrapped assets, like cbBTC, cbXRP, cbDOGE, cbADA, and cbLTC are transferable tokens that represent ownership of the underlying asset). Wrapped assets are fully transferable, and Coinbase customers can unwrap and redeem a corresponding amount of the underlying asset simply by depositing the wrapped asset into their Coinbase accounts.",
     "type": "defi",
     "country": "🇺🇸",
     "events":  [

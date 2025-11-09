@@ -5,6 +5,7 @@
 * Homepage: [{{ site.data.profiles[page.coin].name.homepage }}]({{ site.data.profiles[page.coin].name.homepage }})
 * Type: `{{ site.data.profiles[page.coin].type }}`
 * Country: {{ site.data.profiles[page.coin].country }}
+* Description: {{ site.data.profiles[page.coin].description }}
 
 <table>
 <tr><th>Date</th><th>Amount</th><th>Source</th></tr>

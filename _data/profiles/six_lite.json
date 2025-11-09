@@ -5,6 +5,7 @@
         "name": "CoinShares Physical Litecoin ETP", 
         "homepage": "https://coinshares.com/de-en/etp/physical-litecoin/"
     },
+    "description": "Access Litecoin — a digital currency designed for faster, low-cost transactions — through a secure, exchange-traded product.",
     "type": "exchange-traded-product",
     "country": "🇨🇭",
     "events":  [

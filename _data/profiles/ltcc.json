@@ -5,6 +5,7 @@
             "name": "Canary Litecoin ETF", 
             "homepage": "https://etfs.canary.capital/ltcc/"
         },
+    "description": "The Trust’s investment objective is to seek to provide exposure to the value of Litecoin (\"LTC\") held by the Trust, less the expenses of the Trust’s operations and other liabilities. The Trust is a passive investment vehicle that does not seek to generate returns beyond tracking the price of LTC. In seeking to achieve its investment objective, the Trust will hold LTC.",
         "type": "exchange-traded-fund",
         "country": "🇺🇸",
         "events":  [

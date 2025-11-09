@@ -5,6 +5,7 @@
             "name": "Grayscale Litecoin Trust", 
             "homepage": "https://www.grayscale.com/funds/grayscale-litecoin-trust"
         },
+        "description": "Grayscale Litecoin Trust (the \"Trust\") is one of the first investment vehicles that enables investors to gain exposure to the token underlying the Litecoin platform (\"LTC\") in the form of a security while avoiding the challenges of buying, storing, and safekeeping LTC, directly.",
         "type": "publicly-traded-fund",
         "country": "🇺🇸",
         "events":  [
