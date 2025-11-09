@@ -20,7 +20,7 @@ class Scraper():
         soup = BeautifulSoup(response.text, 'html.parser')
         print("Matching...")
         match = re.search(self.regex, soup.text)
-        with open(self.filename, "r", encoding='utf-8') as f:
+        with open(self.filename, "r") as f:
             data = json.load(f)
         data['events'] = [{
             'amount': self.formatter(match), 
@@ -28,7 +28,7 @@ class Scraper():
             'date': datetime.fromtimestamp(time.time()).strftime("%B %d, %Y"), 
             'approx': "false"
         }] + data['events']
-        with open(self.filename, 'w', encoding='utf-8') as f:
+        with open(self.filename, 'w') as f:
             f.write(json.dumps(data, indent=4))
         print("Finished!")
     

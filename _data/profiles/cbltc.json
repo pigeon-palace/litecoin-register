@@ -2,13 +2,13 @@
     "short": "cbLTC",
     "name": {
         "slug": "cbltc",
-        "name": "Coinbase Wrapped Assets", 
+        "name": "Coinbase Wrapped Assets",
         "homepage": "https://www.coinbase.com/campaigns/wrapped-assets"
     },
     "description": "Coinbase wrapped assets are tokens that are backed 1:1 and held by Coinbase. Wrapped assets, like cbBTC, cbXRP, cbDOGE, cbADA, and cbLTC are transferable tokens that represent ownership of the underlying asset). Wrapped assets are fully transferable, and Coinbase customers can unwrap and redeem a corresponding amount of the underlying asset simply by depositing the wrapped asset into their Coinbase accounts.",
     "type": "defi",
-    "country": "🇺🇸",
-    "events":  [
+    "country": "United States",
+    "events": [
         {
             "amount": 21684.84762994,
             "source": "https://basescan.org/tokencheck-tool?t=0xcb17c9db87b595717c857a08468793f5bab6445f",

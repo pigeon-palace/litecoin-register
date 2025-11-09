@@ -7,7 +7,7 @@
     },
     "description": "Access Litecoin — a digital currency designed for faster, low-cost transactions — through a secure, exchange-traded product.",
     "type": "exchange-traded-product",
-    "country": "🇨🇭",
+    "country": "Switzerland",
     "events":  [
         {
             "amount": 124536.26,
