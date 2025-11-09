@@ -54,7 +54,25 @@ var table_config = {
         {
             "title": "Country", 
             data: "country",
-            responsivePriority: 7
+            responsivePriority: 7,
+            render: function (data, type) {
+                if (type === 'display') {
+                    if(data == "United States"){
+                        return "🇺🇸";
+                    } else if (data == "Canada"){
+                        return "🇨🇦";
+                    } else if (data == "Germany"){
+                        return "🇩🇪";
+                    } else if (data == "Switzerland"){
+                        return "🇨🇭";
+                    } else if (data == "Germany"){
+                        return "🇸🇪";
+                    }
+                    return data;
+                }
+                
+                return data;
+            }
         },
         {
             "title": "Amount (LTC)", 
