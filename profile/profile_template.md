@@ -9,6 +9,11 @@
 <table>
 <tr><th>Date</th><th>Amount</th><th>Source</th></tr>
 {% for event in site.data.profiles[page.coin].events %}
-  <tr><td>{{ event.date }}</td><td>{{ event.amount }}</td><td>{{ event.source }}</td></tr>
+  <tr><td>{{ event.date }}</td><td>{{ event.amount }}</td><td style="
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 30ch;
+  white-space: nowrap;"
+  ><a href="{{ event.source }}">{{ event.source }}</a></td></tr>
 {% endfor %}
 </table>
