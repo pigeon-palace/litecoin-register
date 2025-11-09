@@ -7,8 +7,8 @@
 * Country: {{ site.data.profiles[page.coin].country }}
 
 <table>
-<tr><th>Date</th><th>Amount</th></tr>
+<tr><th>Date</th><th>Amount</th><th>Source</th></tr>
 {% for event in site.data.profiles[page.coin].events %}
-  <tr><td>{{ event.date }}</td><td><a href="{{ event.source }}">{{ event.amount }}</a></td></tr>
+  <tr><td>{{ event.date }}</td><td>{{ event.amount }}</td><td>{{ event.source }}</td></tr>
 {% endfor %}
 </table>

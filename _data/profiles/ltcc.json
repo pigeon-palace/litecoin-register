@@ -2,7 +2,7 @@
         "short": "NASDAQ: LTCC",
         "name": {
             "slug": "ltcc",
-            "name": " Canary Litecoin ETF", 
+            "name": "Canary Litecoin ETF", 
             "homepage": "https://etfs.canary.capital/ltcc/"
         },
         "type": "exchange-traded-fund",

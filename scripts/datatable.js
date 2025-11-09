@@ -68,11 +68,11 @@ var table_config = {
                     } else {
                         prefix = "";
                     }
-                    return '<a href="' + data[0]["source"] + '">' + prefix + data[0]["amount"].toLocaleString(
-                                              undefined, // leave undefined to use the visitor's browser 
-                                                         // locale or a string like 'en-US' to override it.
-                                              { minimumFractionDigits: 0, maximumFractionDigits: 0 }
-                                            ) + '</a>';
+                    return prefix + data[0]["amount"].toLocaleString(
+                          undefined, // leave undefined to use the visitor's browser 
+                                     // locale or a string like 'en-US' to override it.
+                          { minimumFractionDigits: 0, maximumFractionDigits: 0 }
+                        );
                 }
                 
                 return data[0]["amount"];
