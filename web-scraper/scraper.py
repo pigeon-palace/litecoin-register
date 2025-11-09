@@ -18,18 +18,17 @@ class Scraper():
         response = requests.get(self.url, headers=HEADERS)
         print("Parsing...")
         soup = BeautifulSoup(response.text, 'html.parser')
-        print(soup.text)
         print("Matching...")
         match = re.search(self.regex, soup.text)
-        with open(self.filename, "r") as f:
+        with open(self.filename, "r", encoding='utf-8') as f:
             data = json.load(f)
         data['events'] = [{
             'amount': self.formatter(match), 
             'source': self.url, 
             'date': datetime.fromtimestamp(time.time()).strftime("%B %d, %Y"), 
             'approx': "false"
-        }] + d['events']
-        with open(self.filename, 'w') as f:
+        }] + data['events']
+        with open(self.filename, 'w', encoding='utf-8') as f:
             f.write(json.dumps(data, indent=4))
         print("Finished!")
     
