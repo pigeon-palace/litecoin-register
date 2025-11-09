@@ -65,10 +65,10 @@ var table_config = {
                         return "🇩🇪";
                     } else if (data == "Switzerland"){
                         return "🇨🇭";
-                    } else if (data == "Germany"){
+                    } else if (data == "Sweden"){
                         return "🇸🇪";
                     }
-                    return data;
+                    return "❓";
                 }
                 
                 return data;
