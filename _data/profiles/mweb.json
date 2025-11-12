@@ -10,6 +10,12 @@
     "country": "#N/A",
     "events": [
         {
+            "amount": 362568.32244435,
+            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
+            "date": "November 12, 2025",
+            "approx": false
+        },
+        {
             "amount": 362154.17181159,
             "source": "https://www.mwebexplorer.com/charts/mwebbalance",
             "date": "November 11, 2025",
