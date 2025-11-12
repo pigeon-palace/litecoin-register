@@ -67,6 +67,8 @@ var table_config = {
                         return "🇨🇭";
                     } else if (data == "Sweden"){
                         return "🇸🇪";
+                    } else if (data == "Hogwarts"){
+                        return "🧙";
                     }
                     return "❓";
                 }

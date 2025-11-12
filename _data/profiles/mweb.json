@@ -7,7 +7,7 @@
     },
     "description": "Mimblewimble Extension Blocks (MWEB) improves privacy and scalability on the Litecoin blockchain. Based on the Mimblewimble protocol, it promises confidential transactions and efficient pruning.",
     "type": "sidechain",
-    "country": "#N/A",
+    "country": "Hogwarts",
     "events": [
         {
             "amount": 362568.32244435,
