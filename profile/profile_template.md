@@ -26,5 +26,6 @@
   var profile_balance = parseFloat(document.getElementById('profile_balance').innerText);
   document.getElementById("profile_balance").textContent=profile_balance.toLocaleString();
 </script>
+
 <script src="/scripts/load_price_profile.js?version=1"></script>
 <script src="/scripts/profile_main.js?version=1"></script>

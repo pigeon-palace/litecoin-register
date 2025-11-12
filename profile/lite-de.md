@@ -1,6 +1,6 @@
 ---
 layout: default
-coin: six_lite
+coin: lite-de
 ---
 
 {% include_relative profile_template.md %}

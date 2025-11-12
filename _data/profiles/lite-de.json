@@ -1,7 +1,7 @@
 {
-    "short": "SIX:LITE",
+    "short": "LITE",
     "name": {
-        "slug": "six_lite",
+        "slug": "lite-de",
         "name": "CoinShares Physical Litecoin ETP", 
         "homepage": "https://coinshares.com/de-en/etp/physical-litecoin/"
     },
@@ -9,6 +9,12 @@
     "type": "exchange-traded-product",
     "country": "Switzerland",
     "events":  [
+        {
+            "amount": 127350.13,
+            "source": "https://coinshares.com/de-en/etp/proof-of-reserves/",
+            "date": "November 12, 2025",
+            "approx": false
+        },
         {
             "amount": 124536.26,
             "source": "https://coinshares.com/de-en/etp/proof-of-reserves/",

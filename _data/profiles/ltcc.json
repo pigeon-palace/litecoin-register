@@ -1,5 +1,5 @@
 {
-        "short": "NASDAQ: LTCC",
+        "short": "LTCC",
         "name": {
             "slug": "ltcc",
             "name": "Canary Litecoin ETF", 
@@ -9,6 +9,12 @@
         "type": "exchange-traded-fund",
         "country": "United States",
         "events":  [
+            {
+                "amount": 56408.238423,
+                "source": "https://etfs.canary.capital/ltcc/#Holdings",
+                "date": "Nov 12, 2025",
+                "approx": false
+            },
             {
                 "amount": 56410.663603,
                 "source": "https://etfs.canary.capital/ltcc/#Holdings",

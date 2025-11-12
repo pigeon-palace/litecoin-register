@@ -1,5 +1,5 @@
 {
-    "short": "XETR:ELTC",
+    "short": "ELTC",
     "name": {
         "slug": "eltc",
         "name": "Bitwise Physical Litecoin ETP", 
@@ -9,6 +9,12 @@
     "type": "exchange-traded-product",
     "country": "Germany",
     "events":  [
+        {
+            "amount": 86018.40,
+            "source": "https://bitwiseinvestments.eu/products/bitwise-physical-litecoin-etp/#",
+            "date": "November 12, 2025",
+            "approx": false
+        }
         {
             "amount": 83329.76,
             "source": "https://bitwiseinvestments.eu/products/bitwise-physical-litecoin-etp/#",
