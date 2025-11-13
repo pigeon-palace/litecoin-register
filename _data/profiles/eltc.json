@@ -10,6 +10,12 @@
     "country": "Germany",
     "events":  [
         {
+            "amount": 87546.0936,
+            "source": "https://bitwiseinvestments.eu/resources/proof-of-holdings/",
+            "date": "November 13, 2025",
+            "approx": false
+        },
+        {
             "amount": 86018.40,
             "source": "https://bitwiseinvestments.eu/products/bitwise-physical-litecoin-etp/#",
             "date": "November 12, 2025",
