@@ -28,6 +28,12 @@
                 "approx": false
             },
             {
+                "amount": 1496209.92343961,
+                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017023058542/ltcn-20230930.htm",
+                "date": "September 30, 2023",
+                "approx": false
+            },
+            {
                 "amount": 1505668.18819118,
                 "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017024104236/ltcn-20240630.htm",
                 "date": "June 30, 2023",
@@ -37,6 +43,12 @@
                 "amount": 1543785.68163914,
                 "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017024104236/ltcn-20240630.htm",
                 "date": "June 30, 2022",
+                "approx": false
+            },
+            {
+                "amount": 1572924.94010839,
+                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000156459021054763/ltcn-10q_20210930.htm",
+                "date": "September 30, 2021",
                 "approx": false
             },
             {
