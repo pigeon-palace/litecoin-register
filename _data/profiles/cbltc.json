@@ -12,6 +12,12 @@
         {
             "amount": 30480.0577186,
             "source": "https://basescan.org/tokencheck-tool?t=0xcb17c9db87b595717c857a08468793f5bab6445f",
+            "date": "November 14, 2025",
+            "approx": false
+        },
+        {
+            "amount": 30480.0577186,
+            "source": "https://basescan.org/tokencheck-tool?t=0xcb17c9db87b595717c857a08468793f5bab6445f",
             "date": "November 13, 2025",
             "approx": false
         },
