@@ -10,6 +10,12 @@
         "country": "United States",
         "events":  [
             {
+                "amount": 85811.820076,
+                "source": "https://etfs.canary.capital/ltcc/#Holdings",
+                "date": "November 21, 2025",
+                "approx": false
+            },
+            {
                 "amount": 85827.455855,
                 "source": "https://etfs.canary.capital/ltcc/#Holdings",
                 "date": "November 15, 2025",

@@ -10,6 +10,11 @@
     "country": "Switzerland",
     "events":  [
         {
+            "amount": 142905,
+            "source": "https://coinshares.com/de-en/etp/proof-of-reserves/",
+            "date": "November 21, 2025",
+            "approx": false
+        }, {
             "amount": 142929,
             "source": "https://coinshares.com/de-en/etp/proof-of-reserves/",
             "date": "November 18, 2025",

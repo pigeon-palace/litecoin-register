@@ -10,6 +10,12 @@
         "country": "United States",
         "events":  [
             {
+                "amount": 1999090.41712,
+                "source": "https://www.grayscale.com/funds/grayscale-litecoin-trust",
+                "date": "November 22, 2025",
+                "approx": false
+            },
+            {
                 "amount": 2000049.34515,
                 "source": "https://www.grayscale.com/funds/grayscale-litecoin-trust",
                 "date": "November 15, 2025",

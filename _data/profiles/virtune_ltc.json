@@ -10,6 +10,12 @@
     "country": "Sweden",
     "events":  [
         {
+            "amount": 25903.31,
+            "source": "https://www.virtune.com/en/product/litecoin",
+            "date": "November 21, 2025",
+            "approx": false
+        },
+        {
             "amount": 27101.46,
             "source": "https://www.virtune.com/en/product/litecoin",
             "date": "November 12, 2025",
