@@ -34,9 +34,27 @@
                 "approx": false
             },
             {
+                "amount": 2028245.74484838,
+                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017025014187/ltcn-20241231.htm",
+                "date": "December 31, 2024",
+                "approx": false
+            },
+            {
                 "amount": 1794013.32656083,
                 "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017024104236/ltcn-20240630.htm",
                 "date": "June 30, 2024",
+                "approx": false
+            },
+            {
+                "amount": 1567843.87910112,
+                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017024053014/ltcn-20240331.htm",
+                "date": "March 31, 2024",
+                "approx": false
+            },
+            {
+                "amount": 1486811.07335384,
+                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017024011970/ltcn-20231231.htm",
+                "date": "December 31, 2023",
                 "approx": false
             },
             {

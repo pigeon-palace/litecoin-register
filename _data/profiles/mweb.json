@@ -106,9 +106,21 @@
             "approx": false
         },
         {
+            "amount": 104711,
+            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
+            "date": "January 1, 2025",
+            "approx": false
+        },
+        {
             "amount": 51084.7674,
             "source": "https://www.mwebexplorer.com/charts/mwebbalance",
             "date": "July 19, 2024",
+            "approx": false
+        },
+        {
+            "amount": 26686,
+            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
+            "date": "January 1, 2024",
             "approx": false
         },
         {

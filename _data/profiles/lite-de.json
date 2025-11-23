@@ -33,15 +33,33 @@
             "approx": false
         },
         {
+            "amount": 129403.73,
+            "source": "https://coinshares.com/de-en/etp/proof-of-reserves/",
+            "date": "July 1, 2025",
+            "approx": false
+        },
+        {
             "amount": 114729.41,
             "source": "https://coinshares.com/de-en/etp/proof-of-reserves/",
             "date": "January 1, 2025",
             "approx": false
         },
         {
+            "amount": 93889.49,
+            "source": "https://coinshares.com/de-en/etp/proof-of-reserves/",
+            "date": "July 1, 2024",
+            "approx": false
+        },
+        {
             "amount": 77050.52,
             "source": "https://coinshares.com/de-en/etp/proof-of-reserves/",
             "date": "January 1, 2024",
+            "approx": false
+        },
+        {
+            "amount": 65164.77,
+            "source": "https://coinshares.com/de-en/etp/proof-of-reserves/",
+            "date": "July 1, 2023",
             "approx": false
         },
         {
