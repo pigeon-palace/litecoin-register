@@ -37,7 +37,6 @@ var table_config = {
             className: "nowrap  all",
             render: function (data, type) {
                 if (type === 'display') {
-                    console.log(data);
                     return '<a href="profile/' + data["slug"] + '.html">' + data["name"] + '</a>';
                 }
  

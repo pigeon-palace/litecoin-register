@@ -7,3 +7,12 @@ javascript_post_hook: table_inject.html
 
 <table id="example" class="display"></table>
 
+<div>
+  <canvas id="myChart"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+ 
+
+ 
