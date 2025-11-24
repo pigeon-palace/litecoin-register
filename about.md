@@ -20,6 +20,7 @@ LitecoinRegister.com is the premier source for comprehensive data on Litecoin ho
    See the License for the specific language governing permissions and
    limitations under the License.
 
+```
 Terms of Service
 
 Last Updated: November 24, 2025
@@ -151,3 +152,4 @@ Disputes must be resolved individually. No class actions or representative claim
     You may not assign these Terms without our consent.
     We may assign these Terms freely.
     Force majeure events (e.g. outages, disasters) excuse performance.
+```
