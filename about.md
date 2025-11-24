@@ -147,7 +147,7 @@ All provisions relating to ownership, disclaimers, and liability survive termina
 
 Disputes must be resolved individually. No class actions or representative claims are permitted.
 
-12. Miscellaneous
+13. Miscellaneous
 
     These Terms constitute the entire agreement between you and LitecoinRegister.com developers.
     If any provision is invalid, the rest remain in effect.
