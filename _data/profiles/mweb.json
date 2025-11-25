@@ -10,6 +10,12 @@
     "country": "Hogwarts",
     "events": [
         {
+            "amount": 346956.48509555,
+            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
+            "date": "November 25, 2025",
+            "approx": false
+        },
+        {
             "amount": 346908.67542447,
             "source": "https://www.mwebexplorer.com/charts/mwebbalance",
             "date": "November 24, 2025",
