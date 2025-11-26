@@ -26,8 +26,8 @@ var price;
   function updateUSDValues() {
       const myNumber = document.querySelectorAll('.ltc_to_usd_amount');
       myNumber.forEach((e) => {
-          console.log(price);
-          const numericValue = parseFloat(e.textContent) * price;
+          console.log(e.getAttribute("ltc_amount"));
+          const numericValue = parseFloat(e.getAttribute("ltc_amount")) * price;
           const formattedValue = Math.round(numericValue).toLocaleString();
           e.textContent = formattedValue;
       });
@@ -43,6 +43,8 @@ async function load_price() {
         })
         .catch(error => {
             console.error('Error fetching price JSON:', error);
-            document.getElementById("price-span").textContent="Error fetching price information.";
+            price = 85;
+           updateLTCValues();
+           updateUSDValues();
         });
 }
