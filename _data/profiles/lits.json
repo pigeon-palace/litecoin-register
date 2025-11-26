@@ -13,24 +13,6 @@
         {
             "amount": 929548.46, 
             "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1262104/000095017025102419/meip-20250805.htm", 
-            "date": "November 1, 2025",
-            "approx": false
-        },
-        {
-            "amount": 929548.46, 
-            "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1262104/000095017025102419/meip-20250805.htm", 
-            "date": "October 1, 2025",
-            "approx": false
-        },
-        {
-            "amount": 929548.46, 
-            "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1262104/000095017025102419/meip-20250805.htm", 
-            "date": "September 1, 2025",
-            "approx": false
-        },
-        {
-            "amount": 929548.46, 
-            "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1262104/000095017025102419/meip-20250805.htm", 
             "date": "August 5, 2025",
             "approx": false
         }

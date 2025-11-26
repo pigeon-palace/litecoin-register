@@ -8,8 +8,14 @@
     "description": "Access Litecoin — a digital currency designed for faster, low-cost transactions — through a secure, exchange-traded product.",
     "type": "exchange-traded-product",
     "country": "Switzerland",
-    "amount": 142905,
+    "amount": 145254.67,
     "events":  [
+        {
+            "amount": 145254.67,
+            "source": "https://coinshares.com/de-en/etp/proof-of-reserves/",
+            "date": "November 26, 2025",
+            "approx": false
+        },
         {
             "amount": 142905,
             "source": "https://coinshares.com/de-en/etp/proof-of-reserves/",
