@@ -3,9 +3,9 @@
     "name": {
         "slug": "mweb",
         "name": "Mimblewimble Extension Blocks",
-        "homepage": "https://litecoin.com/projects/mweb"
+        "homepage": "https://litecoin.com/news/mweb-has-officially-activated"
     },
-    "description": "Mimblewimble Extension Blocks (MWEB) improves privacy and scalability on the Litecoin blockchain. Based on the Mimblewimble protocol, it promises confidential transactions and efficient pruning.",
+    "description": "MWEB (Mimblewimble Extension Blocks), which was first introduced in November 2019 as a Litecoin Improvement Proposal, is a fungibility-improving technology that enhances confidentiality between the senders and receivers in a transaction. Essentially, MWEB can be seen as a literal extension from Litecoin’s main chain, or a parallel highway, via which you can send coins to the extension block and back to the main chain. MWEB will provide users the option of sending “confidential” Litecoin transactions, in which the amount being sent is only known between the sender and receiver, as well as the benefit of having private address balances and increasing Litecoin’s transaction throughput.",
     "type": "defi",
     "country": "Hogwarts",
     "amount": 347362.01781426,
