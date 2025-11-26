@@ -15,56 +15,41 @@ Copyright 2025 litecoinregister.com Developers
 -->
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8" />
     <title>Litecoin Register - Top Litecoin Treasuries & ETFs</title>
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <meta name="keywords" content="litecoin ltc companies treasury top bitcoin">
     <link rel="icon" href="/favicon.png">
-  <link rel="apple-touch-icon" href="/favicon.png"/>
-  
-   <meta property="og:title" content="Litecoin Register - Top Litecoin Treasuries & ETFs"/>
-   <meta name="twitter:title" content="Litecoin Register - Top Litecoin Treasuries & ETFs"/>
-   <!--]--> <!--[-->
-   <meta name="description" content="Track live data on companies and investment funds with public Litecoin holdings in real-time."/>
-   <meta property="og:description" content="Track live data on companies and investment funds with public Litecoin holdings in real-time."/>
-   <meta name="twitter:description" content="Track live data on companies and investment funds with public Litecoin holdings in real-time."/>
-   <!--]--> 
-   <meta property="og:url" content="https://litecoinregister.com/"/>
-   <meta property="og:type" content="website"/>
-   <link rel="canonical" href="https://litecoinregister.com/"/>
+    <link rel="apple-touch-icon" href="/favicon.png" />
+    <meta property="og:title" content="Litecoin Register - Top Litecoin Treasuries & ETFs" />
+    <meta name="twitter:title" content="Litecoin Register - Top Litecoin Treasuries & ETFs" />
+    <meta name="description" content="Track live data on companies and investment funds with public Litecoin holdings in real-time." />
+    <meta property="og:description" content="Track live data on companies and investment funds with public Litecoin holdings in real-time." />
+    <meta name="twitter:description" content="Track live data on companies and investment funds with public Litecoin holdings in real-time." />
+    <meta property="og:url" content="https://litecoinregister.com/" />
+    <meta property="og:type" content="website" />
+    <link rel="canonical" href="https://litecoinregister.com/" />
     <link rel="stylesheet" href="/styles/simple.min.css">
     <link rel="stylesheet" href="/styles/style.css?version=4">
-    {% if page.extra_styles %}
-       {% include {{ page.extra_styles }} %}
-    {% endif %}
-    {% if page.javascript %}
-       {% include {{ page.javascript }} %}
-    {% endif %}
-</head>
-<body>
-  <header>
-    <nav>
-      <a href="/index.html">Home</a>
-      <a href="/about.html">About</a>
-      <a href="https://github.com/pigeon-palace/litecoin-register">Source Code</a> 
-    </nav> 
-    <h1>Litecoin Treasury & ETF Holdings</h1>
-  <p style="max-width:50rem;">Companies and investment funds with public Litecoin holdings. <br>
-  {% assign total = 0 %}
-  {% for coin in site.data.profiles %}
-      {% assign total = total | plus: coin[1].events[0].amount  %}
-  {% endfor %}
-  Total Litecoin being tracked: <b><span class="ltc_amount">{{ total }}</span> LTC</b> ($<span class="ltc_to_usd_amount">{{ total }}</span>)
-</p>
-  </header>
-  {{ content }}
-<footer>
-<div>
-  <span>1 LTC ~ $<span class="ltc_to_usd_amount">1</span> (Powered by CoinGecko)</span></br>
-  Last Update: 11/22/2025</br>
-  Copyright 2025 litecoinregister.com Developers
-</div> 
-</footer>
-</body>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <a href="/index.html">Home</a>
+        <a href="/about.html">About</a>
+        <a href="https://github.com/pigeon-palace/litecoin-register">Source Code</a>
+      </nav>
+      <h1>Litecoin Treasury & ETF Holdings</h1>
+      <p style="max-width:50rem;">Companies and investment funds with public Litecoin holdings. <br> {% assign total = 0 %} {% for coin in site.data.profiles %} {% assign total = total | plus: coin[1].events[0].amount  %} {% endfor %} Total Litecoin being tracked: <b>
+          <span class="ltc_amount">{{ total }}</span> LTC </b> ($ <span class="ltc_to_usd_amount">{{ total }}</span>) </p>
+    </header>
+    {{ content }}
+    <footer>
+      <div>
+        <span>1 LTC ~ $ <span class="ltc_to_usd_amount">1</span> (Powered by CoinGecko) </span>
+        <br> Last Update: 11/22/2025 <br> Copyright 2025 litecoinregister.com Developers
+      </div>
+    </footer>
+  </body>
 </html>
