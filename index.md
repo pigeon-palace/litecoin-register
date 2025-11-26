@@ -50,6 +50,7 @@ javascript_post_hook: table_inject.html
 </script>
 <script src="https://cdn.jsdelivr.net/npm/chart.js" ></script>
 <script src="/chart/chart.js?version=3"></script>
+<script src="/scripts/load_price.js"></script>
 <script src="/scripts/table_main.js?version=3"></script>
  
 
