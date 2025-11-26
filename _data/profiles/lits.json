@@ -8,6 +8,7 @@
     "description": "Lite Strategy (NASDAQ: LITS) is the world’s largest Litecoin Treasury Company. They accumulate pure LTC through active treasury management and concentrate holdings per share as the ultimate metric of shareholder value. Every decision they make is measured by one thing: increasing LTC exposure for their shareholders.",
     "type": "public-company",
     "country": "United States",
+    "amount": 929548.46, 
     "events":  [
         {
             "amount": 929548.46, 

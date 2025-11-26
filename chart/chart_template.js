@@ -19,7 +19,17 @@ async function draw_chart() {
           }]
         },
         options: {
+                responsive: true,
+                maintainAspectRatio: false,
+            elements: {
+                point:{
+                    radius: 0
+                }
+            },
             plugins: {
+                legend: {
+                    position: 'bottom'
+                },
                 title: {
                     display: true,
                     text: "Total Treasury & ETF Holdings"
@@ -34,7 +44,14 @@ async function draw_chart() {
                 type: 'linear',
                 display: true,
                 position: 'left',
-                beginAtZero: true
+                beginAtZero: true,
+                ticks: {
+                    // Include a dollar sign in the ticks
+                    callback: function(value, index, ticks) {
+                        let formatter = Intl.NumberFormat('en', { notation: 'compact' });
+                        return '$' + formatter.format(value);
+                    }
+                }
               },
               y1: {
                 title: {
@@ -49,6 +66,13 @@ async function draw_chart() {
                 // grid line settings
                 grid: {
                   drawOnChartArea: false, // only want the grid lines for one axis to show up
+                },
+                ticks: {
+                    // Include a dollar sign in the ticks
+                    callback: function(value, index, ticks) {
+                        let formatter = Intl.NumberFormat('en', { notation: 'compact' });
+                        return formatter.format(value);
+                    }
                 },
                 },
           }

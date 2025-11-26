@@ -155,3 +155,6 @@ Disputes must be resolved individually. No class actions or representative claim
     We may assign these Terms freely.
     Force majeure events (e.g. outages, disasters) excuse performance.
 ```
+
+<script src="/scripts/load_price.js?version=1"></script>
+<script src="/scripts/profile_main.js?version=1"></script>

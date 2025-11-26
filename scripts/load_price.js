@@ -15,14 +15,31 @@
 */
 var price;
 
+  function updateLTCValues() {
+      const myNumber = document.querySelectorAll('.ltc_amount');
+      myNumber.forEach((e) => {
+          const numericValue = parseFloat(e.textContent);
+          const formattedValue = Math.round(numericValue).toLocaleString();
+          e.textContent = formattedValue;
+      });
+   }
+  function updateUSDValues() {
+      const myNumber = document.querySelectorAll('.ltc_to_usd_amount');
+      myNumber.forEach((e) => {
+          console.log(price);
+          const numericValue = parseFloat(e.textContent) * price;
+          const formattedValue = Math.round(numericValue).toLocaleString();
+          e.textContent = formattedValue;
+      });
+   }
+
 async function load_price() {
     const priceResponse = await fetch("https://api.coingecko.com/api/v3/simple/price?vs_currencies=usd&ids=litecoin")
         .then(response => response.json()) // Parse JSON
         .then(result => {
             price = result['litecoin']['usd'];
-            document.getElementById("price-span").textContent="1 LTC = " + price + " USD (Powered by CoinGecko)";
-            var total = parseInt(document.getElementById("total").innerText.replace(/,/g, ''));
-            document.getElementById("total_usd").textContent=(total*price).toLocaleString();
+           updateLTCValues();
+           updateUSDValues();
         })
         .catch(error => {
             console.error('Error fetching price JSON:', error);

@@ -55,17 +55,13 @@ Copyright 2025 litecoinregister.com Developers
   {% for coin in site.data.profiles %}
       {% assign total = total | plus: coin[1].events[0].amount  %}
   {% endfor %}
-  Total Litecoin being tracked: <b><span id="total">{{ total }}</span> LTC</b> ($<span id="total_usd"></span>)
-  <script>
-    var total = parseFloat(document.getElementById('total').innerText);
-    document.getElementById("total").textContent=total.toLocaleString();
-  </script>
+  Total Litecoin being tracked: <b><span class="ltc_amount">{{ total }}</span> LTC</b> ($<span class="ltc_to_usd_amount">{{ total }}</span>)
 </p>
   </header>
   {{ content }}
 <footer>
 <div>
-  <span id="price-span"></span></br>
+  <span>1 LTC ~ $<span class="ltc_to_usd_amount">1</span> (Powered by CoinGecko)</span></br>
   Last Update: 11/22/2025</br>
   Copyright 2025 litecoinregister.com Developers
 </div> 
@@ -74,4 +70,8 @@ Copyright 2025 litecoinregister.com Developers
  {% if page.javascript_post_hook %}
     {% include {{ page.javascript_post_hook }} %}
  {% endif %}
+<script src="/scripts/load_price.js"></script>
+  <script>
+  
+  </script>
 </html>

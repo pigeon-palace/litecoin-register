@@ -15,7 +15,6 @@
 */
 const main = async () => {
   await load_price();
-  draw_datatable();
   draw_chart();
 };
 main();
