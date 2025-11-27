@@ -3,7 +3,7 @@
 
 {{ site.data.profiles[page.coin].description }}
 
-* Balance: <b><span class="ltc_amount">{{ site.data.profiles[page.coin].events[0].amount }}</span> LTC</b> ($<span class="ltc_to_usd_amount" ltc_amount="{{ site.data.profiles[page.coin].events[0].amount }}"></span>)
+* Balance: <b><span class="ltc_amount">{{ site.data.profiles[page.coin].events[0].amount }}</span> LTC</b> (<span class="ltc_to_usd_amount" ltc_amount="{{ site.data.profiles[page.coin].events[0].amount }}"></span>)
 * Symbol: `{{ site.data.profiles[page.coin].short }}`
 * Homepage: [{{ site.data.profiles[page.coin].name.homepage }}]({{ site.data.profiles[page.coin].name.homepage }})
 * Type: `{{ site.data.profiles[page.coin].type }}`
