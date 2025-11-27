@@ -43,8 +43,8 @@ def get_price():
         reader = csv.reader(f)
         table = list(reader)
         
-    price = requests.get("https://api.coingecko.com/api/v3/simple/price?vs_currencies=usd&ids=litecoin", headers=HEADERS).json()['litecoin']['usd']
-    table.append([datetime.now().strftime("%m/%d/%y"), price])
+    #price = requests.get("https://api.coingecko.com/api/v3/simple/price?vs_currencies=usd&ids=litecoin", headers=HEADERS).json()['litecoin']['usd']
+    #table.append([datetime.now().strftime("%m/%d/%y"), price])
     
     with open('price.csv', 'w', newline='') as f:
         writer = csv.writer(f)
