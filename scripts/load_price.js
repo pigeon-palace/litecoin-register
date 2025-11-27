@@ -24,12 +24,27 @@ var price;
       });
    }
   function updateUSDValues() {
-      const myNumber = document.querySelectorAll('.ltc_to_usd_amount');
+      var myNumber = document.querySelectorAll('.ltc_to_usd_amount');
       myNumber.forEach((e) => {
           console.log(e.getAttribute("ltc_amount"));
           const numericValue = parseFloat(e.getAttribute("ltc_amount")) * price;
           const formattedValue = Math.round(numericValue).toLocaleString();
-          e.textContent = formattedValue;
+          e.textContent = '$' + formattedValue;
+      });
+      myNumber = document.querySelectorAll('.ltc_to_usd_amount_exact');
+      myNumber.forEach((e) => {
+          console.log(e.getAttribute("ltc_amount"));
+          const numericValue = parseFloat(e.getAttribute("ltc_amount")) * price;
+          const formattedValue = numericValue.toLocaleString();
+          e.textContent = '$' + formattedValue;
+      });
+      myNumber = document.querySelectorAll('.ltc_to_usd_amount_compact');
+      myNumber.forEach((e) => {
+          console.log(e.getAttribute("ltc_amount"));
+          const numericValue = parseFloat(e.getAttribute("ltc_amount")) * price;
+          const formattedValue = Math.round(numericValue).toLocaleString();
+          let formatter = Intl.NumberFormat('en', { notation: 'compact' });
+          e.textContent = '$' + formatter.format(numericValue);
       });
    }
 

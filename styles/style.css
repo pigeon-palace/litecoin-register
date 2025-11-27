@@ -14,7 +14,11 @@ select {
 }
 .chart {
   width: 100%;
-  height: 500px;
+  height: 400px;
+  background: var(--accent-bg);
+  padding: 5px;
+  margin: 15px;
+  border-radius: 25px;
 }
 .ltc_amount {
   text-align: right;

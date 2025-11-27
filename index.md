@@ -32,7 +32,7 @@ javascript_post_hook: table_inject.html
         <td>{{ coin.type }}</td>
         <td>{{ coin.country }}</td>
         <td class="ltc_amount">{{ coin.events[0].amount }}</td>
-        <td style="text-align:right">$<span class="ltc_to_usd_amount" ltc_amount="{{ coin.events[0].amount }}">Loading...</span></td>
+        <td style="text-align:right"><span class="ltc_to_usd_amount_compact" ltc_amount="{{ coin.events[0].amount }}">Loading...</span></td>
     </tr>
     {% endfor %}
 </table>
