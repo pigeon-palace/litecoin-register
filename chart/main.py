@@ -61,7 +61,7 @@ def write_table():
     i = 0 
     out_table = []
     for row in price_table:
-        if i + 1 < len(event_table) and row[0] > event_table[i+1][0]:
+        if i + 1 < len(event_table) and row[0] >= event_table[i+1][0]:
             i += 1
         row = list(row + event_table[i][1:])
         row.append(sum(event_table[i][1:]))
