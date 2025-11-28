@@ -21,7 +21,7 @@
             "source": "https://bitwiseinvestments.eu/resources/proof-of-holdings/",
             "date": "November 15, 2025",
             "approx": false
-        },
+        }, 
         {
             "amount": 87546.0936,
             "source": "https://bitwiseinvestments.eu/resources/proof-of-holdings/",
@@ -38,6 +38,36 @@
             "amount": 83329.76,
             "source": "https://bitwiseinvestments.eu/products/bitwise-physical-litecoin-etp/#",
             "date": "November 4, 2025",
+            "approx": false
+        },
+        {
+            "amount": 81074.57,
+            "source": "https://bitwiseinvestments.eu/products/bitwise-physical-litecoin-etp/#",
+            "date": "October 9, 2025",
+            "approx": false
+        },
+        {
+            "amount": 75381.04,
+            "source": "https://bitwiseinvestments.eu/products/bitwise-physical-litecoin-etp/#",
+            "date": "September 7, 2025",
+            "approx": false
+        },
+        {
+            "amount": 74767.55,
+            "source": "https://bitwiseinvestments.eu/products/bitwise-physical-litecoin-etp/#",
+            "date": "August 3, 2025",
+            "approx": false
+        },
+        {
+            "amount": 81734.69,
+            "source": "https://bitwiseinvestments.eu/products/bitwise-physical-litecoin-etp/#",
+            "date": "June 20, 2025",
+            "approx": false
+        },
+        {
+            "amount": 79756,
+            "source": "https://bitwiseinvestments.eu/products/bitwise-physical-litecoin-etp/#",
+            "date": "May 21, 2025",
             "approx": false
         }
     ]
