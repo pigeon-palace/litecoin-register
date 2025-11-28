@@ -12,6 +12,20 @@ select {
     background-image: none !important;
     appearance: auto;
 }
+.flex-item {
+  width:100%;
+}
+.flex-container {
+  display: flex;
+}
+
+
+/* Make a one column-layout instead of three-column layout */
+@media (max-width: 600px) {
+  .flex-container {
+    flex-direction: column;
+  }
+}
 .chart {
   width: 100%;
   height: 400px;
@@ -25,4 +39,12 @@ select {
 }
 .ltc_to_usd_amount {
   text-align: right;
+}
+:root {
+  --grid-color: #d5d7df;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --grid-color: #4b4b4b;
+  }
 }

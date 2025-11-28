@@ -6,6 +6,7 @@ javascript_post_hook: table_inject.html
 
 <script src="/scripts/chart.js" ></script>
 <script src="/scripts/collapsetable.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
 <table id="main-table">
 <thead>
     <tr>

@@ -2,6 +2,8 @@
 async function draw_chart() {
     const ctx = document.getElementById('myChart');
 
+    var style = getComputedStyle(document.body);
+    var grid_color = style.getPropertyValue('--grid-color');
     new Chart(ctx, {
         type: 'line',
         data: {
@@ -23,7 +25,7 @@ async function draw_chart() {
                 maintainAspectRatio: false,
             elements: {
                 point:{
-                    radius: 0
+                    radius: 1
                 }
             },
             plugins: {
@@ -36,6 +38,13 @@ async function draw_chart() {
                 }
             },
           scales: {
+            x: {
+            
+                    grid: {
+                      color: grid_color
+                    },
+                type: 'time'
+        },
               y: {
                 title: {
                     display: true,
@@ -45,6 +54,9 @@ async function draw_chart() {
                 display: true,
                 position: 'left',
                 beginAtZero: true,
+                grid: {
+                  color: grid_color
+                },
                 ticks: {
                     // Include a dollar sign in the ticks
                     callback: function(value, index, ticks) {
