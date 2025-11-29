@@ -14,6 +14,7 @@ async function draw_chart() {
             }]
         },
         options: {
+            stepped: 'after',
             responsive: true,
             maintainAspectRatio: false,
             elements: {

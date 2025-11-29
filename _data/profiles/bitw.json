@@ -11,6 +11,12 @@
     "amount": 39547.25595674,
     "events":  [
         {
+            "amount": 39547.2559567400, 
+            "source": "https://bitwiseinvestments.com/crypto-funds/bitw", 
+            "date": "November 29, 2025",
+            "approx": false
+        },
+        {
             "amount": 39547.25595674, 
             "source": "https://bitwiseinvestments.com/crypto-funds/bitw", 
             "date": "November 12, 2025",
