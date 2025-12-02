@@ -7,6 +7,12 @@ javascript_post_hook: table_inject.html
 <script src="/scripts/chart.js" ></script>
 <script src="/scripts/collapsetable.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
+
+
+<div class="chart">
+  <canvas id="myChart"></canvas>
+</div>
+
 <table id="main-table">
 <thead>
     <tr>
@@ -39,10 +45,8 @@ javascript_post_hook: table_inject.html
 </table>
 
 
-<div class="chart">
-  <canvas id="myChart"></canvas>
-</div>
-<script src="/chart/chart.js?version=3"></script>
+<script src="/chart/chart_data.js"></script>
+<script src="/chart/chart.js"></script>
 <script src="/scripts/load_price.js"></script>
 <script src="/scripts/table_main.js?version=3"></script>
 <script>

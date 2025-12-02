@@ -4,16 +4,18 @@
 <script src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns/dist/chartjs-adapter-date-fns.bundle.min.js"></script>
 
 <script>
-var chart_ltc_data = [];
-var chart_labels = [];
-
-chart_ltc_data.push({{ site.data.profiles[page.coin].amount }});
-chart_labels.push(new Date());
-
+var chart_ltc_data = [
+{{ site.data.profiles[page.coin].amount }},
 {% for event in site.data.profiles[page.coin].events %}
-chart_ltc_data.push({{ event.amount }});
-chart_labels.push(new Date("{{ event.date }}"));
+{{ event.amount }},
 {% endfor %}
+];
+var chart_labels = [
+new Date(),
+{% for event in site.data.profiles[page.coin].events %}
+new Date("{{ event.date }}"),
+{% endfor %}
+];
 
 
 chart_title = "{{ site.data.profiles[page.coin].name.name }} Holdings (LTC)";
@@ -43,7 +45,7 @@ chart_title = "{{ site.data.profiles[page.coin].name.name }} Holdings (LTC)";
 <thead>
 <tr><th>Date</th><th>Amount</th><th>Source</th></tr>
 </thead>
-{% for event in site.data.profiles[page.coin].events %}
+{% for event in site.data.profiles[page.coin].events  limit:10  %}
   <tr><td>{{ event.date }}</td><td class="ltc_amount">{{ event.amount }}</td><td style="
   overflow: hidden;
   text-overflow: ellipsis;
@@ -52,6 +54,8 @@ chart_title = "{{ site.data.profiles[page.coin].name.name }} Holdings (LTC)";
   ><a href="{{ event.source }}">{{ event.source }}</a></td></tr>
 {% endfor %}
 </table>
+
+
 
 <script>
   var ct = new CollapseTable();

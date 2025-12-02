@@ -10,173 +10,6470 @@
     "country": "Hogwarts",
     "amount": 349265.3819778,
     "events": [
-        {
-            "amount": 349265.3819778,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "December 01, 2025",
-            "approx": false
-        },
-        {
-            "amount": 348919.59329204,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 30, 2025",
-            "approx": false
-        },
-        {
-            "amount": 348974.97875817,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 29, 2025",
-            "approx": false
-        },
-        {
-            "amount": 348994.22412024,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 28, 2025",
-            "approx": false
-        },
-        {
-            "amount": 347220.78467212,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 27, 2025",
-            "approx": false
-        },
-        {
-            "amount": 347362.01781426,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 26, 2025",
-            "approx": false
-        },
-        {
-            "amount": 346956.48509555,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 25, 2025",
-            "approx": false
-        },
-        {
-            "amount": 346908.67542447,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 24, 2025",
-            "approx": false
-        },
-        {
-            "amount": 346733.32544377,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 23, 2025",
-            "approx": false
-        },
-        {
-            "amount": 347022.67762735,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 22, 2025",
-            "approx": false
-        },
-        {
-            "amount": 347848.91002179,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 21, 2025",
-            "approx": false
-        },
-        {
-            "amount": 346144.98551997,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 20, 2025",
-            "approx": false
-        },
-        {
-            "amount": 354012.59754415,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 19, 2025",
-            "approx": false
-        },
-        {
-            "amount": 367548.93840166,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 18, 2025",
-            "approx": false
-        },
-        {
-            "amount": 365846.08982241,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 17, 2025",
-            "approx": false
-        },
-        {
-            "amount": 363004.96802412,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 16, 2025",
-            "approx": false
-        },
-        {
-            "amount": 362791.73660024,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 15, 2025",
-            "approx": false
-        },
-        {
-            "amount": 364599.20780312,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 14, 2025",
-            "approx": false
-        },
-        {
-            "amount": 369636.65205549,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 13, 2025",
-            "approx": false
-        },
-        {
-            "amount": 362568.32244435,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 12, 2025",
-            "approx": false
-        },
-        {
-            "amount": 362154.17181159,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 11, 2025",
-            "approx": false
-        },
-        {
-            "amount": 356998.17286166,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 10, 2025",
-            "approx": false
-        },
-        {
-            "amount": 343349.77624573,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "November 09, 2025",
-            "approx": false
-        },
-        {
-            "amount": 167896.7187,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "August 1, 2025",
-            "approx": false
-        },
-        {
-            "amount": 104711,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "January 1, 2025",
-            "approx": false
-        },
-        {
-            "amount": 51084.7674,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "July 19, 2024",
-            "approx": false
-        },
-        {
-            "amount": 26686,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "January 1, 2024",
-            "approx": false
-        },
-        {
-            "amount": 14564.4937,
-            "source": "https://www.mwebexplorer.com/charts/mwebbalance",
-            "date": "July 19, 2023",
-            "approx": false
-        }
-    ]
+  {
+    "date": "December 02, 2025",
+    "amount": 348803.24884035,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 01, 2025",
+    "amount": 348791.76097036,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 30, 2025",
+    "amount": 349280.54956324,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 29, 2025",
+    "amount": 349076.21917162,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 28, 2025",
+    "amount": 349052.55981142,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 27, 2025",
+    "amount": 349051.73433789,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 26, 2025",
+    "amount": 347266.22034834,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 25, 2025",
+    "amount": 347822.18218972,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 24, 2025",
+    "amount": 346931.26334305,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 23, 2025",
+    "amount": 347132.95446328,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 22, 2025",
+    "amount": 346834.79165518,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 21, 2025",
+    "amount": 346963.93945976,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 20, 2025",
+    "amount": 347708.9953268,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 19, 2025",
+    "amount": 349139.05955961,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 18, 2025",
+    "amount": 358122.75051511,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 17, 2025",
+    "amount": 367167.12989922,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 16, 2025",
+    "amount": 365945.40469133,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 15, 2025",
+    "amount": 365899.03666088,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 14, 2025",
+    "amount": 363217.3998694,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 13, 2025",
+    "amount": 364822.57407435,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 12, 2025",
+    "amount": 369793.88092132,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 11, 2025",
+    "amount": 362476.2275916,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 10, 2025",
+    "amount": 362555.19520046,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 09, 2025",
+    "amount": 343732.01644958,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 08, 2025",
+    "amount": 329321.82076741,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 07, 2025",
+    "amount": 301401.78787753,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 06, 2025",
+    "amount": 305062.22947852,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 05, 2025",
+    "amount": 305569.2077723,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 04, 2025",
+    "amount": 275492.97106957,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 03, 2025",
+    "amount": 274815.1858898,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 02, 2025",
+    "amount": 274884.17309696,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 01, 2025",
+    "amount": 280606.0592123,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 31, 2025",
+    "amount": 280643.29539544,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 30, 2025",
+    "amount": 266557.94670327,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 29, 2025",
+    "amount": 259233.7214954,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 28, 2025",
+    "amount": 261990.4505883,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 27, 2025",
+    "amount": 259726.37918593,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 26, 2025",
+    "amount": 260649.52014778,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 25, 2025",
+    "amount": 245933.11708224,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 24, 2025",
+    "amount": 238068.19859034,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 23, 2025",
+    "amount": 238201.02176079,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 22, 2025",
+    "amount": 226383.40208889,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 21, 2025",
+    "amount": 225707.82658682,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 20, 2025",
+    "amount": 225428.55825923,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 19, 2025",
+    "amount": 225051.83855784,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 18, 2025",
+    "amount": 219659.25676423,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 17, 2025",
+    "amount": 216337.66395768,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 16, 2025",
+    "amount": 192073.01666403,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 15, 2025",
+    "amount": 189958.2149269,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 14, 2025",
+    "amount": 187339.81601013,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 13, 2025",
+    "amount": 189956.50983329,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 12, 2025",
+    "amount": 189427.93673861,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 11, 2025",
+    "amount": 186676.93626253,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 10, 2025",
+    "amount": 186246.14123678,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 09, 2025",
+    "amount": 188234.38062375,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 08, 2025",
+    "amount": 188271.46472597,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 07, 2025",
+    "amount": 187780.74557823,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 06, 2025",
+    "amount": 185163.24635895,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 05, 2025",
+    "amount": 184588.25167486,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 04, 2025",
+    "amount": 184442.61999476,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 03, 2025",
+    "amount": 184631.43165986,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 02, 2025",
+    "amount": 184741.04112259,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 01, 2025",
+    "amount": 185954.72573509,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 30, 2025",
+    "amount": 185292.9893123,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 29, 2025",
+    "amount": 184728.51736316,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 28, 2025",
+    "amount": 185015.82602615,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 27, 2025",
+    "amount": 185046.04418536,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 26, 2025",
+    "amount": 184886.4344479,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 25, 2025",
+    "amount": 184334.8973381,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 24, 2025",
+    "amount": 183601.57236213,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 23, 2025",
+    "amount": 187809.69946233,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 22, 2025",
+    "amount": 183485.04000062,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 21, 2025",
+    "amount": 183364.67423535,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 20, 2025",
+    "amount": 183216.90480901,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 19, 2025",
+    "amount": 183625.53173546,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 18, 2025",
+    "amount": 183627.78088524,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 17, 2025",
+    "amount": 183523.89774869,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 16, 2025",
+    "amount": 183236.45347966,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 15, 2025",
+    "amount": 183207.76575326,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 14, 2025",
+    "amount": 183211.61483276,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 13, 2025",
+    "amount": 183622.54001795,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 12, 2025",
+    "amount": 183770.34867939,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 11, 2025",
+    "amount": 183888.54684742,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 10, 2025",
+    "amount": 183813.00279738,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 09, 2025",
+    "amount": 182622.81341479,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 08, 2025",
+    "amount": 183236.79527535,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 07, 2025",
+    "amount": 183250.24108007,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 06, 2025",
+    "amount": 183209.3718616,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 05, 2025",
+    "amount": 183165.79214397,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 04, 2025",
+    "amount": 183519.47727317,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 03, 2025",
+    "amount": 183804.88980025,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 02, 2025",
+    "amount": 183203.93051926,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 01, 2025",
+    "amount": 183408.54951885,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 31, 2025",
+    "amount": 182554.5699422,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 30, 2025",
+    "amount": 178910.72331403,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 29, 2025",
+    "amount": 179332.35549778,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 28, 2025",
+    "amount": 179718.90341747,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 27, 2025",
+    "amount": 176770.87795585,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 26, 2025",
+    "amount": 179793.13662279,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 25, 2025",
+    "amount": 178503.87171462,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 24, 2025",
+    "amount": 173816.13016906,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 23, 2025",
+    "amount": 173230.3960573,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 22, 2025",
+    "amount": 173239.54238158,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 21, 2025",
+    "amount": 173186.82297948,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 20, 2025",
+    "amount": 172678.87198626,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 19, 2025",
+    "amount": 173035.23985545,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 18, 2025",
+    "amount": 172358.97326043,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 17, 2025",
+    "amount": 173129.37148688,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 16, 2025",
+    "amount": 176638.80215571,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 15, 2025",
+    "amount": 173570.68967749,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 14, 2025",
+    "amount": 173504.39319845,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 13, 2025",
+    "amount": 173565.2356891,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 12, 2025",
+    "amount": 173573.73926411,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 11, 2025",
+    "amount": 173305.18501533,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 10, 2025",
+    "amount": 173057.24635018,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 09, 2025",
+    "amount": 168089.64807467,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 08, 2025",
+    "amount": 168414.82797226,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 07, 2025",
+    "amount": 167236.14716812,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 06, 2025",
+    "amount": 169089.2190676,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 05, 2025",
+    "amount": 167189.21067719,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 04, 2025",
+    "amount": 168405.52433138,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 03, 2025",
+    "amount": 170617.44985483,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 02, 2025",
+    "amount": 168727.25774775,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 01, 2025",
+    "amount": 167993.20002335,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 31, 2025",
+    "amount": 167853.73222424,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 30, 2025",
+    "amount": 167863.56146453,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 29, 2025",
+    "amount": 168368.16756237,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 28, 2025",
+    "amount": 167629.06027395,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 27, 2025",
+    "amount": 167242.76744729,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 26, 2025",
+    "amount": 166894.31770585,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 25, 2025",
+    "amount": 166561.45931446,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 24, 2025",
+    "amount": 166375.85880413,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 23, 2025",
+    "amount": 164974.00226819,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 22, 2025",
+    "amount": 157985.64926464,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 21, 2025",
+    "amount": 157581.2056661,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 20, 2025",
+    "amount": 157691.49258043,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 19, 2025",
+    "amount": 158020.20226811,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 18, 2025",
+    "amount": 158036.29035795,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 17, 2025",
+    "amount": 157351.84333583,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 16, 2025",
+    "amount": 157765.99398225,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 15, 2025",
+    "amount": 157298.77508553,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 14, 2025",
+    "amount": 160184.86921318,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 13, 2025",
+    "amount": 155658.96055967,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 12, 2025",
+    "amount": 155188.11021852,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 11, 2025",
+    "amount": 155060.3692212,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 10, 2025",
+    "amount": 155733.41290028,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 09, 2025",
+    "amount": 155567.87834783,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 08, 2025",
+    "amount": 155578.42047249,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 07, 2025",
+    "amount": 155378.8662891,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 06, 2025",
+    "amount": 155921.89238205,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 05, 2025",
+    "amount": 155546.30123303,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 04, 2025",
+    "amount": 155672.77844863,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 03, 2025",
+    "amount": 155388.25353118,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 02, 2025",
+    "amount": 155964.03238486,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 01, 2025",
+    "amount": 155810.74528647,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 30, 2025",
+    "amount": 156127.57069797,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 29, 2025",
+    "amount": 155569.03081074,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 28, 2025",
+    "amount": 155307.1200469,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 27, 2025",
+    "amount": 155563.72977024,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 26, 2025",
+    "amount": 155384.49622831,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 25, 2025",
+    "amount": 155290.49398589,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 24, 2025",
+    "amount": 154898.81736996,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 23, 2025",
+    "amount": 155035.62566064,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 22, 2025",
+    "amount": 154229.39510162,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 21, 2025",
+    "amount": 154118.76525911,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 20, 2025",
+    "amount": 152834.67950173,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 19, 2025",
+    "amount": 152459.46028509,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 18, 2025",
+    "amount": 152858.3788551,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 17, 2025",
+    "amount": 152215.37843232,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 16, 2025",
+    "amount": 152166.06169545,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 15, 2025",
+    "amount": 154146.39492504,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 14, 2025",
+    "amount": 154462.89408751,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 13, 2025",
+    "amount": 152971.07734793,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 12, 2025",
+    "amount": 151723.12436996,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 11, 2025",
+    "amount": 151942.84463845,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 10, 2025",
+    "amount": 151327.75487788,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 09, 2025",
+    "amount": 150969.5339862,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 08, 2025",
+    "amount": 150659.05440044,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 07, 2025",
+    "amount": 150864.71309959,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 06, 2025",
+    "amount": 150158.07740743,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 05, 2025",
+    "amount": 149997.319016,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 04, 2025",
+    "amount": 148542.99270782,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 03, 2025",
+    "amount": 148369.51364412,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 02, 2025",
+    "amount": 148320.71524632,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 01, 2025",
+    "amount": 148148.80868317,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 31, 2025",
+    "amount": 148146.36835241,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 30, 2025",
+    "amount": 148265.43916895,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 29, 2025",
+    "amount": 148190.64677181,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 28, 2025",
+    "amount": 148257.63393764,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 27, 2025",
+    "amount": 147229.19607603,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 26, 2025",
+    "amount": 147453.50736496,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 25, 2025",
+    "amount": 147320.552364,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 24, 2025",
+    "amount": 147516.03852616,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 23, 2025",
+    "amount": 147192.91874165,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 22, 2025",
+    "amount": 147174.99351227,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 21, 2025",
+    "amount": 147592.35741049,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 20, 2025",
+    "amount": 147804.62865813,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 19, 2025",
+    "amount": 147081.02377555,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 18, 2025",
+    "amount": 147407.9986373,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 17, 2025",
+    "amount": 147402.39620211,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 16, 2025",
+    "amount": 146965.64861603,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 15, 2025",
+    "amount": 146782.06059916,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 14, 2025",
+    "amount": 146804.56610521,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 13, 2025",
+    "amount": 147066.39908984,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 12, 2025",
+    "amount": 146772.62740326,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 11, 2025",
+    "amount": 146889.64261123,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 10, 2025",
+    "amount": 146868.60934906,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 09, 2025",
+    "amount": 147275.18042738,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 08, 2025",
+    "amount": 146718.22990815,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 07, 2025",
+    "amount": 146661.92632379,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 06, 2025",
+    "amount": 147049.15223491,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 05, 2025",
+    "amount": 146715.1065139,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 04, 2025",
+    "amount": 147103.97412873,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 03, 2025",
+    "amount": 147564.03894011,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 02, 2025",
+    "amount": 149156.80350493,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 01, 2025",
+    "amount": 146927.96015632,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 30, 2025",
+    "amount": 147043.80655914,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 29, 2025",
+    "amount": 147645.20541161,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 28, 2025",
+    "amount": 147993.61703441,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 27, 2025",
+    "amount": 148004.3311178,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 26, 2025",
+    "amount": 148501.31078819,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 25, 2025",
+    "amount": 146424.13209448,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 24, 2025",
+    "amount": 146286.47198412,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 23, 2025",
+    "amount": 144424.40552187,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 22, 2025",
+    "amount": 142132.34896942,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 21, 2025",
+    "amount": 141071.9955403,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 20, 2025",
+    "amount": 141419.4004991,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 19, 2025",
+    "amount": 141063.68470094,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 18, 2025",
+    "amount": 141784.63165196,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 17, 2025",
+    "amount": 141778.93583704,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 16, 2025",
+    "amount": 141114.48842782,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 15, 2025",
+    "amount": 140068.13902704,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 14, 2025",
+    "amount": 140017.49073337,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 13, 2025",
+    "amount": 140324.9268212,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 12, 2025",
+    "amount": 139812.77183044,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 11, 2025",
+    "amount": 139640.58728322,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 10, 2025",
+    "amount": 139921.05573183,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 09, 2025",
+    "amount": 139181.83795446,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 08, 2025",
+    "amount": 137709.45027898,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 07, 2025",
+    "amount": 135817.75901935,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 06, 2025",
+    "amount": 133843.93410423,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 05, 2025",
+    "amount": 133100.10069916,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 04, 2025",
+    "amount": 131968.06079967,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 03, 2025",
+    "amount": 131709.33442528,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 02, 2025",
+    "amount": 130794.53299285,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 01, 2025",
+    "amount": 130011.04398666,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 31, 2025",
+    "amount": 129627.74197611,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 30, 2025",
+    "amount": 129210.97392324,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 29, 2025",
+    "amount": 130027.98329349,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 28, 2025",
+    "amount": 129406.13818664,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 27, 2025",
+    "amount": 128850.77502614,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 26, 2025",
+    "amount": 125734.63331471,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 25, 2025",
+    "amount": 125430.92310358,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 24, 2025",
+    "amount": 125462.23603674,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 23, 2025",
+    "amount": 125945.7911209,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 22, 2025",
+    "amount": 125868.12553342,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 21, 2025",
+    "amount": 125865.09239376,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 20, 2025",
+    "amount": 125544.32011018,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 19, 2025",
+    "amount": 124550.14215923,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 18, 2025",
+    "amount": 124048.23333524,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 17, 2025",
+    "amount": 123153.64488502,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 16, 2025",
+    "amount": 123945.34318178,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 15, 2025",
+    "amount": 123822.41066516,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 14, 2025",
+    "amount": 123908.71068622,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 13, 2025",
+    "amount": 124641.86268919,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 12, 2025",
+    "amount": 124536.59555809,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 11, 2025",
+    "amount": 124681.00237114,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 10, 2025",
+    "amount": 124343.36128729,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 09, 2025",
+    "amount": 124330.41639617,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 08, 2025",
+    "amount": 123816.73936849,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 07, 2025",
+    "amount": 122843.34246197,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 06, 2025",
+    "amount": 123247.47951576,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 05, 2025",
+    "amount": 123121.40732987,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 04, 2025",
+    "amount": 123693.2245332,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 03, 2025",
+    "amount": 123797.3867866,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 02, 2025",
+    "amount": 122987.54261735,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 01, 2025",
+    "amount": 122578.69976379,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 28, 2025",
+    "amount": 122404.70946541,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 27, 2025",
+    "amount": 122803.01353747,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 26, 2025",
+    "amount": 122864.62238616,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 25, 2025",
+    "amount": 123136.65325809,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 24, 2025",
+    "amount": 123091.08150806,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 23, 2025",
+    "amount": 123391.135835,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 22, 2025",
+    "amount": 123438.01548377,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 21, 2025",
+    "amount": 124039.59287746,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 20, 2025",
+    "amount": 124013.89628602,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 19, 2025",
+    "amount": 123494.93712696,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 18, 2025",
+    "amount": 123352.93864682,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 17, 2025",
+    "amount": 123243.7397765,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 16, 2025",
+    "amount": 122570.70130595,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 15, 2025",
+    "amount": 123865.54985971,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 14, 2025",
+    "amount": 123382.68420354,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 13, 2025",
+    "amount": 123154.18496121,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 12, 2025",
+    "amount": 122781.57382168,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 11, 2025",
+    "amount": 121958.64553092,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 10, 2025",
+    "amount": 122950.35711861,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 09, 2025",
+    "amount": 123084.86888854,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 08, 2025",
+    "amount": 123481.21390439,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 07, 2025",
+    "amount": 124316.52029194,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 06, 2025",
+    "amount": 124052.89704698,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 05, 2025",
+    "amount": 123732.97162822,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 04, 2025",
+    "amount": 121851.10258789,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 03, 2025",
+    "amount": 120984.67274991,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 02, 2025",
+    "amount": 119632.88152986,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 01, 2025",
+    "amount": 119475.63579068,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 31, 2025",
+    "amount": 118727.23779888,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 30, 2025",
+    "amount": 118902.90546545,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 29, 2025",
+    "amount": 118833.09702999,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 28, 2025",
+    "amount": 118790.54035598,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 27, 2025",
+    "amount": 117864.06852486,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 26, 2025",
+    "amount": 116231.48516028,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 25, 2025",
+    "amount": 115620.44321781,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 24, 2025",
+    "amount": 114935.01226037,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 23, 2025",
+    "amount": 115814.06646322,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 22, 2025",
+    "amount": 113831.61663131,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 21, 2025",
+    "amount": 114659.19476785,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 20, 2025",
+    "amount": 114090.8090885,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 19, 2025",
+    "amount": 113516.807203,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 18, 2025",
+    "amount": 113743.8587527,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 17, 2025",
+    "amount": 113360.99133002,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 16, 2025",
+    "amount": 113309.03229469,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 15, 2025",
+    "amount": 112135.0449244,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 14, 2025",
+    "amount": 112433.90239385,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 13, 2025",
+    "amount": 112038.11864374,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 12, 2025",
+    "amount": 109130.94705883,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 11, 2025",
+    "amount": 106910.87493402,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 10, 2025",
+    "amount": 106675.64057815,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 09, 2025",
+    "amount": 106340.95159033,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 08, 2025",
+    "amount": 105737.89798079,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 07, 2025",
+    "amount": 105176.63930546,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 06, 2025",
+    "amount": 104970.32849754,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 05, 2025",
+    "amount": 104609.31552305,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 04, 2025",
+    "amount": 105000.53130965,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 03, 2025",
+    "amount": 104774.94737579,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 02, 2025",
+    "amount": 105142.3312102,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 01, 2025",
+    "amount": 104699.46982714,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 31, 2024",
+    "amount": 104748.47568451,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 30, 2024",
+    "amount": 103521.35884013,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 29, 2024",
+    "amount": 103197.81773679,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 28, 2024",
+    "amount": 102791.06384788,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 27, 2024",
+    "amount": 103057.82418015,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 26, 2024",
+    "amount": 102781.80239343,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 25, 2024",
+    "amount": 101293.65590024,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 24, 2024",
+    "amount": 100414.9874153,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 23, 2024",
+    "amount": 100185.06543183,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 22, 2024",
+    "amount": 100723.23341082,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 21, 2024",
+    "amount": 101358.9402361,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 20, 2024",
+    "amount": 99377.7734811,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 19, 2024",
+    "amount": 98712.90434876,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 18, 2024",
+    "amount": 97526.94182154,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 17, 2024",
+    "amount": 96960.07994637,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 16, 2024",
+    "amount": 99785.34049337,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 15, 2024",
+    "amount": 99272.92418175,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 14, 2024",
+    "amount": 98586.37479415,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 13, 2024",
+    "amount": 98383.67072205,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 12, 2024",
+    "amount": 98428.99426701,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 11, 2024",
+    "amount": 99147.52554907,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 10, 2024",
+    "amount": 99726.65044774,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 09, 2024",
+    "amount": 100003.98163324,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 08, 2024",
+    "amount": 99725.22545228,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 07, 2024",
+    "amount": 100055.56491621,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 06, 2024",
+    "amount": 100381.28048623,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 05, 2024",
+    "amount": 100127.61599288,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 04, 2024",
+    "amount": 99221.38615575,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 03, 2024",
+    "amount": 99175.60242473,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 02, 2024",
+    "amount": 100267.24321091,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 01, 2024",
+    "amount": 103510.02922933,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 30, 2024",
+    "amount": 110419.20215591,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 29, 2024",
+    "amount": 123654.05187829,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 28, 2024",
+    "amount": 137708.4267673,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 27, 2024",
+    "amount": 140668.3160513,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 26, 2024",
+    "amount": 101350.11194424,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 25, 2024",
+    "amount": 100857.44242777,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 24, 2024",
+    "amount": 102039.99176536,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 23, 2024",
+    "amount": 96859.70694703,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 22, 2024",
+    "amount": 95166.85400761,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 21, 2024",
+    "amount": 94997.91681061,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 20, 2024",
+    "amount": 94804.71083248,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 19, 2024",
+    "amount": 95467.87235564,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 18, 2024",
+    "amount": 98471.70657362,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 17, 2024",
+    "amount": 98816.01765334,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 16, 2024",
+    "amount": 98244.4586215,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 15, 2024",
+    "amount": 98111.53857698,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 14, 2024",
+    "amount": 98439.66052308,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 13, 2024",
+    "amount": 97833.62527406,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 12, 2024",
+    "amount": 98329.81013659,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 11, 2024",
+    "amount": 99723.37029578,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 10, 2024",
+    "amount": 99828.02070491,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 09, 2024",
+    "amount": 100504.14977085,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 08, 2024",
+    "amount": 100193.23000388,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 07, 2024",
+    "amount": 99391.14875775,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 06, 2024",
+    "amount": 99210.92891998,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 05, 2024",
+    "amount": 99947.69682768,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 04, 2024",
+    "amount": 99574.95540094,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 03, 2024",
+    "amount": 98623.04793921,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 02, 2024",
+    "amount": 98675.20447971,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 01, 2024",
+    "amount": 97943.48613827,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 31, 2024",
+    "amount": 97900.26093009,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 30, 2024",
+    "amount": 89900.77279069,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 29, 2024",
+    "amount": 89849.24373972,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 28, 2024",
+    "amount": 89363.6513166,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 27, 2024",
+    "amount": 89185.70740946,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 26, 2024",
+    "amount": 90207.79231386,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 25, 2024",
+    "amount": 89982.40554221,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 24, 2024",
+    "amount": 89760.47470951,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 23, 2024",
+    "amount": 89880.96094577,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 22, 2024",
+    "amount": 89282.72922871,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 21, 2024",
+    "amount": 88041.35640328,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 20, 2024",
+    "amount": 86697.48389657,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 19, 2024",
+    "amount": 87222.16212884,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 18, 2024",
+    "amount": 87043.38131137,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 17, 2024",
+    "amount": 86630.12825425,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 16, 2024",
+    "amount": 86659.49938169,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 15, 2024",
+    "amount": 85298.50847388,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 14, 2024",
+    "amount": 85833.81476703,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 13, 2024",
+    "amount": 84958.85749724,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 12, 2024",
+    "amount": 85139.19412736,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 11, 2024",
+    "amount": 85152.58054027,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 10, 2024",
+    "amount": 84230.26299394,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 09, 2024",
+    "amount": 84170.71732722,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 08, 2024",
+    "amount": 84211.01797089,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 07, 2024",
+    "amount": 84128.33981264,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 06, 2024",
+    "amount": 84354.00574499,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 05, 2024",
+    "amount": 84422.99434822,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 04, 2024",
+    "amount": 85175.44540644,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 03, 2024",
+    "amount": 83865.1921426,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 02, 2024",
+    "amount": 84030.06966161,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 01, 2024",
+    "amount": 83840.52930154,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 30, 2024",
+    "amount": 83819.14754095,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 29, 2024",
+    "amount": 83463.05799073,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 28, 2024",
+    "amount": 83852.62460802,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 27, 2024",
+    "amount": 83115.19180899,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 26, 2024",
+    "amount": 83041.70942564,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 25, 2024",
+    "amount": 82853.90971,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 24, 2024",
+    "amount": 81745.07783357,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 23, 2024",
+    "amount": 80285.32004356,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 22, 2024",
+    "amount": 79321.57444038,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 21, 2024",
+    "amount": 79281.33410407,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 20, 2024",
+    "amount": 79155.1798722,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 19, 2024",
+    "amount": 79160.54408111,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 18, 2024",
+    "amount": 78988.59774086,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 17, 2024",
+    "amount": 78591.15225012,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 16, 2024",
+    "amount": 78364.30332924,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 15, 2024",
+    "amount": 78688.7583923,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 14, 2024",
+    "amount": 78462.31401903,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 13, 2024",
+    "amount": 72351.39248205,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 12, 2024",
+    "amount": 71907.10456189,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 11, 2024",
+    "amount": 73613.33718935,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 10, 2024",
+    "amount": 72160.29738945,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 09, 2024",
+    "amount": 71425.81143789,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 08, 2024",
+    "amount": 71155.28753246,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 07, 2024",
+    "amount": 70889.32221691,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 06, 2024",
+    "amount": 71057.63664852,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 05, 2024",
+    "amount": 71202.96659964,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 04, 2024",
+    "amount": 71078.89753334,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 03, 2024",
+    "amount": 71169.77183565,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 02, 2024",
+    "amount": 71017.44462469,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 01, 2024",
+    "amount": 71233.71230437,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 31, 2024",
+    "amount": 70936.93390907,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 30, 2024",
+    "amount": 71090.26801562,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 29, 2024",
+    "amount": 71034.89954353,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 28, 2024",
+    "amount": 71330.83197698,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 27, 2024",
+    "amount": 70922.16411903,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 26, 2024",
+    "amount": 71022.41381751,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 25, 2024",
+    "amount": 70705.00840206,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 24, 2024",
+    "amount": 70845.16276491,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 23, 2024",
+    "amount": 70167.67789685,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 22, 2024",
+    "amount": 69482.32090357,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 21, 2024",
+    "amount": 69224.08624707,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 20, 2024",
+    "amount": 69211.69504058,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 19, 2024",
+    "amount": 68816.99481293,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 18, 2024",
+    "amount": 68563.10181122,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 17, 2024",
+    "amount": 67327.99759469,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 16, 2024",
+    "amount": 66796.28615344,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 15, 2024",
+    "amount": 67010.16744127,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 14, 2024",
+    "amount": 66556.4037489,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 13, 2024",
+    "amount": 66565.40622922,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 12, 2024",
+    "amount": 66160.40996074,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 11, 2024",
+    "amount": 65906.39728099,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 10, 2024",
+    "amount": 64349.1570949,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 09, 2024",
+    "amount": 63751.09380205,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 08, 2024",
+    "amount": 63439.93015078,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 07, 2024",
+    "amount": 57430.7174731,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 06, 2024",
+    "amount": 57482.32701166,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 05, 2024",
+    "amount": 56932.70971114,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 04, 2024",
+    "amount": 57390.64773272,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 03, 2024",
+    "amount": 56873.71399988,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 02, 2024",
+    "amount": 56202.0215881,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 01, 2024",
+    "amount": 56384.43704963,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 31, 2024",
+    "amount": 56222.82391046,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 30, 2024",
+    "amount": 56254.49776931,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 29, 2024",
+    "amount": 55794.41480392,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 28, 2024",
+    "amount": 55999.08306778,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 27, 2024",
+    "amount": 55544.56621622,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 26, 2024",
+    "amount": 55961.58361505,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 25, 2024",
+    "amount": 56055.22363056,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 24, 2024",
+    "amount": 53126.04350313,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 23, 2024",
+    "amount": 52089.37101582,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 22, 2024",
+    "amount": 52439.14351635,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 21, 2024",
+    "amount": 51710.23527967,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 20, 2024",
+    "amount": 51637.44435028,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 19, 2024",
+    "amount": 51654.04146669,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 18, 2024",
+    "amount": 50741.45557074,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 17, 2024",
+    "amount": 50825.28732052,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 16, 2024",
+    "amount": 51104.47911209,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 15, 2024",
+    "amount": 50849.82974909,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 14, 2024",
+    "amount": 51162.1427737,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 13, 2024",
+    "amount": 50885.05655259,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 12, 2024",
+    "amount": 50926.94672659,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 11, 2024",
+    "amount": 51413.33118576,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 10, 2024",
+    "amount": 51376.06651145,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 09, 2024",
+    "amount": 50284.06258689,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 08, 2024",
+    "amount": 50386.75537828,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 07, 2024",
+    "amount": 50290.47110253,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 06, 2024",
+    "amount": 50264.24210221,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 05, 2024",
+    "amount": 50210.48254561,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 04, 2024",
+    "amount": 47109.73467679,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 03, 2024",
+    "amount": 47234.29353154,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 02, 2024",
+    "amount": 45604.34072671,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 01, 2024",
+    "amount": 45952.26119582,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 30, 2024",
+    "amount": 45663.27511444,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 29, 2024",
+    "amount": 43911.05181157,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 28, 2024",
+    "amount": 43900.50374307,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 27, 2024",
+    "amount": 44105.48589565,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 26, 2024",
+    "amount": 44273.76246911,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 25, 2024",
+    "amount": 43873.37577434,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 24, 2024",
+    "amount": 44108.68746967,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 23, 2024",
+    "amount": 44443.78225523,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 22, 2024",
+    "amount": 44345.90553981,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 21, 2024",
+    "amount": 44081.14076468,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 20, 2024",
+    "amount": 43965.42541093,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 19, 2024",
+    "amount": 43877.84906629,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 18, 2024",
+    "amount": 43828.68601739,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 17, 2024",
+    "amount": 44012.6079286,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 16, 2024",
+    "amount": 44083.07183683,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 15, 2024",
+    "amount": 43895.52113914,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 14, 2024",
+    "amount": 43654.30752594,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 13, 2024",
+    "amount": 43063.34635186,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 12, 2024",
+    "amount": 43169.78697088,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 11, 2024",
+    "amount": 43113.81443644,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 10, 2024",
+    "amount": 43660.72574932,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 09, 2024",
+    "amount": 43557.78555029,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 08, 2024",
+    "amount": 43422.67194756,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 07, 2024",
+    "amount": 43040.99473173,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 06, 2024",
+    "amount": 43170.25289802,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 05, 2024",
+    "amount": 46464.97958945,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 04, 2024",
+    "amount": 46715.63406356,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 03, 2024",
+    "amount": 46612.86348167,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 02, 2024",
+    "amount": 46941.06144762,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 01, 2024",
+    "amount": 46512.91232534,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 31, 2024",
+    "amount": 46492.1117815,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 30, 2024",
+    "amount": 49510.28959919,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 29, 2024",
+    "amount": 49845.76113729,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 28, 2024",
+    "amount": 49827.06557685,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 27, 2024",
+    "amount": 49783.77857279,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 26, 2024",
+    "amount": 49197.26515089,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 25, 2024",
+    "amount": 49179.74083124,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 24, 2024",
+    "amount": 49894.37175176,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 23, 2024",
+    "amount": 49703.26409077,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 22, 2024",
+    "amount": 48122.97616674,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 21, 2024",
+    "amount": 48103.23533679,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 20, 2024",
+    "amount": 48102.1613348,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 19, 2024",
+    "amount": 49395.12073611,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 18, 2024",
+    "amount": 48606.66359475,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 17, 2024",
+    "amount": 48105.2380679,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 16, 2024",
+    "amount": 47516.13913433,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 15, 2024",
+    "amount": 35059.79508204,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 14, 2024",
+    "amount": 34676.42903154,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 13, 2024",
+    "amount": 34598.16044487,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 12, 2024",
+    "amount": 34382.80989896,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 11, 2024",
+    "amount": 34715.37705623,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 10, 2024",
+    "amount": 34581.91457368,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 09, 2024",
+    "amount": 34132.7031997,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 08, 2024",
+    "amount": 32056.86213513,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 07, 2024",
+    "amount": 31842.72865799,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 06, 2024",
+    "amount": 31466.80890897,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 05, 2024",
+    "amount": 29867.61883869,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 04, 2024",
+    "amount": 29796.14933379,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 03, 2024",
+    "amount": 29667.83398139,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 02, 2024",
+    "amount": 29707.94790076,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 01, 2024",
+    "amount": 29772.16029328,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 30, 2024",
+    "amount": 29832.9782118,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 29, 2024",
+    "amount": 29588.75821545,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 28, 2024",
+    "amount": 29570.88422346,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 27, 2024",
+    "amount": 29712.74116571,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 26, 2024",
+    "amount": 29644.41849713,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 25, 2024",
+    "amount": 29892.93209175,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 24, 2024",
+    "amount": 29748.06779676,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 23, 2024",
+    "amount": 29358.61754017,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 22, 2024",
+    "amount": 29901.05588777,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 21, 2024",
+    "amount": 29400.39299697,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 20, 2024",
+    "amount": 29347.57782667,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 19, 2024",
+    "amount": 29458.03643818,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 18, 2024",
+    "amount": 29297.75768227,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 17, 2024",
+    "amount": 29556.63165299,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 16, 2024",
+    "amount": 29140.52078531,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 15, 2024",
+    "amount": 29119.25990793,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 14, 2024",
+    "amount": 29184.3874542,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 13, 2024",
+    "amount": 29304.30252793,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 12, 2024",
+    "amount": 30674.54044899,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 11, 2024",
+    "amount": 30579.71866146,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 10, 2024",
+    "amount": 30771.48047527,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 09, 2024",
+    "amount": 31008.4169436,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 08, 2024",
+    "amount": 30661.88636259,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 07, 2024",
+    "amount": 30999.53018151,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 06, 2024",
+    "amount": 30866.81758621,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 05, 2024",
+    "amount": 30900.33164494,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 04, 2024",
+    "amount": 30671.08001667,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 03, 2024",
+    "amount": 30789.54695011,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 02, 2024",
+    "amount": 30718.69688381,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 01, 2024",
+    "amount": 30779.65807077,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 31, 2024",
+    "amount": 30825.47862143,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 30, 2024",
+    "amount": 31214.22955398,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 29, 2024",
+    "amount": 31331.80923205,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 28, 2024",
+    "amount": 31012.14503013,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 27, 2024",
+    "amount": 30773.62209579,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 26, 2024",
+    "amount": 30599.87066309,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 25, 2024",
+    "amount": 34034.73792109,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 24, 2024",
+    "amount": 34484.05017465,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 23, 2024",
+    "amount": 34273.60319467,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 22, 2024",
+    "amount": 33859.0703407,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 21, 2024",
+    "amount": 30482.0411781,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 20, 2024",
+    "amount": 30491.63426729,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 19, 2024",
+    "amount": 30537.54041771,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 18, 2024",
+    "amount": 30962.90043985,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 17, 2024",
+    "amount": 30643.11324597,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 16, 2024",
+    "amount": 31007.4342244,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 15, 2024",
+    "amount": 30410.82899861,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 14, 2024",
+    "amount": 30495.59969717,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 13, 2024",
+    "amount": 30403.64007961,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 12, 2024",
+    "amount": 29793.64715633,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 11, 2024",
+    "amount": 29855.02778567,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 10, 2024",
+    "amount": 30006.50429589,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 09, 2024",
+    "amount": 29897.74154076,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 08, 2024",
+    "amount": 30537.48330171,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 07, 2024",
+    "amount": 30579.47404537,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 06, 2024",
+    "amount": 31562.07281581,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 05, 2024",
+    "amount": 32019.316414,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 04, 2024",
+    "amount": 24826.77991516,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 03, 2024",
+    "amount": 24971.89012498,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 02, 2024",
+    "amount": 25731.25787948,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 01, 2024",
+    "amount": 26243.78243122,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 29, 2024",
+    "amount": 26637.61952112,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 28, 2024",
+    "amount": 26837.88221769,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 27, 2024",
+    "amount": 26723.45855988,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 26, 2024",
+    "amount": 26649.01574754,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 25, 2024",
+    "amount": 25973.57035029,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 24, 2024",
+    "amount": 25622.16299044,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 23, 2024",
+    "amount": 25324.66145531,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 22, 2024",
+    "amount": 25096.36798523,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 21, 2024",
+    "amount": 25465.9956756,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 20, 2024",
+    "amount": 25500.3917089,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 19, 2024",
+    "amount": 25921.28446919,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 18, 2024",
+    "amount": 25926.06851434,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 17, 2024",
+    "amount": 25925.41500068,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 16, 2024",
+    "amount": 25828.44558513,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 15, 2024",
+    "amount": 25601.85565212,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 14, 2024",
+    "amount": 25594.75547524,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 13, 2024",
+    "amount": 25714.41709284,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 12, 2024",
+    "amount": 25592.30850985,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 11, 2024",
+    "amount": 25520.24389483,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 10, 2024",
+    "amount": 25128.50733811,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 09, 2024",
+    "amount": 25157.77520054,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 08, 2024",
+    "amount": 25150.8347599,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 07, 2024",
+    "amount": 25249.43894363,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 06, 2024",
+    "amount": 25436.5065102,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 05, 2024",
+    "amount": 25761.88830788,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 04, 2024",
+    "amount": 25697.7321785,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 03, 2024",
+    "amount": 26035.90061717,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 02, 2024",
+    "amount": 25828.47505024,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 01, 2024",
+    "amount": 25804.95311795,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 31, 2024",
+    "amount": 25989.11542805,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 30, 2024",
+    "amount": 25813.84948609,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 29, 2024",
+    "amount": 25910.30120729,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 28, 2024",
+    "amount": 25658.24742328,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 27, 2024",
+    "amount": 25532.47314699,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 26, 2024",
+    "amount": 25541.21291906,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 25, 2024",
+    "amount": 25528.72891843,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 24, 2024",
+    "amount": 25553.53580114,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 23, 2024",
+    "amount": 25691.55938979,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 22, 2024",
+    "amount": 26301.04183296,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 21, 2024",
+    "amount": 26494.79809593,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 20, 2024",
+    "amount": 27150.17029829,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 19, 2024",
+    "amount": 27296.20339998,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 18, 2024",
+    "amount": 27231.97698213,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 17, 2024",
+    "amount": 27222.86627305,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 16, 2024",
+    "amount": 27295.46648088,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 15, 2024",
+    "amount": 27399.64309347,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 14, 2024",
+    "amount": 27185.15868457,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 13, 2024",
+    "amount": 26956.35585183,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 12, 2024",
+    "amount": 27080.4306035,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 11, 2024",
+    "amount": 27043.81786412,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 10, 2024",
+    "amount": 27282.2506702,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 09, 2024",
+    "amount": 27064.8084352,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 08, 2024",
+    "amount": 27176.46902744,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 07, 2024",
+    "amount": 27221.00108184,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 06, 2024",
+    "amount": 26702.17987359,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 05, 2024",
+    "amount": 26809.9091091,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 04, 2024",
+    "amount": 29000.11220837,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 03, 2024",
+    "amount": 26509.95425559,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 02, 2024",
+    "amount": 26872.7339835,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 01, 2024",
+    "amount": 26654.78181095,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 31, 2023",
+    "amount": 26738.99538343,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 30, 2023",
+    "amount": 26760.62659387,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 29, 2023",
+    "amount": 26481.64257404,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 28, 2023",
+    "amount": 23395.02730228,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 27, 2023",
+    "amount": 23289.3837324,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 26, 2023",
+    "amount": 23188.09408601,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 25, 2023",
+    "amount": 23184.26867097,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 24, 2023",
+    "amount": 23185.8568814,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 23, 2023",
+    "amount": 23438.27203323,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 22, 2023",
+    "amount": 23434.77941517,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 21, 2023",
+    "amount": 23449.0146724,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 20, 2023",
+    "amount": 23391.96342601,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 19, 2023",
+    "amount": 23277.3863545,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 18, 2023",
+    "amount": 23336.00129578,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 17, 2023",
+    "amount": 24356.75924026,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 16, 2023",
+    "amount": 24453.68520473,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 15, 2023",
+    "amount": 24041.68870501,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 14, 2023",
+    "amount": 23926.2167994,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 13, 2023",
+    "amount": 25762.94190374,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 12, 2023",
+    "amount": 25889.14211156,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 11, 2023",
+    "amount": 25696.75083918,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 10, 2023",
+    "amount": 25746.83198293,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 09, 2023",
+    "amount": 25589.39421615,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 08, 2023",
+    "amount": 23263.22950307,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 07, 2023",
+    "amount": 22504.80477931,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 06, 2023",
+    "amount": 22463.84292652,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 05, 2023",
+    "amount": 22373.02370059,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 04, 2023",
+    "amount": 22517.24691457,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 03, 2023",
+    "amount": 21952.09941727,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 02, 2023",
+    "amount": 21875.04412774,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 01, 2023",
+    "amount": 21924.80585295,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 30, 2023",
+    "amount": 21832.2798121,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 29, 2023",
+    "amount": 21833.8085966,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 28, 2023",
+    "amount": 25501.74840121,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 27, 2023",
+    "amount": 22012.08246208,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 26, 2023",
+    "amount": 21961.79599586,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 25, 2023",
+    "amount": 21967.88301151,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 24, 2023",
+    "amount": 22016.33147253,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 23, 2023",
+    "amount": 22014.35951283,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 22, 2023",
+    "amount": 21946.08412213,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 21, 2023",
+    "amount": 21981.55802408,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 20, 2023",
+    "amount": 22000.77342552,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 19, 2023",
+    "amount": 21982.12979032,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 18, 2023",
+    "amount": 21988.50339468,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 17, 2023",
+    "amount": 22011.00063013,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 16, 2023",
+    "amount": 22533.64602996,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 15, 2023",
+    "amount": 22271.55605813,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 14, 2023",
+    "amount": 21919.29215157,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 13, 2023",
+    "amount": 21961.43636728,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 12, 2023",
+    "amount": 22060.59706268,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 11, 2023",
+    "amount": 21957.4436136,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 10, 2023",
+    "amount": 22094.82948236,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 09, 2023",
+    "amount": 22301.31079743,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 08, 2023",
+    "amount": 22270.38814355,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 07, 2023",
+    "amount": 22114.59339789,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 06, 2023",
+    "amount": 22259.97840781,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 05, 2023",
+    "amount": 22025.70118357,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 04, 2023",
+    "amount": 21492.0801375,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 03, 2023",
+    "amount": 21429.03087678,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 02, 2023",
+    "amount": 21442.89681958,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 01, 2023",
+    "amount": 21677.54133138,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 31, 2023",
+    "amount": 22151.63799395,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 30, 2023",
+    "amount": 22318.25342299,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 29, 2023",
+    "amount": 22173.84020138,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 28, 2023",
+    "amount": 22162.22146354,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 27, 2023",
+    "amount": 21446.27311822,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 26, 2023",
+    "amount": 21461.73775113,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 25, 2023",
+    "amount": 21470.97929816,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 24, 2023",
+    "amount": 21403.55178162,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 23, 2023",
+    "amount": 21759.54222647,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 22, 2023",
+    "amount": 21708.54998511,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 21, 2023",
+    "amount": 21733.40070119,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 20, 2023",
+    "amount": 21694.52817718,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 19, 2023",
+    "amount": 21650.36921047,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 18, 2023",
+    "amount": 21627.5035045,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 17, 2023",
+    "amount": 21618.39125661,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 16, 2023",
+    "amount": 21575.22241101,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 15, 2023",
+    "amount": 21638.06754773,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 14, 2023",
+    "amount": 21563.91503703,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 13, 2023",
+    "amount": 21542.74380521,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 12, 2023",
+    "amount": 18224.38634604,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 11, 2023",
+    "amount": 18528.49093096,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 10, 2023",
+    "amount": 18264.58286879,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 09, 2023",
+    "amount": 17844.77612949,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 08, 2023",
+    "amount": 17820.39082176,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 07, 2023",
+    "amount": 18151.47088847,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 06, 2023",
+    "amount": 18194.83155361,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 05, 2023",
+    "amount": 19585.06421755,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 04, 2023",
+    "amount": 19271.65673318,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 03, 2023",
+    "amount": 18817.57369872,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 02, 2023",
+    "amount": 18901.94390697,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 01, 2023",
+    "amount": 18838.91579596,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 30, 2023",
+    "amount": 18874.37393649,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 29, 2023",
+    "amount": 17924.48991479,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 28, 2023",
+    "amount": 18381.40323082,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 27, 2023",
+    "amount": 19190.89357577,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 26, 2023",
+    "amount": 19248.20573677,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 25, 2023",
+    "amount": 19061.02375617,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 24, 2023",
+    "amount": 18898.43227339,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 23, 2023",
+    "amount": 19105.76482408,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 22, 2023",
+    "amount": 18738.68010137,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 21, 2023",
+    "amount": 18862.79807055,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 20, 2023",
+    "amount": 19089.57214456,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 19, 2023",
+    "amount": 19389.81337127,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 18, 2023",
+    "amount": 19222.47997541,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 17, 2023",
+    "amount": 19559.66824632,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 16, 2023",
+    "amount": 19531.7561986,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 15, 2023",
+    "amount": 19552.4873579,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 14, 2023",
+    "amount": 19578.37363168,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 13, 2023",
+    "amount": 19270.0745625,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 12, 2023",
+    "amount": 18746.32584284,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 11, 2023",
+    "amount": 18611.76925412,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 10, 2023",
+    "amount": 18550.66398931,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 09, 2023",
+    "amount": 18801.22455437,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 08, 2023",
+    "amount": 18897.11839047,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 07, 2023",
+    "amount": 19003.07593912,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 06, 2023",
+    "amount": 19995.56763503,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 05, 2023",
+    "amount": 20005.45160785,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 04, 2023",
+    "amount": 19845.1532915,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 03, 2023",
+    "amount": 19754.89409969,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 02, 2023",
+    "amount": 19712.87609141,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 01, 2023",
+    "amount": 21198.05101772,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 31, 2023",
+    "amount": 21400.32846239,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 30, 2023",
+    "amount": 21396.59975656,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 29, 2023",
+    "amount": 21200.9048533,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 28, 2023",
+    "amount": 20368.38882918,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 27, 2023",
+    "amount": 20298.39407861,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 26, 2023",
+    "amount": 20315.34177793,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 25, 2023",
+    "amount": 20331.59988961,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 24, 2023",
+    "amount": 21766.3681376,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 23, 2023",
+    "amount": 21705.40320934,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 22, 2023",
+    "amount": 19051.56653779,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 21, 2023",
+    "amount": 19038.15848511,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 20, 2023",
+    "amount": 19320.61087551,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 19, 2023",
+    "amount": 19314.7834505,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 18, 2023",
+    "amount": 22975.83127707,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 17, 2023",
+    "amount": 19211.17840918,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 16, 2023",
+    "amount": 19314.06627565,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 15, 2023",
+    "amount": 19197.18826646,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 14, 2023",
+    "amount": 19046.01456449,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 13, 2023",
+    "amount": 18529.94824897,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 12, 2023",
+    "amount": 19299.96717772,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 11, 2023",
+    "amount": 20197.02855135,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 10, 2023",
+    "amount": 21539.10746343,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 09, 2023",
+    "amount": 22659.94466871,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 08, 2023",
+    "amount": 20062.1331898,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 07, 2023",
+    "amount": 21007.8666012,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 06, 2023",
+    "amount": 21587.72817149,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 05, 2023",
+    "amount": 22646.44999659,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 04, 2023",
+    "amount": 18305.2514848,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 03, 2023",
+    "amount": 18323.90982014,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 02, 2023",
+    "amount": 20226.02141216,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 01, 2023",
+    "amount": 18449.17309224,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 31, 2023",
+    "amount": 18498.30459284,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 30, 2023",
+    "amount": 18531.13315011,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 29, 2023",
+    "amount": 20018.97863793,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 28, 2023",
+    "amount": 21379.41122452,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 27, 2023",
+    "amount": 22720.53746728,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 26, 2023",
+    "amount": 18894.46391153,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 25, 2023",
+    "amount": 15612.65371351,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 24, 2023",
+    "amount": 13871.1418516,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 23, 2023",
+    "amount": 14097.30845335,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 22, 2023",
+    "amount": 14259.11908613,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 21, 2023",
+    "amount": 14126.65783342,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 20, 2023",
+    "amount": 14218.98336547,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 19, 2023",
+    "amount": 14289.21852101,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 18, 2023",
+    "amount": 14454.39471106,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 17, 2023",
+    "amount": 14454.69545338,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 16, 2023",
+    "amount": 14453.07914938,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 15, 2023",
+    "amount": 14464.32617769,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 14, 2023",
+    "amount": 14506.41093907,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 13, 2023",
+    "amount": 14533.75260134,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 12, 2023",
+    "amount": 14521.02834515,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 11, 2023",
+    "amount": 14293.40614163,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 10, 2023",
+    "amount": 14283.90498141,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 09, 2023",
+    "amount": 14329.16287863,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 08, 2023",
+    "amount": 14413.58120536,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 07, 2023",
+    "amount": 14339.20361863,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 06, 2023",
+    "amount": 14430.87852281,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 05, 2023",
+    "amount": 14309.03504512,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 04, 2023",
+    "amount": 14262.48985667,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 03, 2023",
+    "amount": 14348.67845783,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 02, 2023",
+    "amount": 14348.03608653,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 01, 2023",
+    "amount": 14530.38117984,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 30, 2023",
+    "amount": 15409.98922539,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 29, 2023",
+    "amount": 15517.45044665,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 28, 2023",
+    "amount": 15627.77003805,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 27, 2023",
+    "amount": 15160.90269658,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 26, 2023",
+    "amount": 14953.48538334,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 25, 2023",
+    "amount": 14622.09802452,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 24, 2023",
+    "amount": 16017.99972807,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 23, 2023",
+    "amount": 16614.16781345,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 22, 2023",
+    "amount": 17967.86319685,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 21, 2023",
+    "amount": 26868.58396019,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 20, 2023",
+    "amount": 27476.19351585,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 19, 2023",
+    "amount": 28782.78463823,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 18, 2023",
+    "amount": 27534.73926183,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 17, 2023",
+    "amount": 27190.18460793,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 16, 2023",
+    "amount": 27288.04069678,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 15, 2023",
+    "amount": 24451.09918146,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 14, 2023",
+    "amount": 23127.28257898,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 13, 2023",
+    "amount": 22322.69537321,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 12, 2023",
+    "amount": 21650.29262459,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 11, 2023",
+    "amount": 16355.93850315,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 10, 2023",
+    "amount": 16127.26525001,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 09, 2023",
+    "amount": 14386.19734835,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 08, 2023",
+    "amount": 14030.35798247,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 07, 2023",
+    "amount": 14010.12502016,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 06, 2023",
+    "amount": 14021.05879593,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 05, 2023",
+    "amount": 13580.57675961,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 04, 2023",
+    "amount": 251205.97521721,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 03, 2023",
+    "amount": 364618.71538748,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 02, 2023",
+    "amount": 364667.69108625,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 01, 2023",
+    "amount": 364647.10567217,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 31, 2023",
+    "amount": 236396.12814291,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 30, 2023",
+    "amount": 166155.79838316,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 29, 2023",
+    "amount": 26241.01390014,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 28, 2023",
+    "amount": 15848.20310544,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 27, 2023",
+    "amount": 15832.51041542,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 26, 2023",
+    "amount": 15870.99790027,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 25, 2023",
+    "amount": 15804.05423455,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 24, 2023",
+    "amount": 16529.68617184,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 23, 2023",
+    "amount": 15575.76822316,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 22, 2023",
+    "amount": 15687.50086426,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 21, 2023",
+    "amount": 15175.09777747,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 20, 2023",
+    "amount": 15191.6965933,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 19, 2023",
+    "amount": 15199.53466409,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 18, 2023",
+    "amount": 16192.03854232,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 17, 2023",
+    "amount": 16158.97512837,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 16, 2023",
+    "amount": 16211.19969746,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 15, 2023",
+    "amount": 12889.47794816,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 14, 2023",
+    "amount": 12888.74305881,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 13, 2023",
+    "amount": 15290.05811233,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 12, 2023",
+    "amount": 12285.30860713,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 11, 2023",
+    "amount": 12072.35348897,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 10, 2023",
+    "amount": 11752.66680541,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 09, 2023",
+    "amount": 11711.27742381,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 08, 2023",
+    "amount": 11727.51373102,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 07, 2023",
+    "amount": 11474.80556318,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 06, 2023",
+    "amount": 11408.58783193,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 05, 2023",
+    "amount": 11483.36221117,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 04, 2023",
+    "amount": 11756.93691788,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 03, 2023",
+    "amount": 11849.95626636,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 02, 2023",
+    "amount": 11809.61671477,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 01, 2023",
+    "amount": 11820.9060773,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 30, 2023",
+    "amount": 11435.02941325,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 29, 2023",
+    "amount": 11345.41766518,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 28, 2023",
+    "amount": 11258.74810553,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 27, 2023",
+    "amount": 11512.5374016,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 26, 2023",
+    "amount": 11407.16929682,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 25, 2023",
+    "amount": 11236.78817225,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 24, 2023",
+    "amount": 11243.87777749,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 23, 2023",
+    "amount": 11166.48959743,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 22, 2023",
+    "amount": 10923.26653533,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 21, 2023",
+    "amount": 10805.88914221,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 20, 2023",
+    "amount": 10520.0298065,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 19, 2023",
+    "amount": 10282.74003805,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 18, 2023",
+    "amount": 10140.02330862,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 17, 2023",
+    "amount": 10068.68934729,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 16, 2023",
+    "amount": 10065.30600776,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 15, 2023",
+    "amount": 10009.52463381,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 14, 2023",
+    "amount": 9980.33230699,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 13, 2023",
+    "amount": 9964.53122678,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 12, 2023",
+    "amount": 10009.78956004,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 11, 2023",
+    "amount": 10017.8496198,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 10, 2023",
+    "amount": 10028.44977861,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 09, 2023",
+    "amount": 9922.21806796,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 08, 2023",
+    "amount": 9882.02259319,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 07, 2023",
+    "amount": 9875.73912935,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 06, 2023",
+    "amount": 9837.34986425,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 05, 2023",
+    "amount": 9839.8396148,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 04, 2023",
+    "amount": 9898.15935131,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 03, 2023",
+    "amount": 9871.81473726,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 02, 2023",
+    "amount": 9767.60013455,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "April 01, 2023",
+    "amount": 9775.39247317,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 31, 2023",
+    "amount": 9765.75991429,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 30, 2023",
+    "amount": 9686.11504133,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 29, 2023",
+    "amount": 9709.53825348,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 28, 2023",
+    "amount": 9672.5604578,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 27, 2023",
+    "amount": 9706.65015308,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 26, 2023",
+    "amount": 9676.21209723,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 25, 2023",
+    "amount": 9673.36175312,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 24, 2023",
+    "amount": 9684.12248584,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 23, 2023",
+    "amount": 9919.63922116,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 22, 2023",
+    "amount": 9930.96949918,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 21, 2023",
+    "amount": 10052.77384561,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 20, 2023",
+    "amount": 9973.03605805,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 19, 2023",
+    "amount": 10151.5987131,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 18, 2023",
+    "amount": 9898.31702153,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 17, 2023",
+    "amount": 9891.7079184,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 16, 2023",
+    "amount": 9882.04018112,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 15, 2023",
+    "amount": 9809.61218248,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 14, 2023",
+    "amount": 9905.92186427,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 13, 2023",
+    "amount": 10308.22468667,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 12, 2023",
+    "amount": 9947.0917157,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 11, 2023",
+    "amount": 9840.37814134,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 10, 2023",
+    "amount": 9719.49068652,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 09, 2023",
+    "amount": 9693.51949789,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 08, 2023",
+    "amount": 9681.76306715,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 07, 2023",
+    "amount": 9688.02041138,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 06, 2023",
+    "amount": 9648.06616777,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 05, 2023",
+    "amount": 9580.65087204,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 04, 2023",
+    "amount": 9656.66766687,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 03, 2023",
+    "amount": 9632.64525501,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 02, 2023",
+    "amount": 9543.80055724,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "March 01, 2023",
+    "amount": 9528.21810107,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 28, 2023",
+    "amount": 9928.95229081,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 27, 2023",
+    "amount": 10038.60097392,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 26, 2023",
+    "amount": 9985.36804732,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 25, 2023",
+    "amount": 10041.43160308,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 24, 2023",
+    "amount": 10055.37211099,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 23, 2023",
+    "amount": 12847.16539182,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 22, 2023",
+    "amount": 10062.81575498,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 21, 2023",
+    "amount": 10301.41855866,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 20, 2023",
+    "amount": 9781.32952247,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 19, 2023",
+    "amount": 9732.98468084,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 18, 2023",
+    "amount": 8934.20600776,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 17, 2023",
+    "amount": 8929.67872764,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 16, 2023",
+    "amount": 8923.89712616,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 15, 2023",
+    "amount": 10998.88686447,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 14, 2023",
+    "amount": 9017.59286852,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 13, 2023",
+    "amount": 9781.96518274,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 12, 2023",
+    "amount": 13863.35081465,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 11, 2023",
+    "amount": 9843.23850433,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 10, 2023",
+    "amount": 11268.55160125,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 09, 2023",
+    "amount": 11248.41163416,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 08, 2023",
+    "amount": 15972.2001792,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 07, 2023",
+    "amount": 16110.36091258,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 06, 2023",
+    "amount": 16025.06689053,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 05, 2023",
+    "amount": 16272.82950885,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 04, 2023",
+    "amount": 16271.56146121,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 03, 2023",
+    "amount": 16279.71169023,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 02, 2023",
+    "amount": 16244.44979407,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "February 01, 2023",
+    "amount": 9708.47965719,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 31, 2023",
+    "amount": 9569.38490852,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 30, 2023",
+    "amount": 9568.40369886,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 29, 2023",
+    "amount": 9776.01440421,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 28, 2023",
+    "amount": 11629.57675671,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 27, 2023",
+    "amount": 9731.90508732,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 26, 2023",
+    "amount": 10290.74485671,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 25, 2023",
+    "amount": 11807.68690417,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 24, 2023",
+    "amount": 11411.94628126,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 23, 2023",
+    "amount": 11334.07306317,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 22, 2023",
+    "amount": 7237.85037585,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 21, 2023",
+    "amount": 6245.37206857,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 20, 2023",
+    "amount": 5261.37513761,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 19, 2023",
+    "amount": 5121.22416877,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 18, 2023",
+    "amount": 5049.99177733,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 17, 2023",
+    "amount": 5022.67480829,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 16, 2023",
+    "amount": 4866.28083437,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 15, 2023",
+    "amount": 4810.15879524,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 14, 2023",
+    "amount": 4839.4588989,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 13, 2023",
+    "amount": 4808.53106359,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 12, 2023",
+    "amount": 4809.79750847,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 11, 2023",
+    "amount": 4748.04208538,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 10, 2023",
+    "amount": 4760.4107505,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 09, 2023",
+    "amount": 5255.32360878,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 08, 2023",
+    "amount": 5212.61220536,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 07, 2023",
+    "amount": 5222.93652953,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 06, 2023",
+    "amount": 5311.46761151,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 05, 2023",
+    "amount": 5255.2290327,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 04, 2023",
+    "amount": 5292.60346448,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 03, 2023",
+    "amount": 5332.76467613,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 02, 2023",
+    "amount": 5335.85979671,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "January 01, 2023",
+    "amount": 5178.15268209,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 31, 2022",
+    "amount": 5224.79732934,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 30, 2022",
+    "amount": 5286.80861406,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 29, 2022",
+    "amount": 5334.74035717,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 28, 2022",
+    "amount": 6163.33587351,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 27, 2022",
+    "amount": 55844.67328016,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 26, 2022",
+    "amount": 57683.51247511,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 25, 2022",
+    "amount": 56503.51915842,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 24, 2022",
+    "amount": 55742.3250869,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 23, 2022",
+    "amount": 53397.75478919,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 22, 2022",
+    "amount": 53516.32837012,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 21, 2022",
+    "amount": 53642.95837763,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 20, 2022",
+    "amount": 53621.68173261,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 19, 2022",
+    "amount": 53624.10300355,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 18, 2022",
+    "amount": 53580.47757517,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 17, 2022",
+    "amount": 53581.13055294,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 16, 2022",
+    "amount": 53591.04442035,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 15, 2022",
+    "amount": 53625.63682066,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 14, 2022",
+    "amount": 53810.14965627,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 13, 2022",
+    "amount": 53322.95152694,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 12, 2022",
+    "amount": 53127.20678033,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 11, 2022",
+    "amount": 53596.93720061,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 10, 2022",
+    "amount": 53614.58703306,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 09, 2022",
+    "amount": 53696.86745788,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 08, 2022",
+    "amount": 7932.1293201,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 07, 2022",
+    "amount": 5179.38232363,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 06, 2022",
+    "amount": 4963.38959523,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 05, 2022",
+    "amount": 5015.56152221,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 04, 2022",
+    "amount": 5048.66174376,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 03, 2022",
+    "amount": 5033.97737494,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 02, 2022",
+    "amount": 5136.73579733,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "December 01, 2022",
+    "amount": 5231.33054337,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 30, 2022",
+    "amount": 5222.34221582,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 29, 2022",
+    "amount": 5731.37653598,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 28, 2022",
+    "amount": 4741.35405218,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 27, 2022",
+    "amount": 4717.98529723,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 26, 2022",
+    "amount": 4715.43675369,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 25, 2022",
+    "amount": 4700.44013529,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 24, 2022",
+    "amount": 4648.73528793,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 23, 2022",
+    "amount": 4566.14732054,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 22, 2022",
+    "amount": 4543.65647428,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 21, 2022",
+    "amount": 4592.88386903,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 20, 2022",
+    "amount": 4591.59143565,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 19, 2022",
+    "amount": 4552.92005531,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 18, 2022",
+    "amount": 4712.93031961,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 17, 2022",
+    "amount": 4578.50697811,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 16, 2022",
+    "amount": 4645.31808943,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 15, 2022",
+    "amount": 4636.26320685,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 14, 2022",
+    "amount": 4533.27758253,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 13, 2022",
+    "amount": 4749.43301422,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 12, 2022",
+    "amount": 4731.93891553,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 11, 2022",
+    "amount": 4731.60899859,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 10, 2022",
+    "amount": 4866.52966214,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 09, 2022",
+    "amount": 4801.60368718,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 08, 2022",
+    "amount": 4954.77825947,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 07, 2022",
+    "amount": 4912.59189174,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 06, 2022",
+    "amount": 4732.64249208,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 05, 2022",
+    "amount": 7423.47921871,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 04, 2022",
+    "amount": 7361.85452394,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 03, 2022",
+    "amount": 7482.52449536,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 02, 2022",
+    "amount": 4474.07153641,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "November 01, 2022",
+    "amount": 4472.83127037,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 31, 2022",
+    "amount": 5529.63148721,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 30, 2022",
+    "amount": 5562.10068716,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 29, 2022",
+    "amount": 5522.33077164,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 28, 2022",
+    "amount": 6907.55901472,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 27, 2022",
+    "amount": 7334.6478525,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 26, 2022",
+    "amount": 6867.48856867,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 25, 2022",
+    "amount": 5925.78143107,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 24, 2022",
+    "amount": 6043.20587412,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 23, 2022",
+    "amount": 5676.89534001,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 22, 2022",
+    "amount": 4577.70825976,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 21, 2022",
+    "amount": 4539.36975096,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 20, 2022",
+    "amount": 8571.23780016,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 19, 2022",
+    "amount": 8551.75723773,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 18, 2022",
+    "amount": 8560.62018896,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 17, 2022",
+    "amount": 17278.71048048,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 16, 2022",
+    "amount": 17004.2034486,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 15, 2022",
+    "amount": 26924.49911064,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 14, 2022",
+    "amount": 28273.37177151,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 13, 2022",
+    "amount": 10785.48482363,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 12, 2022",
+    "amount": 9439.06684594,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 11, 2022",
+    "amount": 9492.4707885,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 10, 2022",
+    "amount": 9464.05816509,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 09, 2022",
+    "amount": 9465.69717825,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 08, 2022",
+    "amount": 9485.43035591,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 07, 2022",
+    "amount": 9478.48977854,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 06, 2022",
+    "amount": 9489.31380774,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 05, 2022",
+    "amount": 9564.92321136,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 04, 2022",
+    "amount": 9558.05841432,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 03, 2022",
+    "amount": 9482.92523853,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 02, 2022",
+    "amount": 9482.18166975,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "October 01, 2022",
+    "amount": 15459.91310191,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 30, 2022",
+    "amount": 5460.82232383,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 29, 2022",
+    "amount": 11470.1825234,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 28, 2022",
+    "amount": 17537.27791069,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 27, 2022",
+    "amount": 17812.22204225,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 26, 2022",
+    "amount": 17873.35980097,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 25, 2022",
+    "amount": 17473.14584734,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 24, 2022",
+    "amount": 17457.6804153,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 23, 2022",
+    "amount": 17466.77762994,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 22, 2022",
+    "amount": 17564.64710429,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 21, 2022",
+    "amount": 17546.92397054,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 20, 2022",
+    "amount": 17409.14857397,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 19, 2022",
+    "amount": 17442.87916481,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 18, 2022",
+    "amount": 17395.66385833,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 17, 2022",
+    "amount": 17370.26988888,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 16, 2022",
+    "amount": 17370.18584273,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 15, 2022",
+    "amount": 17363.10138099,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 14, 2022",
+    "amount": 16885.88090123,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 13, 2022",
+    "amount": 16887.62338953,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 12, 2022",
+    "amount": 16889.13802623,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 11, 2022",
+    "amount": 16939.53094384,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 10, 2022",
+    "amount": 10201.23873893,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 09, 2022",
+    "amount": 10118.39146374,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 08, 2022",
+    "amount": 10077.02023179,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 07, 2022",
+    "amount": 10079.95450303,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 06, 2022",
+    "amount": 10001.34273935,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 05, 2022",
+    "amount": 10001.61625528,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 04, 2022",
+    "amount": 9968.5570796,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 03, 2022",
+    "amount": 9971.04040483,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 02, 2022",
+    "amount": 14916.98581126,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "September 01, 2022",
+    "amount": 7017.19674224,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 31, 2022",
+    "amount": 7024.34871266,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 30, 2022",
+    "amount": 7017.4255049,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 29, 2022",
+    "amount": 13012.40947502,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 28, 2022",
+    "amount": 13004.43907188,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 27, 2022",
+    "amount": 13573.2868311,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 26, 2022",
+    "amount": 13563.15437379,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 25, 2022",
+    "amount": 4586.87488804,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 24, 2022",
+    "amount": 4596.59391772,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 23, 2022",
+    "amount": 4689.7174001,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 22, 2022",
+    "amount": 4477.72738546,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 21, 2022",
+    "amount": 4535.03851701,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 20, 2022",
+    "amount": 4586.21992355,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 19, 2022",
+    "amount": 4630.51011418,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 18, 2022",
+    "amount": 4805.92634785,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 17, 2022",
+    "amount": 4572.11872999,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 16, 2022",
+    "amount": 4558.19129819,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 15, 2022",
+    "amount": 4591.48881076,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 14, 2022",
+    "amount": 4593.05603587,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 13, 2022",
+    "amount": 4694.98164886,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 12, 2022",
+    "amount": 4939.40592519,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 11, 2022",
+    "amount": 4867.19581728,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 10, 2022",
+    "amount": 4363.77791761,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 09, 2022",
+    "amount": 4052.19883307,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 08, 2022",
+    "amount": 3226.2370705,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 07, 2022",
+    "amount": 5217.14091813,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 06, 2022",
+    "amount": 5200.74539741,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 05, 2022",
+    "amount": 5202.65461691,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 04, 2022",
+    "amount": 5366.92059063,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 03, 2022",
+    "amount": 5305.40480814,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 02, 2022",
+    "amount": 5376.42492284,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "August 01, 2022",
+    "amount": 5324.43384288,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 31, 2022",
+    "amount": 5287.99092752,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 30, 2022",
+    "amount": 5285.36868067,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 29, 2022",
+    "amount": 5288.53832709,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 28, 2022",
+    "amount": 5262.13856546,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 27, 2022",
+    "amount": 5284.54489624,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 26, 2022",
+    "amount": 5044.89245789,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 25, 2022",
+    "amount": 5027.26663466,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 24, 2022",
+    "amount": 5007.8913562,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 23, 2022",
+    "amount": 5000.71431123,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 22, 2022",
+    "amount": 4825.87736455,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 21, 2022",
+    "amount": 4804.83667706,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 20, 2022",
+    "amount": 4792.56927318,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 19, 2022",
+    "amount": 4800.07235226,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 18, 2022",
+    "amount": 4796.53242682,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 17, 2022",
+    "amount": 4793.57276676,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 16, 2022",
+    "amount": 4781.01952533,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 15, 2022",
+    "amount": 4802.02626334,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 14, 2022",
+    "amount": 4799.30558513,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 13, 2022",
+    "amount": 4790.59012777,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 12, 2022",
+    "amount": 4768.45548344,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 11, 2022",
+    "amount": 4763.9463047,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 10, 2022",
+    "amount": 4764.4102889,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 09, 2022",
+    "amount": 4764.4102889,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 08, 2022",
+    "amount": 4762.9370379,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 07, 2022",
+    "amount": 4746.32926141,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 06, 2022",
+    "amount": 4966.41303792,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 05, 2022",
+    "amount": 4744.5842225,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 04, 2022",
+    "amount": 4744.5044141,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 03, 2022",
+    "amount": 4132.66550177,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 02, 2022",
+    "amount": 4196.07786579,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "July 01, 2022",
+    "amount": 4190.54745455,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 30, 2022",
+    "amount": 4183.8665264,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 29, 2022",
+    "amount": 4180.47337483,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 28, 2022",
+    "amount": 4176.15704639,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 27, 2022",
+    "amount": 4164.66701276,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 26, 2022",
+    "amount": 5257.85651093,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 25, 2022",
+    "amount": 2758.88587831,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 24, 2022",
+    "amount": 2748.40270355,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 23, 2022",
+    "amount": 2750.8950025,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 22, 2022",
+    "amount": 2753.75244724,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 21, 2022",
+    "amount": 6501.65257464,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 20, 2022",
+    "amount": 2806.6856485,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 19, 2022",
+    "amount": 2698.15127134,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 18, 2022",
+    "amount": 1499.29346792,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 17, 2022",
+    "amount": 1519.20696702,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 16, 2022",
+    "amount": 1523.57349878,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 15, 2022",
+    "amount": 1534.38401448,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 14, 2022",
+    "amount": 1516.82148622,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 13, 2022",
+    "amount": 1395.30776029,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 12, 2022",
+    "amount": 1261.06970286,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 11, 2022",
+    "amount": 1256.698928,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 10, 2022",
+    "amount": 1236.97364291,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 09, 2022",
+    "amount": 1149.53104821,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 08, 2022",
+    "amount": 1151.35127918,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 07, 2022",
+    "amount": 1151.06250132,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 06, 2022",
+    "amount": 1158.69428548,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 05, 2022",
+    "amount": 1087.0195038,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 04, 2022",
+    "amount": 1084.45979297,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 03, 2022",
+    "amount": 1095.86914781,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 02, 2022",
+    "amount": 1058.96239163,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "June 01, 2022",
+    "amount": 992.15197487,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 31, 2022",
+    "amount": 1007.40953965,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 30, 2022",
+    "amount": 978.51355528,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 29, 2022",
+    "amount": 942.39771994,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 28, 2022",
+    "amount": 939.64812777,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 27, 2022",
+    "amount": 933.60522968,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 26, 2022",
+    "amount": 810.79041802,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 25, 2022",
+    "amount": 1211.83759054,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 24, 2022",
+    "amount": 1391.56198696,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 23, 2022",
+    "amount": 846.59223617,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 22, 2022",
+    "amount": 681.26994856,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 21, 2022",
+    "amount": 650.02210212,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  },
+  {
+    "date": "May 20, 2022",
+    "amount": 810.10603318,
+    "source": "https://www.mwebexplorer.com/charts/mwebbalance"
+  }
+]
 }

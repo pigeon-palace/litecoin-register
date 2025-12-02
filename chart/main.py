@@ -76,33 +76,16 @@ def update_js():
     with open('table.csv', 'r', newline='') as f:
         reader = csv.reader(f)
         table = list(reader)
-    with open('chart_template.js', 'r', newline='') as f:
-        js = f.read()
         
-    labels = "\", \"".join([x[0][0:10] for x in table[::7]])
+    dates = "\", \"".join([x[0][0:10] for x in table])
+    usddata = ", ".join([str(x[-1]) for x in table])
+    ltcdata = ", ".join([str(x[-2]) for x in table])
     
-    usddata = ", ".join([str(x[-1]) for x in table[::7]])
-    ltcdata = ", ".join([str(x[-2]) for x in table[::7]])
-    
-    js = re.sub(
-        r"labels: \[[^\]]*\],",
-        r'labels: ["' + labels + '"],',
-        js
-   )
+    js = 'var dates= ["' + dates + '"];\n'
+    js = js + 'var usddata = [' + usddata + '];\n'
+    js = js + 'var ltcdata = [' + ltcdata + '];\n'
    
-    js = re.sub(
-        r"usddata: \[[^\]]*\],",
-        r'data: [' + usddata + '],',
-        js
-   )
-   
-    js = re.sub(
-        r"ltcdata: \[[^\]]*\],",
-        r'data: [' + ltcdata + '],',
-        js
-   )
-   
-    with open('chart.js', 'w', newline='') as f:
+    with open('chart_data.js', 'w', newline='') as f:
         f.write(js)
     
 if __name__ == "__main__":
