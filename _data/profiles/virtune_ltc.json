@@ -8,8 +8,14 @@
     "description": "Virtune Litecoin ETP is a physically-backed exchange-traded product (ETP) designed to offer investors a secure and cost-effective way to gain exposure to Litecoin (LTC). This is made possible through a transparent and physically-backed structure with institutional-level security.",
     "type": "exchange-traded-product",
     "country": "Sweden",
-    "amount": 25893.62,
+    "amount": 25883.94,
     "events":  [
+        {
+            "amount": 25883.94,
+            "source": "https://www.virtune.com/en/product/litecoin",
+            "date": "December 6, 2025",
+            "approx": false
+        },
         {
             "amount": 25893.62,
             "source": "https://www.virtune.com/en/product/litecoin",

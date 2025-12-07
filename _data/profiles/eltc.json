@@ -8,11 +8,17 @@
     "description": "The Bitwise Physical Litecoin ETP is a fully backed exchange-traded product that seeks to provide investors with a robust and liquid instrument to gain exposure to the price performance of Litecoin. The ETP is designed to offer investors easy access, tradability, transparency, and institutional-grade custody within a physically backed structure.",
     "type": "exchange-traded-product",
     "country": "Germany",
-    "amount": 87033.34,
+    "amount": 88638.3495,
     "events":  [
         {
-            "amount": 87033.34,
-            "source": "https://bitwiseinvestments.eu/products/bitwise-physical-litecoin-etp/#",
+            "amount": 88638.3495,
+            "source": "https://bitwiseinvestments.eu/resources/proof-of-holdings/",
+            "date": "December 6, 2025",
+            "approx": false
+        },
+        {
+            "amount": 88638.3495,
+            "source": "https://bitwiseinvestments.eu/resources/proof-of-holdings/",
             "date": "November 29, 2025",
             "approx": false
         },
