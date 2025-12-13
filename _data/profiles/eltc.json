@@ -13,6 +13,12 @@
         {
             "amount": 88638.3495,
             "source": "https://bitwiseinvestments.eu/resources/proof-of-holdings/",
+            "date": "December 13, 2025",
+            "approx": false
+        },
+        {
+            "amount": 88638.3495,
+            "source": "https://bitwiseinvestments.eu/resources/proof-of-holdings/",
             "date": "December 6, 2025",
             "approx": false
         },
