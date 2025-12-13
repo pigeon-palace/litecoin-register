@@ -8,8 +8,14 @@
     "description": "Coinbase wrapped assets are tokens that are backed 1:1 and held by Coinbase. Wrapped assets, like cbBTC, cbXRP, cbDOGE, cbADA, and cbLTC are transferable tokens that represent ownership of the underlying asset). Wrapped assets are fully transferable, and Coinbase customers can unwrap and redeem a corresponding amount of the underlying asset simply by depositing the wrapped asset into their Coinbase accounts.",
     "type": "defi",
     "country": "United States",
-    "amount": 30862.02687458,
+    "amount": 38961.57917091,
     "events": [
+        {
+            "amount": 38961.57917091,
+            "source": "https://basescan.org/tokencheck-tool?t=0xcb17c9db87b595717c857a08468793f5bab6445f",
+            "date": "December 13, 2025",
+            "approx": false
+        },
         {
             "amount": 30862.02687458,
             "source": "https://basescan.org/tokencheck-tool?t=0xcb17c9db87b595717c857a08468793f5bab6445f",
