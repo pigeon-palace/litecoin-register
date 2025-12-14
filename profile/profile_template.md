@@ -43,7 +43,7 @@ chart_title = "{{ site.data.profiles[page.coin].name.name }} Holdings (LTC)";
 #### Historical Data
 <table id="main-table">
 <thead>
-<tr><th>Date</th><th>Amount</th><th>Source</th></tr>
+<tr><th>Date</th><th>Amount (LTC)</th><th>Source</th></tr>
 </thead>
 {% for event in site.data.profiles[page.coin].events  limit:10  %}
   <tr><td>{{ event.date }}</td><td class="ltc_amount">{{ event.amount }}</td><td style="

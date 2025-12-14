@@ -1,0 +1,989 @@
+{
+    "short": "LTC.LTC",
+    "name": {
+        "slug": "thorchain",
+        "name": "THORChain",
+        "homepage": "https://thorchain.org/"
+    },
+    "description": "THORChain facilitates native asset settlement between: Bitcoin, Ethereum, Dogecoin, Bitcoin Cash, Litecoin, Base, Ripple & more. THORChain is secured by RUNE which provides economic security and liquidity to the network. Anyone can use THORChain to swap native assets between any supported chains or deposit their assets to earn yield from swaps.",
+    "type": "defi",
+    "country": "#N/A",
+    "amount": 40496.16629774,
+    "events": [
+  {
+    "date": "December 15, 2025",
+    "amount": 40496.16629774,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "December 08, 2025",
+    "amount": 40641.74941435,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "December 01, 2025",
+    "amount": 40235.95298916,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "November 24, 2025",
+    "amount": 40076.89246839,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "November 17, 2025",
+    "amount": 40042.691195470004,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "November 10, 2025",
+    "amount": 40022.26418859,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "November 03, 2025",
+    "amount": 41129.71028875,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 27, 2025",
+    "amount": 41646.1201259,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 20, 2025",
+    "amount": 41572.19006429,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 13, 2025",
+    "amount": 41705.93804309,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 06, 2025",
+    "amount": 42240.003077500005,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 29, 2025",
+    "amount": 43012.44508696,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 22, 2025",
+    "amount": 43090.297857330006,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 15, 2025",
+    "amount": 43446.25517063,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 08, 2025",
+    "amount": 42771.847352740006,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 01, 2025",
+    "amount": 43052.12996394,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 25, 2025",
+    "amount": 43309.39294198,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 18, 2025",
+    "amount": 43499.50772767,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 11, 2025",
+    "amount": 43579.05895934,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 04, 2025",
+    "amount": 43754.50020415,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 28, 2025",
+    "amount": 44788.47901737,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 21, 2025",
+    "amount": 45889.472340160006,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 14, 2025",
+    "amount": 46922.98953872,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 07, 2025",
+    "amount": 46370.22677028,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 30, 2025",
+    "amount": 46863.32890028,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 23, 2025",
+    "amount": 46490.331359899996,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 16, 2025",
+    "amount": 47796.3706562,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 09, 2025",
+    "amount": 48533.989795839996,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 02, 2025",
+    "amount": 48935.42269902,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 26, 2025",
+    "amount": 49816.473307,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 19, 2025",
+    "amount": 48546.80996032,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 12, 2025",
+    "amount": 47788.27743367,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 05, 2025",
+    "amount": 45963.56279814,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 28, 2025",
+    "amount": 46447.352343110004,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 21, 2025",
+    "amount": 46450.42579365,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 14, 2025",
+    "amount": 45838.14218158,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 07, 2025",
+    "amount": 45889.895749970005,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "March 31, 2025",
+    "amount": 44716.90167162,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "March 24, 2025",
+    "amount": 45329.106623319996,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "March 17, 2025",
+    "amount": 44353.755769020005,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "March 10, 2025",
+    "amount": 44428.723957869996,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "March 03, 2025",
+    "amount": 42961.45847746,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "February 24, 2025",
+    "amount": 42828.24170025,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "February 17, 2025",
+    "amount": 42177.65518806,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "February 10, 2025",
+    "amount": 43474.757364200006,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "February 03, 2025",
+    "amount": 43783.31205423,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "January 27, 2025",
+    "amount": 49732.07505725,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "January 20, 2025",
+    "amount": 57394.95744516,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "January 13, 2025",
+    "amount": 69376.36664589,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "January 06, 2025",
+    "amount": 74830.26902179001,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "December 30, 2024",
+    "amount": 76678.896989,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "December 23, 2024",
+    "amount": 78607.09163183,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "December 16, 2024",
+    "amount": 79813.73069594,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "December 09, 2024",
+    "amount": 81049.76460547,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "December 02, 2024",
+    "amount": 79143.31370369,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "November 25, 2024",
+    "amount": 83275.44178091001,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "November 18, 2024",
+    "amount": 83398.18291843,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "November 11, 2024",
+    "amount": 86013.4116012,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "November 04, 2024",
+    "amount": 85580.62898276,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 28, 2024",
+    "amount": 84610.7324199,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 21, 2024",
+    "amount": 82942.32743984999,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 14, 2024",
+    "amount": 84553.72555604001,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 07, 2024",
+    "amount": 84254.9641562,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 30, 2024",
+    "amount": 85412.48583056999,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 23, 2024",
+    "amount": 82342.28505032,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 16, 2024",
+    "amount": 81207.84338866,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 09, 2024",
+    "amount": 79347.00009946,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 02, 2024",
+    "amount": 80102.34295071001,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 26, 2024",
+    "amount": 83193.94541330001,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 19, 2024",
+    "amount": 79828.54161334,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 12, 2024",
+    "amount": 77536.03479614001,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 05, 2024",
+    "amount": 80289.72450585,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 29, 2024",
+    "amount": 86124.20048656,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 22, 2024",
+    "amount": 88716.73552103,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 15, 2024",
+    "amount": 86578.3646222,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 08, 2024",
+    "amount": 86094.47061764,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 01, 2024",
+    "amount": 86474.76852838,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 24, 2024",
+    "amount": 91421.16783083,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 17, 2024",
+    "amount": 94708.51749246,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 10, 2024",
+    "amount": 96529.71928635001,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 03, 2024",
+    "amount": 97274.00108325,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 27, 2024",
+    "amount": 103764.22744354,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 20, 2024",
+    "amount": 105701.59376842,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 13, 2024",
+    "amount": 103378.92226704,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 06, 2024",
+    "amount": 98921.56649376001,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 29, 2024",
+    "amount": 101597.899504,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 22, 2024",
+    "amount": 103030.71033408999,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 15, 2024",
+    "amount": 98569.12805171,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 08, 2024",
+    "amount": 103493.13301234,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 01, 2024",
+    "amount": 104468.59400077,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "March 25, 2024",
+    "amount": 107605.52297754999,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "March 18, 2024",
+    "amount": 110454.18854937001,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "March 11, 2024",
+    "amount": 106674.01563682,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "March 04, 2024",
+    "amount": 94858.63928705,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "February 26, 2024",
+    "amount": 99704.17140882,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "February 19, 2024",
+    "amount": 97824.1044704,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "February 12, 2024",
+    "amount": 94463.0016031,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "February 05, 2024",
+    "amount": 91307.49498396,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "January 29, 2024",
+    "amount": 89807.65433667,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "January 22, 2024",
+    "amount": 87218.68397405,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "January 15, 2024",
+    "amount": 91188.74315543,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "January 08, 2024",
+    "amount": 89351.57126862,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "January 01, 2024",
+    "amount": 92163.95878041,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "December 25, 2023",
+    "amount": 97879.6381264,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "December 18, 2023",
+    "amount": 97483.16788535,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "December 11, 2023",
+    "amount": 101032.81389608,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "December 04, 2023",
+    "amount": 95909.36072665,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "November 27, 2023",
+    "amount": 81020.10796197,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "November 20, 2023",
+    "amount": 92118.17366422,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "November 13, 2023",
+    "amount": 62571.36305118,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "November 06, 2023",
+    "amount": 40543.96380859,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 30, 2023",
+    "amount": 35361.25634993,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 23, 2023",
+    "amount": 31845.26658228,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 16, 2023",
+    "amount": 31415.02463317,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 09, 2023",
+    "amount": 30561.46482866,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 02, 2023",
+    "amount": 32421.57112655,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 25, 2023",
+    "amount": 30473.318580929998,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 18, 2023",
+    "amount": 31621.804194670003,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 11, 2023",
+    "amount": 29804.852735170003,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 04, 2023",
+    "amount": 28272.78180347,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 28, 2023",
+    "amount": 27572.39668536,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 21, 2023",
+    "amount": 29618.32521204,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 14, 2023",
+    "amount": 24969.182944890003,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 07, 2023",
+    "amount": 22282.50301313,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 31, 2023",
+    "amount": 21499.6285144,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 24, 2023",
+    "amount": 21962.43110903,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 17, 2023",
+    "amount": 21763.34339637,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 10, 2023",
+    "amount": 21390.64580326,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 03, 2023",
+    "amount": 20687.37185422,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 26, 2023",
+    "amount": 21873.12261664,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 19, 2023",
+    "amount": 21537.50720239,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 12, 2023",
+    "amount": 22078.335010900002,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 05, 2023",
+    "amount": 22489.07341957,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 29, 2023",
+    "amount": 22573.04927713,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 22, 2023",
+    "amount": 22263.74127585,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 15, 2023",
+    "amount": 23600.331092660002,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 08, 2023",
+    "amount": 24213.13672851,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 01, 2023",
+    "amount": 24463.96927678,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 24, 2023",
+    "amount": 24976.030353920003,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 17, 2023",
+    "amount": 24967.923304930002,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 10, 2023",
+    "amount": 24718.19592803,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 03, 2023",
+    "amount": 23169.91284063,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "March 27, 2023",
+    "amount": 23089.29584338,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "March 20, 2023",
+    "amount": 22669.2859714,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "March 13, 2023",
+    "amount": 23080.0003769,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "March 06, 2023",
+    "amount": 24385.73729442,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "February 27, 2023",
+    "amount": 24382.4626447,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "February 20, 2023",
+    "amount": 24379.42324869,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "February 13, 2023",
+    "amount": 24379.52949972,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "February 06, 2023",
+    "amount": 23848.6866838,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "January 30, 2023",
+    "amount": 24192.72329324,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "January 23, 2023",
+    "amount": 23347.60677655,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "January 16, 2023",
+    "amount": 22384.2055877,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "January 09, 2023",
+    "amount": 20231.70427137,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "January 02, 2023",
+    "amount": 18765.02683383,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "December 26, 2022",
+    "amount": 18474.98080631,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "December 19, 2022",
+    "amount": 16618.810714069998,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "December 12, 2022",
+    "amount": 14843.39859023,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "December 05, 2022",
+    "amount": 14150.402262329999,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "November 28, 2022",
+    "amount": 12889.59989051,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "November 21, 2022",
+    "amount": 14326.87083216,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "November 14, 2022",
+    "amount": 13783.74124513,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "November 07, 2022",
+    "amount": 14955.81629886,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 31, 2022",
+    "amount": 16284.95130241,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 24, 2022",
+    "amount": 16561.16758096,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 17, 2022",
+    "amount": 16563.57770832,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 10, 2022",
+    "amount": 16804.62948002,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "October 03, 2022",
+    "amount": 16210.28964374,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 26, 2022",
+    "amount": 16608.98241383,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 19, 2022",
+    "amount": 16482.34923335,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 12, 2022",
+    "amount": 16569.48103632,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "September 05, 2022",
+    "amount": 16307.21511264,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 29, 2022",
+    "amount": 17295.81301132,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 22, 2022",
+    "amount": 17682.6355351,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 15, 2022",
+    "amount": 19176.40787595,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 08, 2022",
+    "amount": 19056.69799836,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "August 01, 2022",
+    "amount": 19042.6693336,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 25, 2022",
+    "amount": 19838.91864458,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 18, 2022",
+    "amount": 18478.8394823,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 11, 2022",
+    "amount": 19929.05920747,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "July 04, 2022",
+    "amount": 18330.92162884,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 27, 2022",
+    "amount": 18897.33793607,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 20, 2022",
+    "amount": 17122.94506582,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 13, 2022",
+    "amount": 20977.37732737,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "June 06, 2022",
+    "amount": 20512.38508485,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 30, 2022",
+    "amount": 18803.51285121,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 23, 2022",
+    "amount": 18524.77042926,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 16, 2022",
+    "amount": 19924.13824745,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 09, 2022",
+    "amount": 22554.42939159,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "May 02, 2022",
+    "amount": 22275.08198493,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 25, 2022",
+    "amount": 23024.08032904,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 18, 2022",
+    "amount": 21974.29278672,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 11, 2022",
+    "amount": 22591.01210199,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "April 04, 2022",
+    "amount": 21710.64390149,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  },
+  {
+    "date": "March 28, 2022",
+    "amount": 18956.66035116,
+    "source": "https://thorchain.net/pool/LTC.LTC"
+  }
+]
+}
