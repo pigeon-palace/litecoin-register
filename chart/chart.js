@@ -8,12 +8,12 @@ async function draw_chart() {
         data: {
             labels: dates,
             datasets: [{
-                label: 'Total Treasury & ETF Holdings (USD)',
+                label: 'Total Treasury, ETF & DeFi Holdings (USD)',
                 data: usddata,
                 borderWidth: 1,
                 yAxisID: 'y'
             }, {
-                label: 'Total Treasury & ETF Holdings (LTC)',
+                label: 'Total Treasury, ETF & DeFi Holdings (LTC)',
                 data: ltcdata,
                 borderWidth: 1,
                 yAxisID: 'y1'
@@ -33,7 +33,7 @@ async function draw_chart() {
                 },
                 title: {
                     display: true,
-                    text: "Total Treasury & ETF Holdings"
+                    text: "Total Treasury, ETF & DeFi Holdings"
                 }
             },
             scales: {

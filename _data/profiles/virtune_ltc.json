@@ -51,6 +51,18 @@
             "source": "https://www.virtune.com/en/product/litecoin",
             "date": "November 4, 2025",
             "approx": false
+        },
+        {
+            "amount": 11364.03,
+            "source": "https://www.virtune.com/en/product/litecoin",
+            "date": "July 18, 2025",
+            "approx": false
+        },
+        {
+            "amount": 5322.6,
+            "source": "https://www.virtune.com/en/product/litecoin",
+            "date": "April 26, 2025",
+            "approx": false
         }
     ]
 }
