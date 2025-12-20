@@ -8,8 +8,14 @@
     "description": "A secure way to get diversified exposure to bitcoin and leading cryptocurrencies. The Fund seeks to track an Index comprised of the 10 most highly valued cryptocurrencies, screened and monitored for certain risks, weighted by market capitalization, and rebalanced monthly. The fund provides the security and simplicity of a traditional investment vehicle, with shares tradable in brokerage accounts using ticker \"BITW.\"",
     "type": "exchange-traded-product",
     "country": "United States",
-    "amount": 35899.6056729,
+    "amount": 34249.2634153,
     "events":  [
+        {
+            "amount": 34249.2634153, 
+            "source": "https://bitwiseinvestments.com/crypto-funds/bitw", 
+            "date": "December 20, 2025",
+            "approx": false
+        },
         {
             "amount": 35899.6056729, 
             "source": "https://bitwiseinvestments.com/crypto-funds/bitw", 

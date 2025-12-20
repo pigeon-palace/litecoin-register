@@ -8,8 +8,14 @@
         "description": "Grayscale Litecoin Trust (the \"Trust\") is one of the first investment vehicles that enables investors to gain exposure to the token underlying the Litecoin platform (\"LTC\") in the form of a security while avoiding the challenges of buying, storing, and safekeeping LTC, directly.",
         "type": "publicly-traded-fund",
         "country": "United States",
-        "amount": 1996217.02831,
+        "amount": 1995260.28297,
         "events":  [
+            {
+                "amount": 1995260.28297,
+                "source": "https://www.grayscale.com/funds/grayscale-litecoin-trust",
+                "date": "December 20, 2025",
+                "approx": false
+            },
             {
                 "amount": 1996217.02831,
                 "source": "https://www.grayscale.com/funds/grayscale-litecoin-trust",
