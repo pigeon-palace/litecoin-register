@@ -13,6 +13,12 @@
         {
             "amount": 47333.83125555,
             "source": "https://basescan.org/tokencheck-tool?t=0xcb17c9db87b595717c857a08468793f5bab6445f",
+            "date": "December 22, 2025",
+            "approx": false
+        },
+        {
+            "amount": 47333.83125555,
+            "source": "https://basescan.org/tokencheck-tool?t=0xcb17c9db87b595717c857a08468793f5bab6445f",
             "date": "December 21, 2025",
             "approx": false
         },
