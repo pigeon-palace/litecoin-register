@@ -54,7 +54,9 @@ chart_title = "{{ site.data.profiles[page.coin].name.name }} Holdings (LTC)";
   ><a href="{{ event.source }}">{{ event.source }}</a></td></tr>
 {% endfor %}
 </table>
-
+<div>
+Download full holdings historical data: <a href="/chart/table.csv">table.csv</a>
+</div>
 
 
 <script>
