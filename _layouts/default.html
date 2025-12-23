@@ -42,13 +42,29 @@ Copyright 2025 litecoinregister.com Developers
       </nav>
       <h1>Litecoin Treasury & ETF Holdings</h1>
       <p style="max-width:50rem;">Companies, investment funds and other entities with public Litecoin holdings. <br> {% assign total = 0 %}{% assign count = 0 %} {% for coin in site.data.profiles %} {% assign total = total | plus: coin[1].events[0].amount  %} {% assign count = count | plus: 1  %} {% endfor %} Tracking <b>
-          <span><span class="ltc_amount">{{ total }}</span> LTC</b> (<span class="ltc_to_usd_amount" ltc_amount="{{ total }}">Loading...</span>)</span> across {{count}} entities.</p>
+          <span><span class="ltc_amount">{{ total }}</span> LTC</b> (<span class="ltc_to_usd_amount_compact" ltc_amount="{{ total }}">Loading...</span>)</span> across <b>{{count}}</b> entities.</p>
     </header>
     {{ content }}
     <footer>
       <div>
-        <span>1 LTC = <span class="ltc_to_usd_amount_exact" ltc_amount="1">1</span> (Powered by CoinGecko) </span>
-        <br> Last Update: 12/6/2025 <br> Copyright 2025 litecoinregister.com Developers
+        <span>1 LTC = <span class="ltc_to_usd_amount_exact footer_price" ltc_amount="1">1</span> (Powered by CoinGecko) </span>
+        <script>
+          const cache = sessionStorage.getItem("price");
+          const cache_date = sessionStorage.getItem("price_date");
+          const ONE_HOUR = 60 * 60 * 1000; /* ms */
+          if (cache != null && ((new Date()) - new Date(cache_date)) < ONE_HOUR){
+            myNumber = document.querySelectorAll('.footer_price');
+            myNumber.forEach((e) => {
+                const numericValue = parseFloat(e.getAttribute("ltc_amount")) * price;
+                const formattedValue = numericValue.toLocaleString();
+                e.textContent = '$' + formattedValue;
+            });
+          }
+        </script>
+        <br> Last Update: 12/6/2025 <br> Copyright 2025 litecoinregister.com Developers <br>
+        <a href="/about.html">Terms of Service</a>
+        <a href="/about.html">About</a>
+        <a href="https://github.com/pigeon-palace/litecoin-register">Source Code</a>
       </div>
     </footer>
   </body>

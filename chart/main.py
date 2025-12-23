@@ -8,7 +8,7 @@ import re
 data_path = "../_data/profiles"
 columns = {}
 HEADERS = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"}
-
+START_DATE = datetime.strptime('June 30, 2021', "%B %d, %Y")
 def load():
     dir_list = os.listdir(data_path)
     events = []
@@ -21,6 +21,8 @@ def load():
         columns[slug] = len(columns.keys())
         for event in data['events']:
             date = datetime.strptime(event['date'], "%B %d, %Y")
+            if date < START_DATE:
+                continue
             events.append((date, slug, event['amount']))
         
     events = sorted(events, key = lambda x : x[0])

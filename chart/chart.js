@@ -108,7 +108,6 @@ async function draw_chart() {
 
 function filterDate(initialDate){
     //first I cloned my dataset [labels (x) and data (y)] like this:
-    console.log(initialDate);
     if (initialDate == 0) {
         initialDate = new Date(dates[0]);
     }
@@ -118,13 +117,10 @@ function filterDate(initialDate){
     
     const formatter = new Intl.DateTimeFormat('en-US', { day: '2-digit', month: '2-digit', year: 'numeric' });
     
-    console.log(labelsData2);
-    console.log(initialDate.toISOString().split('T')[0]);
     labelsData2 = labelsData2.slice(dates.indexOf(initialDate.toISOString().split('T')[0]), dates.length);
     usddata2 = usddata2.slice(dates.indexOf(initialDate.toISOString().split('T')[0]), dates.length);
     ltcdata2 = ltcdata2.slice(dates.indexOf(initialDate.toISOString().split('T')[0]), dates.length);
 
-    console.log(labelsData2);
     
     //then I updated my chart!
     myChart.data.datasets[0].data = usddata2;

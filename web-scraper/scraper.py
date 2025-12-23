@@ -26,8 +26,7 @@ class Scraper():
         data['events'] = [{
             'amount': self.formatter(matched), 
             'source': self.url, 
-            'date': datetime.fromtimestamp(time.time()).strftime("%B %d, %Y"), 
-            'approx': False
+            'date': datetime.fromtimestamp(time.time()).strftime("%B %d, %Y")
         }] + data['events']
         with open(self.filename, 'w') as f:
             f.write(json.dumps(data, indent=4))

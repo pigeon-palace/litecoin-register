@@ -39,12 +39,17 @@ javascript_post_hook: table_inject.html
   </div>
 </div>
 </div>
-
-<table id="main-table">
+<div>
+    <b>Filter by type:</b>
+  <label><input checked="checked" name="table-filter" type="radio" value="all" />All</label> 
+  <label><input name="table-filter" type="radio" value="public-company" />Public Company</label> 
+  <label><input name="table-filter" type="radio" value="investment" />Investment Fund</label>
+  <label><input name="table-filter" type="radio" value="other" />Other</label>
+</div>
+<table id="dataTable">
 <thead>
     <tr>
         <th>#</th>
-        <th>Short</th>
         <th data-priority="1">Name</th>
         <th>Type</th>
         <th>Country</th>
@@ -53,6 +58,7 @@ javascript_post_hook: table_inject.html
     </tr>
 </thead>
     {% assign data = "" | split: ',' %}
+    {% assign total = 0 %}
     {% for coin in site.data.profiles %}
         {% assign data = data | push: coin[1] %}
     {% endfor %}
@@ -61,24 +67,31 @@ javascript_post_hook: table_inject.html
     {% for coin in dataSorted reversed %}
     <tr>
         <td>{{ rank }} {% assign rank = rank | plus:1 %}</td>
-        <td>{{ coin.short }}</td>
         <td><a href="profile/{{ coin.name.slug }}.html">{{ coin.name.name }}</a></td>
         <td>{{ coin.type }}</td>
         <td>{{ coin.country }}</td>
         <td class="ltc_amount">{{ coin.events[0].amount }}</td>
+        {% assign total = total | plus: coin.events[0].amount %}
         <td style="text-align:right"><span class="ltc_to_usd_amount_compact" ltc_amount="{{ coin.events[0].amount }}">Loading...</span></td>
     </tr>
     {% endfor %}
+    <tr>
+        <td></td>
+        <td><b>Total</b></td>
+        <td></td>
+        <td></td>
+        <td style="text-align:right"><b><span class="ltc_amount">{{ total }}</span></b></td>
+        <td style="text-align:right"><b><span class="ltc_to_usd_amount_compact" ltc_amount="{{ total }}">Loading...</span></b></td>
+    </tr>
 </table>
-
 
 <script src="/chart/chart_data.js"></script>
 <script src="/chart/chart.js"></script>
-<script src="/scripts/load_price.js"></script>
-<script src="/scripts/table_main.js?version=3"></script>
+<script src='/scripts/table_filter.js'></script>
 <script>
   var ct = new CollapseTable();
-  ct.set("main-table");
+  ct.set("dataTable");
 </script>
-
+<script src="/scripts/load_price.js"></script>
+<script src="/scripts/table_main.js?version=3"></script>
  
