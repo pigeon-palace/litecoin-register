@@ -48,6 +48,7 @@ function updateUSDValues() {
 async function load_price() {
     const cache = sessionStorage.getItem("price");
     const cache_date = sessionStorage.getItem("price_date");
+    console.log(cache);
     const FIVE_MINUTES = 5 * 60 * 1000; /* ms */
     if (cache == null || cache_date == null || ((new Date()) - new Date(cache_date)) > FIVE_MINUTES){
         console.log('fetching');
