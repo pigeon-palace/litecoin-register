@@ -25,7 +25,7 @@ javascript_post_hook: table_inject.html
 <div class="flex-item chart-wrapper">
     <div class="top-bar">
     <span class="title">
-      Total Treasury, ETF, & DeFi Value 
+      Litecoin Holdings Total Value
       </span>
       <span style="float:right">
           <a class="range" id="3M">3M</a>
