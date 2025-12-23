@@ -84,7 +84,6 @@ javascript_post_hook: table_inject.html
         <td style="text-align:right"><b><span class="ltc_to_usd_amount_compact" ltc_amount="{{ total }}">Loading...</span></b></td>
     </tr>
 </table>
-
 <script src="/chart/chart_data.js"></script>
 <script src="/chart/chart.js"></script>
 <script src='/scripts/table_filter.js'></script>

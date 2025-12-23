@@ -8,16 +8,18 @@ import re
 data_path = "../_data/profiles"
 columns = {}
 HEADERS = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"}
-START_DATE = datetime.strptime('June 30, 2021', "%B %d, %Y")
+START_DATE = datetime.strptime('January 1, 2020', "%B %d, %Y")
 def load():
     dir_list = os.listdir(data_path)
     events = []
+    slugs = []
     for file in dir_list:
 
         with open(data_path + '/' + file, 'r') as file:
             data = json.load(file)
         
         slug = data['name']['slug']
+        slugs.append(slug)
         columns[slug] = len(columns.keys())
         for event in data['events']:
             date = datetime.strptime(event['date'], "%B %d, %Y")
@@ -28,6 +30,7 @@ def load():
     events = sorted(events, key = lambda x : x[0])
     
     table = [
+        ['date'] + slugs,
         [events[0][0]] + [0 for i in range(len(columns.keys()))]
     ]     
 
@@ -44,7 +47,6 @@ def get_price():
     with open('price.csv', 'r', newline='') as f:
         reader = csv.reader(f)
         table = list(reader)
-        
     #price = requests.get("https://api.coingecko.com/api/v3/simple/price?vs_currencies=usd&ids=litecoin", headers=HEADERS).json()['litecoin']['usd']
     #table.append([datetime.now().strftime("%m/%d/%y"), price])
     
@@ -60,9 +62,14 @@ def get_price():
 def write_table():
     price_table = get_price()
     event_table = load()
-    i = 0 
-    out_table = []
-    for row in price_table:
+    i = 1 
+    j = 0
+    out_table = [['date', 'price'] + event_table[0][1:] + ['total_ltc', 'total_usd']]
+    while price_table[j][0] < START_DATE:
+        j += 1
+    while j < len(price_table) - 1:
+        row = price_table[j]
+        j += 1
         if i + 1 < len(event_table) and row[0] >= event_table[i+1][0]:
             i += 1
         row = list(row + event_table[i][1:])
@@ -77,8 +84,9 @@ def write_table():
 def update_js():
     with open('table.csv', 'r', newline='') as f:
         reader = csv.reader(f)
-        table = list(reader)
-        
+        table = list(reader)[1:]
+    
+    table = table[:-365:7] + table[-365:]
     dates = "\", \"".join([x[0][0:10] for x in table])
     usddata = ", ".join([str(x[-1]) for x in table])
     ltcdata = ", ".join([str(x[-2]) for x in table])

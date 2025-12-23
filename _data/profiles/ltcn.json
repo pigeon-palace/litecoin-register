@@ -13,104 +13,172 @@
             {
                 "amount": 1995260.28297,
                 "source": "https://www.grayscale.com/funds/grayscale-litecoin-trust",
-                "date": "December 20, 2025",
-                "approx": false
+                "date": "December 20, 2025"
             },
             {
                 "amount": 1996217.02831,
                 "source": "https://www.grayscale.com/funds/grayscale-litecoin-trust",
-                "date": "December 13, 2025",
-                "approx": false
+                "date": "December 13, 2025"
             },
             {
                 "amount": 1997174.50122,
                 "source": "https://www.grayscale.com/funds/grayscale-litecoin-trust",
-                "date": "December 6, 2025",
-                "approx": false
+                "date": "December 6, 2025"
             },
             {
                 "amount": 1998132.21665,
                 "source": "https://www.grayscale.com/funds/grayscale-litecoin-trust",
-                "date": "November 29, 2025",
-                "approx": false
+                "date": "November 29, 2025"
             },
             {
                 "amount": 1999090.41712,
                 "source": "https://www.grayscale.com/funds/grayscale-litecoin-trust",
-                "date": "November 22, 2025",
-                "approx": false
+                "date": "November 22, 2025"
             },
             {
                 "amount": 2000049.34515,
                 "source": "https://www.grayscale.com/funds/grayscale-litecoin-trust",
-                "date": "November 15, 2025",
-                "approx": false
+                "date": "November 15, 2025"
             },
             {
                 "amount": 2018906,
                 "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000173240625000005/ltcn-20250630.htm",
-                "date": "June 30, 2025",
-                "approx": false
+                "date": "June 30, 2025"
             },
             {
                 "amount": 2031529.11455509,
                 "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017025062759/ltcn-20250331.htm#fact-identifier-190",
-                "date": "March 31, 2025",
-                "approx": false
+                "date": "March 31, 2025"
             },
             {
                 "amount": 2028245.74484838,
                 "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017025014187/ltcn-20241231.htm",
-                "date": "December 31, 2024",
-                "approx": false
+                "date": "December 31, 2024"
+            },
+            {
+                "amount": 1895003.59784959,
+                "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017024120131/ltcn-20240930.htm",
+                "date": "September 30, 2024"
             },
             {
                 "amount": 1794013.32656083,
                 "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017024104236/ltcn-20240630.htm",
-                "date": "June 30, 2024",
-                "approx": false
+                "date": "June 30, 2024"
             },
             {
                 "amount": 1567843.87910112,
                 "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017024053014/ltcn-20240331.htm",
-                "date": "March 31, 2024",
-                "approx": false
+                "date": "March 31, 2024"
             },
             {
                 "amount": 1486811.07335384,
                 "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017024011970/ltcn-20231231.htm",
-                "date": "December 31, 2023",
-                "approx": false
+                "date": "December 31, 2023"
             },
             {
                 "amount": 1496209.92343961,
                 "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017023058542/ltcn-20230930.htm",
-                "date": "September 30, 2023",
-                "approx": false
+                "date": "September 30, 2023"
             },
             {
                 "amount": 1505668.18819118,
                 "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017024104236/ltcn-20240630.htm",
-                "date": "June 30, 2023",
-                "approx": false
+                "date": "June 30, 2023"
+            },
+            {
+                "amount": 1520175.97945,
+                "source": "https://web.archive.org/web/20230213131300/https://grayscale.com/products/grayscale-litecoin-trust/",
+                "date": "February 13, 2023"
+            },
+            {
+                "amount": 1531358.34626,
+                "source": "https://web.archive.org/web/20221027141148/https://grayscale.com/products/grayscale-litecoin-trust/",
+                "date": "October 27, 2022"
             },
             {
                 "amount": 1543785.68163914,
                 "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017024104236/ltcn-20240630.htm",
-                "date": "June 30, 2022",
-                "approx": false
+                "date": "June 30, 2022"
+            },
+            {
+                "amount": 1560797.48048,
+                "source": "https://web.archive.org/web/20220123094304/https://grayscale.com/products/grayscale-litecoin-trust/",
+                "date": "January 23, 2022"
+            },
+            {
+                "amount": 1568728.67513,
+                "source": "https://web.archive.org/web/20211109095200/https://grayscale.com/products/grayscale-litecoin-trust/",
+                "date": "November 8, 2021"
             },
             {
                 "amount": 1572924.94010839,
                 "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000156459021054763/ltcn-10q_20210930.htm",
-                "date": "September 30, 2021",
-                "approx": false
+                "date": "September 30, 2021"
             },
             {
                 "amount": 1546738.94132574,
                 "source": "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001732406/000095017024104236/ltcn-20240630.htm",
-                "date": "June 30, 2021",
-                "approx": false
+                "date": "June 30, 2021"
+            },
+            {
+                "amount": 1503620.1746,
+                "source": "https://web.archive.org/web/20210405012426/https://grayscale.co/litecoin-trust/",
+                "date": "April 02, 2021"
+            },
+            {
+                "amount": 1323399.92807,
+                "source": "https://web.archive.org/web/20210207175225/https://grayscale.co/litecoin-trust/",
+                "date": "February 05, 2021"
+            },
+            {
+                "amount": 974897.782782,
+                "source": "https://web.archive.org/web/20201221094603/https://grayscale.co/litecoin-trust/",
+                "date": "December 18, 2020"
+            },
+            {
+                "amount": 887009.036656,
+                "source": "https://web.archive.org/web/20201016212822/https://grayscale.co/litecoin-trust/",
+                "date": "December 04, 2020"
+            },
+            {
+                "amount": 817165.989,
+                "source": "https://web.archive.org/web/20201016212822/https://grayscale.co/litecoin-trust/",
+                "date": "November 20, 2020"
+            },
+            {
+                "amount": 624364.58128,
+                "source": "https://web.archive.org/web/20201016212822/https://grayscale.co/litecoin-trust/",
+                "date": "October 16, 2020"
+            },
+            {
+                "amount": 454465.063946,
+                "source": "https://web.archive.org/web/20200815072138/https://grayscale.co/litecoin-trust/",
+                "date": "September 17, 2020"
+            },
+            {
+                "amount": 235403.104896,
+                "source": "https://web.archive.org/web/20200815072138/https://grayscale.co/litecoin-trust/",
+                "date": "July 31, 2020"
+            },
+            {
+                "amount": 20521.429604,
+                "source": "https://web.archive.org/web/20200616101732/https://grayscale.co/litecoin-trust/",
+                "date": "May 31, 2020"
+            },
+            {
+                "amount": 10511.06719,
+                "source": "https://web.archive.org/web/20200405214305/https://grayscale.co/litecoin-trust/",
+                "date": "February 29, 2020"
+            },
+            {
+                "amount": 7740.294501,
+                "source": "https://web.archive.org/web/20191105134427/https://grayscale.co/litecoin-trust/",
+                "date": "June 30, 2019"
+            },
+            {
+                "amount": 6567.689968,
+                "source": "https://web.archive.org/web/20190703085048/https://grayscale.co/litecoin-trust/",
+                "date": "June 30, 2019"
             }
         ]
     }

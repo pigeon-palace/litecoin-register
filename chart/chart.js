@@ -117,9 +117,14 @@ function filterDate(initialDate){
     
     const formatter = new Intl.DateTimeFormat('en-US', { day: '2-digit', month: '2-digit', year: 'numeric' });
     
-    labelsData2 = labelsData2.slice(dates.indexOf(initialDate.toISOString().split('T')[0]), dates.length);
-    usddata2 = usddata2.slice(dates.indexOf(initialDate.toISOString().split('T')[0]), dates.length);
-    ltcdata2 = ltcdata2.slice(dates.indexOf(initialDate.toISOString().split('T')[0]), dates.length);
+    var index = dates.length -1;
+    while (new Date(dates[index]) > initialDate){
+        index -= 1;
+    }
+    
+    labelsData2 = labelsData2.slice(index, dates.length);
+    usddata2 = usddata2.slice(index, dates.length);
+    ltcdata2 = ltcdata2.slice(index, dates.length);
 
     
     //then I updated my chart!
