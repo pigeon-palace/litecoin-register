@@ -17,6 +17,9 @@ function toType(text){
     if(text == 'publicly-traded-fund'){
         return 'investment'
     }
+    if(text == 'sidechain'){
+        return 'other'
+    }
 }
 // Define the event handler function
 function handleSelection(event) {
