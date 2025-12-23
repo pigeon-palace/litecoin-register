@@ -13,12 +13,14 @@ async function draw_chart() {
                 label: 'Total Value (USD)',
                 data: usddata,
                 borderWidth: 1,
-                yAxisID: 'y'
+                yAxisID: 'y',
+                borderColor: 'rgb(75, 192, 75)'
             }, {
                 label: 'Total Value (LTC)',
                 data: ltcdata,
                 borderWidth: 1,
-                yAxisID: 'y1'
+                yAxisID: 'y1',
+                borderColor: 'rgb(54, 162, 235)'
             }]
         },
         options: {
