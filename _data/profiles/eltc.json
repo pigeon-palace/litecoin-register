@@ -93,6 +93,42 @@
             "source": "https://bitwiseinvestments.eu/products/bitwise-physical-litecoin-etp/#",
             "date": "May 21, 2025",
             "approx": false
+        },
+        {
+            "amount": 72123.39,
+            "source": "https://web.archive.org/web/20241223033909/https://etc-group.com/de/products/etc-group-physical-litecoin/",
+            "date": "December 23, 2024",
+            "approx": false
+        },
+        {
+            "amount": 67510.62,
+            "source": "https://web.archive.org/web/20240619164319/https://etc-group.com/de/products/etc-group-physical-litecoin/",
+            "date": "June 19, 2024",
+            "approx": false
+        },
+        {
+            "amount": 60006.1837133,
+            "source": "https://web.archive.org/web/20240204035808/https://etc-group.com/de/products/etc-group-physical-litecoin/",
+            "date": "February 2, 2024",
+            "approx": false
+        },
+        {
+            "amount": 57969.6574754,
+            "source": "https://web.archive.org/web/20230530102526/https://etc-group.com/de/products/ltcetc/",
+            "date": "May 29, 2023",
+            "approx": false
+        },
+        {
+            "amount": 79756,
+            "source": "https://web.archive.org/web/20230130203815/https://etc-group.com/de/products/ltcetc/",
+            "date": "January 27, 2023",
+            "approx": false
+        },
+        {
+            "amount": 63477.1520262,
+            "source": "https://web.archive.org/web/20220925041526/https://etc-group.com/de/products/ltcetc/",
+            "date": "September 22, 2022",
+            "approx": false
         }
     ]
 }
