@@ -15,11 +15,21 @@ class Scraper():
 
     def query(self):
         print("Requesting:", self.url)
-        response = requests.get(self.url, headers=HEADERS, timeout=(3, 5))
+        response = requests.get(self.url, headers=HEADERS)
+        if response.status_code != 200:
+            print("waiting 60 secs to retry...")
+            time.sleep(60)
+            response = requests.get(self.url, headers=HEADERS)
+            if response.status_code != 200:
+                print("aborting due to no connection")
+                return
         print("Parsing...")
         soup = BeautifulSoup(response.text, 'html.parser')
         print("Matching...")
         matched = re.search(self.regex, soup.text)
+        if not matched:
+            print("aborting due to no match found")
+            return
         with open(self.filename, "r") as f:
             data = json.load(f)
         data['amount'] = self.formatter(matched)

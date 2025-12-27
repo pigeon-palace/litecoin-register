@@ -6,6 +6,7 @@ import time
 import json
 from datetime import datetime
 import csv
+import os
 
 def api_call(address):
     time.sleep(0.5)
@@ -83,7 +84,7 @@ def run():
         'date': datetime.fromtimestamp(time.time()).strftime("%B %d, %Y")
     }] + data['events']
 
-    with open(filename, 'w+') as f:
+    with open('../_data/profiles/lealana.json', 'w+') as f:
         f.write(json.dumps(data, indent=4))
 
 run()
