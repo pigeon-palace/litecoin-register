@@ -2,14 +2,19 @@
     "short": "ELTC",
     "name": {
         "slug": "eltc",
-        "name": "Bitwise Physical Litecoin ETP", 
+        "name": "Bitwise Physical Litecoin ETP",
         "homepage": "https://bitwiseinvestments.eu/products/bitwise-physical-litecoin-etp/"
     },
     "description": "The Bitwise Physical Litecoin ETP is a fully backed exchange-traded product that seeks to provide investors with a robust and liquid instrument to gain exposure to the price performance of Litecoin. The ETP is designed to offer investors easy access, tradability, transparency, and institutional-grade custody within a physically backed structure.",
     "type": "exchange-traded-product",
     "country": "Germany",
-    "amount": 88638.3495,
-    "events":  [
+    "amount": 87018.89,
+    "events": [
+        {
+            "amount": 87018.89,
+            "source": "https://bitwiseinvestments.eu/products/bitwise-physical-litecoin-etp/#",
+            "date": "December 26, 2025"
+        },
         {
             "amount": 88638.3495,
             "source": "https://bitwiseinvestments.eu/resources/proof-of-holdings/",
@@ -45,7 +50,7 @@
             "source": "https://bitwiseinvestments.eu/resources/proof-of-holdings/",
             "date": "November 15, 2025",
             "approx": false
-        }, 
+        },
         {
             "amount": 87546.0936,
             "source": "https://bitwiseinvestments.eu/resources/proof-of-holdings/",
@@ -53,7 +58,7 @@
             "approx": false
         },
         {
-            "amount": 86018.40,
+            "amount": 86018.4,
             "source": "https://bitwiseinvestments.eu/products/bitwise-physical-litecoin-etp/#",
             "date": "November 12, 2025",
             "approx": false

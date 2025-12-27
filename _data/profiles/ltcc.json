@@ -1,104 +1,109 @@
 {
-        "short": "LTCC",
-        "name": {
-            "slug": "ltcc",
-            "name": "Canary Litecoin ETF", 
-            "homepage": "https://etfs.canary.capital/ltcc/"
+    "short": "LTCC",
+    "name": {
+        "slug": "ltcc",
+        "name": "Canary Litecoin ETF",
+        "homepage": "https://etfs.canary.capital/ltcc/"
+    },
+    "description": "The Trust\u2019s investment objective is to seek to provide exposure to the value of Litecoin (\"LTC\") held by the Trust, less the expenses of the Trust\u2019s operations and other liabilities. The Trust is a passive investment vehicle that does not seek to generate returns beyond tracking the price of LTC. In seeking to achieve its investment objective, the Trust will hold LTC.",
+    "type": "exchange-traded-product",
+    "country": "United States",
+    "amount": 90685.8349051,
+    "events": [
+        {
+            "amount": 90685.8349051,
+            "source": "https://canaryetfs.com/ltcc/#Holdings",
+            "date": "December 26, 2025"
         },
-    "description": "The Trust’s investment objective is to seek to provide exposure to the value of Litecoin (\"LTC\") held by the Trust, less the expenses of the Trust’s operations and other liabilities. The Trust is a passive investment vehicle that does not seek to generate returns beyond tracking the price of LTC. In seeking to achieve its investment objective, the Trust will hold LTC.",
-        "type": "exchange-traded-product",
-        "country": "United States",
-        "amount": 90695,
-        "events":  [
-            {
-                "amount": 90695,
-                "source": "https://etfs.canary.capital/ltcc/#Holdings",
-                "date": "December 20, 2025",
-                "approx": false
-            },
-            {
-                "amount": 90711.802436,
-                "source": "https://etfs.canary.capital/ltcc/#Holdings",
-                "date": "December 13, 2025",
-                "approx": false
-            },
-            {
-                "amount": 90728.325364,
-                "source": "https://etfs.canary.capital/ltcc/#Holdings",
-                "date": "December 6, 2025",
-                "approx": false
-            },
-            {
-                "amount": 90698.826169,
-                "source": "https://etfs.canary.capital/ltcc/#Holdings",
-                "date": "November 29, 2025",
-                "approx": false
-            },
-            {
-                "amount": 90705.908481,
-                "source": "https://etfs.canary.capital/ltcc/#Holdings",
-                "date": "November 27, 2025",
-                "approx": false
-            },
-            {
-                "amount": 85807.353200,
-                "source": "https://etfs.canary.capital/ltcc/#Holdings",
-                "date": "November 26, 2025",
-                "approx": false
-            },
-            {
-                "amount": 85811.820076,
-                "source": "https://etfs.canary.capital/ltcc/#Holdings",
-                "date": "November 21, 2025",
-                "approx": false
-            },
-            {
-                "amount": 85827.455855,
-                "source": "https://etfs.canary.capital/ltcc/#Holdings",
-                "date": "November 15, 2025",
-                "approx": false
-            },
-            {
-                "amount": 63764.179330,
-                "source": "https://etfs.canary.capital/ltcc/#Holdings",
-                "date": "November 13, 2025",
-                "approx": false
-            },
-            {
-                "amount": 56408.238423,
-                "source": "https://etfs.canary.capital/ltcc/#Holdings",
-                "date": "November 12, 2025",
-                "approx": false
-            },
-            {
-                "amount": 56410.663603,
-                "source": "https://etfs.canary.capital/ltcc/#Holdings",
-                "date": "November 7, 2025",
-                "approx": false
-            },
-            {
-                "amount": 36781.739416,
-                "source": "https://etfs.canary.capital/ltcc/#Holdings",
-                "date": "November 6, 2025",
-                "approx": false
-            },
-            {
-                "amount": 29449.996855,
-                "source": "https://etfs.canary.capital/ltcc/#Holdings",
-                "date": "November 4, 2025",
-                "approx": false
-            },
-            {
-                "amount": 26996.532040,
-                "source": "https://etfs.canary.capital/ltcc/#Holdings",
-                "date": "November 2, 2025",
-                "approx": false
-            },
-            {
-                "amount": 14726.694153,
-                "source": "https://etfs.canary.capital/ltcc/#Holdings",
-                "date": "October 29, 2025",
-                "approx": false
-            }
-        ]
-    }
+        {
+            "amount": 90695,
+            "source": "https://etfs.canary.capital/ltcc/#Holdings",
+            "date": "December 20, 2025",
+            "approx": false
+        },
+        {
+            "amount": 90711.802436,
+            "source": "https://etfs.canary.capital/ltcc/#Holdings",
+            "date": "December 13, 2025",
+            "approx": false
+        },
+        {
+            "amount": 90728.325364,
+            "source": "https://etfs.canary.capital/ltcc/#Holdings",
+            "date": "December 6, 2025",
+            "approx": false
+        },
+        {
+            "amount": 90698.826169,
+            "source": "https://etfs.canary.capital/ltcc/#Holdings",
+            "date": "November 29, 2025",
+            "approx": false
+        },
+        {
+            "amount": 90705.908481,
+            "source": "https://etfs.canary.capital/ltcc/#Holdings",
+            "date": "November 27, 2025",
+            "approx": false
+        },
+        {
+            "amount": 85807.3532,
+            "source": "https://etfs.canary.capital/ltcc/#Holdings",
+            "date": "November 26, 2025",
+            "approx": false
+        },
+        {
+            "amount": 85811.820076,
+            "source": "https://etfs.canary.capital/ltcc/#Holdings",
+            "date": "November 21, 2025",
+            "approx": false
+        },
+        {
+            "amount": 85827.455855,
+            "source": "https://etfs.canary.capital/ltcc/#Holdings",
+            "date": "November 15, 2025",
+            "approx": false
+        },
+        {
+            "amount": 63764.17933,
+            "source": "https://etfs.canary.capital/ltcc/#Holdings",
+            "date": "November 13, 2025",
+            "approx": false
+        },
+        {
+            "amount": 56408.238423,
+            "source": "https://etfs.canary.capital/ltcc/#Holdings",
+            "date": "November 12, 2025",
+            "approx": false
+        },
+        {
+            "amount": 56410.663603,
+            "source": "https://etfs.canary.capital/ltcc/#Holdings",
+            "date": "November 7, 2025",
+            "approx": false
+        },
+        {
+            "amount": 36781.739416,
+            "source": "https://etfs.canary.capital/ltcc/#Holdings",
+            "date": "November 6, 2025",
+            "approx": false
+        },
+        {
+            "amount": 29449.996855,
+            "source": "https://etfs.canary.capital/ltcc/#Holdings",
+            "date": "November 4, 2025",
+            "approx": false
+        },
+        {
+            "amount": 26996.53204,
+            "source": "https://etfs.canary.capital/ltcc/#Holdings",
+            "date": "November 2, 2025",
+            "approx": false
+        },
+        {
+            "amount": 14726.694153,
+            "source": "https://etfs.canary.capital/ltcc/#Holdings",
+            "date": "October 29, 2025",
+            "approx": false
+        }
+    ]
+}
