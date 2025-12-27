@@ -15,7 +15,7 @@ class Scraper():
 
     def query(self):
         print("Requesting:", self.url)
-        response = requests.get(self.url, headers=HEADERS)
+        response = requests.get(self.url, headers=HEADERS, timeout=(3, 5))
         print("Parsing...")
         soup = BeautifulSoup(response.text, 'html.parser')
         print("Matching...")
